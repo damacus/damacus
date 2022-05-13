@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on new and interesting projects
 - 📫 How to reach me: 🐦 @dan_webb
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I used to help run [Sous-Chefs](github.com/sous-chefs), now I just help make their CI system better.
+- ⚡ Fun fact: I used to help run [Sous-Chefs](https://github.com/sous-chefs), now I just help make their CI system better.
 
 
 
