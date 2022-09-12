@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/chrony @ 1.2.1](https://github.com/sous-chefs/chrony/releases/tag/1.2.1) (today)
+- [sous-chefs/samba @ 2.0.6](https://github.com/sous-chefs/samba/releases/tag/2.0.6) (today)
 - [sous-chefs/redisio @ 6.3.0](https://github.com/sous-chefs/redisio/releases/tag/6.3.0) (2 days ago)
 - [dwp/github-action-kitchen-terraform @ v2.0.1](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.1) (4 days ago)
 - [sous-chefs/nginx @ 12.1.0](https://github.com/sous-chefs/nginx/releases/tag/12.1.0) (1 week ago)
-- [sous-chefs/git @ 11.1.1](https://github.com/sous-chefs/git/releases/tag/11.1.1) (1 week ago)
-- [sous-chefs/grafana @ 10.0.4](https://github.com/sous-chefs/grafana/releases/tag/10.0.4) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
