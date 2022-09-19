@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/selinux @ 6.0.5](https://github.com/sous-chefs/selinux/releases/tag/6.0.5) (today)
-- [sous-chefs/firewall @ 6.1.0](https://github.com/sous-chefs/firewall/releases/tag/6.1.0) (3 days ago)
-- [dwp/github-action-kitchen-terraform @ v2.0.0](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.0) (5 days ago)
-- [sous-chefs/consul @ 5.4.0](https://github.com/sous-chefs/consul/releases/tag/5.4.0) (6 days ago)
-- [sous-chefs/chrony @ 1.2.1](https://github.com/sous-chefs/chrony/releases/tag/1.2.1) (6 days ago)
+- [sous-chefs/selinux @ 6.0.5](https://github.com/sous-chefs/selinux/releases/tag/6.0.5) (1 day ago)
+- [sous-chefs/firewall @ 6.1.0](https://github.com/sous-chefs/firewall/releases/tag/6.1.0) (4 days ago)
+- [dwp/github-action-kitchen-terraform @ v2.0.0](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.0) (6 days ago)
+- [sous-chefs/consul @ 5.4.0](https://github.com/sous-chefs/consul/releases/tag/5.4.0) (1 week ago)
+- [sous-chefs/chrony @ 1.2.1](https://github.com/sous-chefs/chrony/releases/tag/1.2.1) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (2 weeks ago)
-- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (3 weeks ago)
+- **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (3 weeks ago)
+- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (4 weeks ago)
 - **[ncipollo/release-action](https://github.com/ncipollo/release-action)** - An action which manages a github release (5 months ago)
 - **[lensapp/lens](https://github.com/lensapp/lens)** - Lens - The way the world runs Kubernetes (7 months ago)
 - **[ro31337/rubyisforfun](https://github.com/ro31337/rubyisforfun)** (7 months ago)
