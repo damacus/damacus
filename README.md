@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/selinux @ 6.0.5](https://github.com/sous-chefs/selinux/releases/tag/6.0.5) (1 day ago)
-- [sous-chefs/firewall @ 6.1.0](https://github.com/sous-chefs/firewall/releases/tag/6.1.0) (4 days ago)
-- [dwp/github-action-kitchen-terraform @ v2.0.0](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.0) (6 days ago)
+- [sous-chefs/selinux @ 6.0.5](https://github.com/sous-chefs/selinux/releases/tag/6.0.5) (2 days ago)
+- [sous-chefs/firewall @ 6.1.0](https://github.com/sous-chefs/firewall/releases/tag/6.1.0) (5 days ago)
+- [dwp/github-action-kitchen-terraform @ v2.0.0](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.0) (1 week ago)
 - [sous-chefs/consul @ 5.4.0](https://github.com/sous-chefs/consul/releases/tag/5.4.0) (1 week ago)
 - [sous-chefs/chrony @ 1.2.1](https://github.com/sous-chefs/chrony/releases/tag/1.2.1) (1 week ago)
 
