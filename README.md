@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [dwp/github-action-kitchen-terraform @ v2.0.1](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.1) (today)
 - [sous-chefs/rsyslog @ 9.2.0](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.0) (today)
 - [sous-chefs/pyenv @ 4.2.0](https://github.com/sous-chefs/pyenv/releases/tag/4.2.0) (1 day ago)
 - [sous-chefs/selinux @ 6.0.5](https://github.com/sous-chefs/selinux/releases/tag/6.0.5) (1 week ago)
 - [sous-chefs/firewall @ 6.1.0](https://github.com/sous-chefs/firewall/releases/tag/6.1.0) (1 week ago)
-- [dwp/github-action-kitchen-terraform @ v2.0.0](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.0) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
