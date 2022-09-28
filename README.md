@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [dwp/github-action-kitchen-terraform @ v2.0.1](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.1) (today)
-- [sous-chefs/rsyslog @ 9.2.0](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.0) (today)
-- [sous-chefs/pyenv @ 4.2.0](https://github.com/sous-chefs/pyenv/releases/tag/4.2.0) (1 day ago)
+- [dwp/github-action-kitchen-terraform @ v2.0.1](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.1) (1 day ago)
+- [sous-chefs/rsyslog @ 9.2.0](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.0) (1 day ago)
+- [sous-chefs/pyenv @ 4.2.0](https://github.com/sous-chefs/pyenv/releases/tag/4.2.0) (2 days ago)
 - [sous-chefs/selinux @ 6.0.5](https://github.com/sous-chefs/selinux/releases/tag/6.0.5) (1 week ago)
 - [sous-chefs/firewall @ 6.1.0](https://github.com/sous-chefs/firewall/releases/tag/6.1.0) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (4 weeks ago)
+- **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (1 month ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (1 month ago)
 - **[ncipollo/release-action](https://github.com/ncipollo/release-action)** - An action which manages a github release (5 months ago)
 - **[lensapp/lens](https://github.com/lensapp/lens)** - Lens - The way the world runs Kubernetes (7 months ago)
