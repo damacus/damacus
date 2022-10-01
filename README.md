@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/lvm @ 6.1.2](https://github.com/sous-chefs/lvm/releases/tag/6.1.2) (today)
-- [sous-chefs/selinux @ 6.0.6](https://github.com/sous-chefs/selinux/releases/tag/6.0.6) (2 days ago)
-- [dwp/github-action-kitchen-terraform @ v2.0.1](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.1) (3 days ago)
-- [sous-chefs/rsyslog @ 9.2.0](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.0) (3 days ago)
-- [sous-chefs/pyenv @ 4.2.0](https://github.com/sous-chefs/pyenv/releases/tag/4.2.0) (4 days ago)
+- [sous-chefs/lvm @ 6.1.2](https://github.com/sous-chefs/lvm/releases/tag/6.1.2) (1 day ago)
+- [sous-chefs/selinux @ 6.0.6](https://github.com/sous-chefs/selinux/releases/tag/6.0.6) (3 days ago)
+- [dwp/github-action-kitchen-terraform @ v2.0.1](https://github.com/dwp/github-action-kitchen-terraform/releases/tag/v2.0.1) (4 days ago)
+- [sous-chefs/rsyslog @ 9.2.0](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.0) (4 days ago)
+- [sous-chefs/pyenv @ 4.2.0](https://github.com/sous-chefs/pyenv/releases/tag/4.2.0) (5 days ago)
 
 #### ⭐ Recent Stars
 
@@ -26,7 +26,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (1 month ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (1 month ago)
 - **[ncipollo/release-action](https://github.com/ncipollo/release-action)** - An action which manages a github release (5 months ago)
-- **[lensapp/lens](https://github.com/lensapp/lens)** - Lens - The way the world runs Kubernetes (7 months ago)
+- **[lensapp/lens](https://github.com/lensapp/lens)** - Lens - The way the world runs Kubernetes (8 months ago)
 - **[ro31337/rubyisforfun](https://github.com/ro31337/rubyisforfun)** (8 months ago)
 
 #### 📄 Latest blog posts
