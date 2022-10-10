@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/docker @ 10.2.1](https://github.com/sous-chefs/docker/releases/tag/10.2.1) (3 days ago)
+- [sous-chefs/docker @ 10.2.2](https://github.com/sous-chefs/docker/releases/tag/10.2.2) (today)
 - [damacus/terraform-aws-s3-logs-bucket @ v0.2.0](https://github.com/damacus/terraform-aws-s3-logs-bucket/releases/tag/v0.2.0) (6 days ago)
 - [damacus/terraform-aws-sqs-with-dlq @ v1.0.2](https://github.com/damacus/terraform-aws-sqs-with-dlq/releases/tag/v1.0.2) (6 days ago)
 - [sous-chefs/lvm @ 6.1.2](https://github.com/sous-chefs/lvm/releases/tag/6.1.2) (1 week ago)
