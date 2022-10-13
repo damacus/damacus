@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/grafana @ 10.0.6](https://github.com/sous-chefs/grafana/releases/tag/10.0.6) (1 day ago)
+- [sous-chefs/grafana @ 10.1.0](https://github.com/sous-chefs/grafana/releases/tag/10.1.0) (today)
 - [sous-chefs/docker @ 10.2.2](https://github.com/sous-chefs/docker/releases/tag/10.2.2) (3 days ago)
 - [damacus/terraform-aws-s3-logs-bucket @ v0.2.0](https://github.com/damacus/terraform-aws-s3-logs-bucket/releases/tag/v0.2.0) (1 week ago)
 - [damacus/terraform-aws-sqs-with-dlq @ v1.0.2](https://github.com/damacus/terraform-aws-sqs-with-dlq/releases/tag/v1.0.2) (1 week ago)
