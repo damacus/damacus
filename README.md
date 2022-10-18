@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/terraform-module-github-repository @ v0.0.4](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.0.4) (today)
-- [sous-chefs/git @ 11.1.2](https://github.com/sous-chefs/git/releases/tag/11.1.2) (3 days ago)
-- [sous-chefs/grafana @ 10.1.0](https://github.com/sous-chefs/grafana/releases/tag/10.1.0) (4 days ago)
+- [damacus/terraform-module-github-repository @ v0.0.4](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.0.4) (1 day ago)
+- [sous-chefs/git @ 11.1.2](https://github.com/sous-chefs/git/releases/tag/11.1.2) (4 days ago)
+- [sous-chefs/grafana @ 10.1.0](https://github.com/sous-chefs/grafana/releases/tag/10.1.0) (5 days ago)
 - [sous-chefs/docker @ 10.2.2](https://github.com/sous-chefs/docker/releases/tag/10.2.2) (1 week ago)
-- [damacus/terraform-aws-s3-logs-bucket @ v0.2.0](https://github.com/damacus/terraform-aws-s3-logs-bucket/releases/tag/v0.2.0) (1 week ago)
+- [damacus/terraform-aws-s3-logs-bucket @ v0.2.0](https://github.com/damacus/terraform-aws-s3-logs-bucket/releases/tag/v0.2.0) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
