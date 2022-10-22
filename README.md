@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [actionshub/chef-install @ 2.0.4](https://github.com/actionshub/chef-install/releases/tag/2.0.4) (2 days ago)
-- [damacus/terraform-module-github-repository @ v0.0.4](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.0.4) (4 days ago)
+- [actionshub/chef-install @ 2.0.4](https://github.com/actionshub/chef-install/releases/tag/2.0.4) (3 days ago)
+- [damacus/terraform-module-github-repository @ v0.0.4](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.0.4) (5 days ago)
 - [sous-chefs/git @ 11.1.2](https://github.com/sous-chefs/git/releases/tag/11.1.2) (1 week ago)
 - [sous-chefs/grafana @ 10.1.0](https://github.com/sous-chefs/grafana/releases/tag/10.1.0) (1 week ago)
 - [damacus/terraform-aws-s3-logs-bucket @ v0.2.0](https://github.com/damacus/terraform-aws-s3-logs-bucket/releases/tag/v0.2.0) (2 weeks ago)
