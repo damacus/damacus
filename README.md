@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [actionshub/danger-rb @ v2.0.8](https://github.com/actionshub/danger-rb/releases/tag/v2.0.8) (today)
+- [sous-chefs/sc_vscode @ 2.0.1](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.1) (today)
 - [sous-chefs/selinux @ 6.0.7](https://github.com/sous-chefs/selinux/releases/tag/6.0.7) (1 day ago)
 - [sous-chefs/filesystem @ 4.0.1](https://github.com/sous-chefs/filesystem/releases/tag/4.0.1) (5 days ago)
 - [actionshub/chef-install @ 2.0.4](https://github.com/actionshub/chef-install/releases/tag/2.0.4) (2 weeks ago)
-- [damacus/terraform-module-github-repository @ v0.0.4](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.0.4) (2 weeks ago)
-- [sous-chefs/git @ 11.1.2](https://github.com/sous-chefs/git/releases/tag/11.1.2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
