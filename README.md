@@ -14,20 +14,20 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/filesystem @ 4.0.1](https://github.com/sous-chefs/filesystem/releases/tag/4.0.1) (4 days ago)
-- [actionshub/chef-install @ 2.0.4](https://github.com/actionshub/chef-install/releases/tag/2.0.4) (1 week ago)
+- [sous-chefs/selinux @ 6.0.7](https://github.com/sous-chefs/selinux/releases/tag/6.0.7) (1 day ago)
+- [sous-chefs/filesystem @ 4.0.1](https://github.com/sous-chefs/filesystem/releases/tag/4.0.1) (5 days ago)
+- [actionshub/chef-install @ 2.0.4](https://github.com/actionshub/chef-install/releases/tag/2.0.4) (2 weeks ago)
 - [damacus/terraform-module-github-repository @ v0.0.4](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.0.4) (2 weeks ago)
 - [sous-chefs/git @ 11.1.2](https://github.com/sous-chefs/git/releases/tag/11.1.2) (2 weeks ago)
-- [sous-chefs/grafana @ 10.1.0](https://github.com/sous-chefs/grafana/releases/tag/10.1.0) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 
+- **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (1 day ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (2 months ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (2 months ago)
 - **[ncipollo/release-action](https://github.com/ncipollo/release-action)** - An action which manages a github release (6 months ago)
 - **[lensapp/lens](https://github.com/lensapp/lens)** - Lens - The way the world runs Kubernetes (9 months ago)
-- **[ro31337/rubyisforfun](https://github.com/ro31337/rubyisforfun)** (9 months ago)
 
 #### 📄 Latest blog posts
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
