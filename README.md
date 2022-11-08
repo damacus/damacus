@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [actionshub/danger-rb @ v2.0.8](https://github.com/actionshub/danger-rb/releases/tag/v2.0.8) (5 days ago)
-- [sous-chefs/sc_vscode @ 2.0.1](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.1) (5 days ago)
-- [sous-chefs/selinux @ 6.0.7](https://github.com/sous-chefs/selinux/releases/tag/6.0.7) (6 days ago)
+- [actionshub/danger-rb @ v2.0.8](https://github.com/actionshub/danger-rb/releases/tag/v2.0.8) (6 days ago)
+- [sous-chefs/sc_vscode @ 2.0.1](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.1) (6 days ago)
+- [sous-chefs/selinux @ 6.0.7](https://github.com/sous-chefs/selinux/releases/tag/6.0.7) (1 week ago)
 - [sous-chefs/filesystem @ 4.0.1](https://github.com/sous-chefs/filesystem/releases/tag/4.0.1) (1 week ago)
 - [actionshub/chef-install @ 2.0.4](https://github.com/actionshub/chef-install/releases/tag/2.0.4) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 
-- **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (6 days ago)
+- **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (1 week ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (2 months ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (2 months ago)
 - **[ncipollo/release-action](https://github.com/ncipollo/release-action)** - An action which manages a github release (6 months ago)
