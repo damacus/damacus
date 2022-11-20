@@ -25,7 +25,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (2 weeks ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (2 months ago)
-- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (2 months ago)
+- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (3 months ago)
 - **[ncipollo/release-action](https://github.com/ncipollo/release-action)** - An action which manages a github release (7 months ago)
 - **[lensapp/lens](https://github.com/lensapp/lens)** - Lens - The way the world runs Kubernetes (9 months ago)
 
