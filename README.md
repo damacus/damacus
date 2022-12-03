@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/firewall @ 6.2.1](https://github.com/sous-chefs/firewall/releases/tag/6.2.1) (today)
-- [sous-chefs/grafana @ 10.2.0](https://github.com/sous-chefs/grafana/releases/tag/10.2.0) (1 day ago)
+- [sous-chefs/jenkins @ 9.5.3](https://github.com/sous-chefs/jenkins/releases/tag/9.5.3) (1 day ago)
+- [sous-chefs/firewall @ 6.2.1](https://github.com/sous-chefs/firewall/releases/tag/6.2.1) (1 day ago)
+- [sous-chefs/grafana @ 10.2.0](https://github.com/sous-chefs/grafana/releases/tag/10.2.0) (2 days ago)
 - [sous-chefs/etcd @ 9.1.0](https://github.com/sous-chefs/etcd/releases/tag/9.1.0) (3 weeks ago)
 - [actionshub/danger-rb @ v2.0.8](https://github.com/actionshub/danger-rb/releases/tag/v2.0.8) (1 month ago)
-- [sous-chefs/sc_vscode @ 2.0.1](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.1) (1 month ago)
 
 #### ⭐ Recent Stars
 
 
-- **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (today)
+- **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (1 day ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (1 month ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (3 months ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (3 months ago)
