@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/haproxy @ 12.2.4](https://github.com/sous-chefs/haproxy/releases/tag/12.2.4) (today)
 - [sous-chefs/mysql @ 11.0.6](https://github.com/sous-chefs/mysql/releases/tag/11.0.6) (1 day ago)
 - [sous-chefs/jenkins @ 9.5.3](https://github.com/sous-chefs/jenkins/releases/tag/9.5.3) (4 days ago)
 - [sous-chefs/firewall @ 6.2.1](https://github.com/sous-chefs/firewall/releases/tag/6.2.1) (4 days ago)
 - [sous-chefs/grafana @ 10.2.0](https://github.com/sous-chefs/grafana/releases/tag/10.2.0) (5 days ago)
-- [sous-chefs/etcd @ 9.1.0](https://github.com/sous-chefs/etcd/releases/tag/9.1.0) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
