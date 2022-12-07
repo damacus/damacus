@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/haproxy @ 12.2.4](https://github.com/sous-chefs/haproxy/releases/tag/12.2.4) (today)
-- [sous-chefs/mysql @ 11.0.6](https://github.com/sous-chefs/mysql/releases/tag/11.0.6) (1 day ago)
-- [sous-chefs/jenkins @ 9.5.3](https://github.com/sous-chefs/jenkins/releases/tag/9.5.3) (4 days ago)
-- [sous-chefs/firewall @ 6.2.1](https://github.com/sous-chefs/firewall/releases/tag/6.2.1) (4 days ago)
-- [sous-chefs/grafana @ 10.2.0](https://github.com/sous-chefs/grafana/releases/tag/10.2.0) (5 days ago)
+- [sous-chefs/ruby_build @ 2.3.1](https://github.com/sous-chefs/ruby_build/releases/tag/2.3.1) (1 day ago)
+- [sous-chefs/logrotate @ 3.0.10](https://github.com/sous-chefs/logrotate/releases/tag/3.0.10) (1 day ago)
+- [sous-chefs/redisio @ 6.3.1](https://github.com/sous-chefs/redisio/releases/tag/6.3.1) (1 day ago)
+- [sous-chefs/haproxy @ 12.2.4](https://github.com/sous-chefs/haproxy/releases/tag/12.2.4) (1 day ago)
+- [sous-chefs/mysql @ 11.0.6](https://github.com/sous-chefs/mysql/releases/tag/11.0.6) (2 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (4 days ago)
+- **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (5 days ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (1 month ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (3 months ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (3 months ago)
