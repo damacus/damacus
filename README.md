@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/ruby_rbenv @ 5.0.2](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.2) (today)
+- [sous-chefs/aws @ 9.0.3](https://github.com/sous-chefs/aws/releases/tag/9.0.3) (today)
+- [sous-chefs/openssh @ 2.10.4](https://github.com/sous-chefs/openssh/releases/tag/2.10.4) (today)
 - [sous-chefs/percona @ 3.2.1](https://github.com/sous-chefs/percona/releases/tag/3.2.1) (today)
 - [sous-chefs/git @ 11.1.3](https://github.com/sous-chefs/git/releases/tag/11.1.3) (today)
-- [sous-chefs/nodejs @ 10.1.1](https://github.com/sous-chefs/nodejs/releases/tag/10.1.1) (today)
-- [sous-chefs/apache2 @ 8.14.5](https://github.com/sous-chefs/apache2/releases/tag/8.14.5) (today)
-- [sous-chefs/java @ 11.1.1](https://github.com/sous-chefs/java/releases/tag/11.1.1) (today)
 
 #### ⭐ Recent Stars
 
