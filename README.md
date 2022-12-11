@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/erlang @ 8.1.5](https://github.com/sous-chefs/erlang/releases/tag/8.1.5) (1 day ago)
-- [sous-chefs/kafka @ 3.1.3](https://github.com/sous-chefs/kafka/releases/tag/3.1.3) (1 day ago)
-- [sous-chefs/line @ 4.5.3](https://github.com/sous-chefs/line/releases/tag/4.5.3) (1 day ago)
-- [sous-chefs/openvpn @ 7.0.2](https://github.com/sous-chefs/openvpn/releases/tag/7.0.2) (1 day ago)
-- [sous-chefs/firewall @ 6.2.3](https://github.com/sous-chefs/firewall/releases/tag/6.2.3) (2 days ago)
+- [sous-chefs/etcd @ 9.1.1](https://github.com/sous-chefs/etcd/releases/tag/9.1.1) (1 day ago)
+- [sous-chefs/grafana @ 10.2.1](https://github.com/sous-chefs/grafana/releases/tag/10.2.1) (1 day ago)
+- [sous-chefs/erlang @ 8.1.5](https://github.com/sous-chefs/erlang/releases/tag/8.1.5) (2 days ago)
+- [sous-chefs/kafka @ 3.1.3](https://github.com/sous-chefs/kafka/releases/tag/3.1.3) (2 days ago)
+- [sous-chefs/line @ 4.5.3](https://github.com/sous-chefs/line/releases/tag/4.5.3) (2 days ago)
 
 #### ⭐ Recent Stars
 
