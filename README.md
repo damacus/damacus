@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/fail2ban @ 7.0.5](https://github.com/sous-chefs/fail2ban/releases/tag/7.0.5) (1 day ago)
-- [sous-chefs/graphite @ 1.3.5](https://github.com/sous-chefs/graphite/releases/tag/1.3.5) (2 days ago)
-- [sous-chefs/iis @ 8.0.3](https://github.com/sous-chefs/iis/releases/tag/8.0.3) (2 days ago)
-- [sous-chefs/cron @ 7.0.5](https://github.com/sous-chefs/cron/releases/tag/7.0.5) (2 days ago)
-- [sous-chefs/sc-mongodb @ 5.1.2](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.2) (2 days ago)
+- [sous-chefs/sql_server @ 7.1.3](https://github.com/sous-chefs/sql_server/releases/tag/7.1.3) (today)
+- [sous-chefs/varnish @ 5.0.1](https://github.com/sous-chefs/varnish/releases/tag/5.0.1) (today)
+- [sous-chefs/lvm @ 6.1.3](https://github.com/sous-chefs/lvm/releases/tag/6.1.3) (today)
+- [sous-chefs/memcached @ 7.0.5](https://github.com/sous-chefs/memcached/releases/tag/7.0.5) (today)
+- [sous-chefs/mariadb @ 5.2.5](https://github.com/sous-chefs/mariadb/releases/tag/5.2.5) (today)
 
 #### ⭐ Recent Stars
 
