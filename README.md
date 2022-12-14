@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [actionshub/yamllint @ v1.1.0](https://github.com/actionshub/yamllint/releases/tag/v1.1.0) (today)
 - [sous-chefs/sql_server @ 7.1.3](https://github.com/sous-chefs/sql_server/releases/tag/7.1.3) (1 day ago)
 - [sous-chefs/varnish @ 5.0.1](https://github.com/sous-chefs/varnish/releases/tag/5.0.1) (1 day ago)
 - [sous-chefs/lvm @ 6.1.3](https://github.com/sous-chefs/lvm/releases/tag/6.1.3) (1 day ago)
 - [sous-chefs/memcached @ 7.0.5](https://github.com/sous-chefs/memcached/releases/tag/7.0.5) (1 day ago)
-- [sous-chefs/mariadb @ 5.2.5](https://github.com/sous-chefs/mariadb/releases/tag/5.2.5) (1 day ago)
 
 #### ⭐ Recent Stars
 
