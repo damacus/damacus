@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/rsyslog @ 9.2.1](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.1) (today)
-- [sous-chefs/homebrew @ 5.3.2](https://github.com/sous-chefs/homebrew/releases/tag/5.3.2) (today)
-- [sous-chefs/nagios @ 11.1.1](https://github.com/sous-chefs/nagios/releases/tag/11.1.1) (today)
-- [actionshub/yamllint @ v1.1.1](https://github.com/actionshub/yamllint/releases/tag/v1.1.1) (1 day ago)
-- [sous-chefs/sql_server @ 7.1.3](https://github.com/sous-chefs/sql_server/releases/tag/7.1.3) (2 days ago)
+- [sous-chefs/kubernetes @ 2.0.3](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.3) (today)
+- [sous-chefs/confluence @ 2.6.4](https://github.com/sous-chefs/confluence/releases/tag/2.6.4) (today)
+- [sous-chefs/vim @ 2.1.5](https://github.com/sous-chefs/vim/releases/tag/2.1.5) (today)
+- [actionshub/markdownlint @ v2.1.0](https://github.com/actionshub/markdownlint/releases/tag/v2.1.0) (today)
+- [sous-chefs/openldap @ 6.0.5](https://github.com/sous-chefs/openldap/releases/tag/6.0.5) (today)
 
 #### ⭐ Recent Stars
 
