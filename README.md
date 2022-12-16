@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/kubernetes @ 2.0.3](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.3) (today)
-- [sous-chefs/confluence @ 2.6.4](https://github.com/sous-chefs/confluence/releases/tag/2.6.4) (today)
-- [sous-chefs/vim @ 2.1.5](https://github.com/sous-chefs/vim/releases/tag/2.1.5) (today)
-- [actionshub/markdownlint @ v2.1.0](https://github.com/actionshub/markdownlint/releases/tag/v2.1.0) (today)
-- [sous-chefs/openldap @ 6.0.5](https://github.com/sous-chefs/openldap/releases/tag/6.0.5) (today)
+- [actionshub/markdownlint @ V2.1.1](https://github.com/actionshub/markdownlint/releases/tag/V2.1.1) (1 day ago)
+- [sous-chefs/kubernetes @ 2.0.3](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.3) (1 day ago)
+- [sous-chefs/confluence @ 2.6.4](https://github.com/sous-chefs/confluence/releases/tag/2.6.4) (1 day ago)
+- [sous-chefs/vim @ 2.1.5](https://github.com/sous-chefs/vim/releases/tag/2.1.5) (1 day ago)
+- [sous-chefs/openldap @ 6.0.5](https://github.com/sous-chefs/openldap/releases/tag/6.0.5) (1 day ago)
 
 #### ⭐ Recent Stars
 
 
-- **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (1 week ago)
+- **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (2 weeks ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (1 month ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (3 months ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (3 months ago)
