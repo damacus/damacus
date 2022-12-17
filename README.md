@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [actionshub/markdownlint @ V2.1.1](https://github.com/actionshub/markdownlint/releases/tag/V2.1.1) (2 days ago)
+- [actionshub/markdownlint @ v2.1.2](https://github.com/actionshub/markdownlint/releases/tag/v2.1.2) (today)
 - [sous-chefs/kubernetes @ 2.0.3](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.3) (2 days ago)
 - [sous-chefs/confluence @ 2.6.4](https://github.com/sous-chefs/confluence/releases/tag/2.6.4) (2 days ago)
 - [sous-chefs/vim @ 2.1.5](https://github.com/sous-chefs/vim/releases/tag/2.1.5) (2 days ago)
