@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-dokken @ v2.17.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.17.4) (today)
-- [actionshub/markdownlint @ v2.1.2](https://github.com/actionshub/markdownlint/releases/tag/v2.1.2) (3 days ago)
-- [sous-chefs/kubernetes @ 2.0.3](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.3) (5 days ago)
-- [sous-chefs/confluence @ 2.6.4](https://github.com/sous-chefs/confluence/releases/tag/2.6.4) (5 days ago)
-- [sous-chefs/vim @ 2.1.5](https://github.com/sous-chefs/vim/releases/tag/2.1.5) (5 days ago)
+- [test-kitchen/kitchen-dokken @ v2.17.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.17.4) (1 day ago)
+- [actionshub/markdownlint @ v2.1.2](https://github.com/actionshub/markdownlint/releases/tag/v2.1.2) (4 days ago)
+- [sous-chefs/kubernetes @ 2.0.3](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.3) (6 days ago)
+- [sous-chefs/confluence @ 2.6.4](https://github.com/sous-chefs/confluence/releases/tag/2.6.4) (6 days ago)
+- [sous-chefs/vim @ 2.1.5](https://github.com/sous-chefs/vim/releases/tag/2.1.5) (6 days ago)
 
 #### ⭐ Recent Stars
 
