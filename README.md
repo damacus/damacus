@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/mysql @ 11.0.7](https://github.com/sous-chefs/mysql/releases/tag/11.0.7) (today)
-- [test-kitchen/kitchen-dokken @ v2.17.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.17.4) (1 day ago)
-- [actionshub/markdownlint @ v2.1.2](https://github.com/actionshub/markdownlint/releases/tag/v2.1.2) (4 days ago)
-- [sous-chefs/kubernetes @ 2.0.3](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.3) (6 days ago)
-- [sous-chefs/confluence @ 2.6.4](https://github.com/sous-chefs/confluence/releases/tag/2.6.4) (6 days ago)
+- [sous-chefs/mysql @ 11.0.7](https://github.com/sous-chefs/mysql/releases/tag/11.0.7) (1 day ago)
+- [test-kitchen/kitchen-dokken @ v2.17.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.17.4) (2 days ago)
+- [actionshub/markdownlint @ v2.1.2](https://github.com/actionshub/markdownlint/releases/tag/v2.1.2) (5 days ago)
+- [sous-chefs/kubernetes @ 2.0.3](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.3) (1 week ago)
+- [sous-chefs/confluence @ 2.6.4](https://github.com/sous-chefs/confluence/releases/tag/2.6.4) (1 week ago)
 
 #### ⭐ Recent Stars
 
