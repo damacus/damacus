@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/mysql @ 11.0.7](https://github.com/sous-chefs/mysql/releases/tag/11.0.7) (5 days ago)
-- [test-kitchen/kitchen-dokken @ v2.17.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.17.4) (6 days ago)
+- [sous-chefs/mysql @ 11.0.7](https://github.com/sous-chefs/mysql/releases/tag/11.0.7) (6 days ago)
+- [test-kitchen/kitchen-dokken @ v2.17.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.17.4) (1 week ago)
 - [actionshub/markdownlint @ v2.1.2](https://github.com/actionshub/markdownlint/releases/tag/v2.1.2) (1 week ago)
 - [sous-chefs/kubernetes @ 2.0.3](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.3) (1 week ago)
 - [sous-chefs/confluence @ 2.6.4](https://github.com/sous-chefs/confluence/releases/tag/2.6.4) (1 week ago)
@@ -25,7 +25,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (3 weeks ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (1 month ago)
-- **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (3 months ago)
+- **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (4 months ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (4 months ago)
 - **[ncipollo/release-action](https://github.com/ncipollo/release-action)** - An action which manages a github release (8 months ago)
 
