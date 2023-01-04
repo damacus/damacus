@@ -15,7 +15,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 
 - [test-kitchen/kitchen-dokken @ v2.18.0](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.18.0) (1 week ago)
-- [sous-chefs/mysql @ 11.0.7](https://github.com/sous-chefs/mysql/releases/tag/11.0.7) (1 week ago)
+- [sous-chefs/mysql @ 11.0.7](https://github.com/sous-chefs/mysql/releases/tag/11.0.7) (2 weeks ago)
 - [actionshub/markdownlint @ v2.1.2](https://github.com/actionshub/markdownlint/releases/tag/v2.1.2) (2 weeks ago)
 - [sous-chefs/kubernetes @ 2.0.3](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.3) (2 weeks ago)
 - [sous-chefs/confluence @ 2.6.4](https://github.com/sous-chefs/confluence/releases/tag/2.6.4) (2 weeks ago)
