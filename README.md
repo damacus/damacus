@@ -23,11 +23,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
+- **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (1 day ago)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (1 month ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (2 months ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (4 months ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (4 months ago)
-- **[ncipollo/release-action](https://github.com/ncipollo/release-action)** - An action which manages a github release (8 months ago)
 
 #### 📄 Latest blog posts
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
