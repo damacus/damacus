@@ -14,20 +14,20 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/selinux @ 6.1.0](https://github.com/sous-chefs/selinux/releases/tag/6.1.0) (today)
-- [actionshub/yamllint @ v1.1.2](https://github.com/actionshub/yamllint/releases/tag/v1.1.2) (2 days ago)
-- [sous-chefs/ossec @ 2.0.0](https://github.com/sous-chefs/ossec/releases/tag/2.0.0) (6 days ago)
+- [sous-chefs/selinux @ 6.1.0](https://github.com/sous-chefs/selinux/releases/tag/6.1.0) (1 day ago)
+- [actionshub/yamllint @ v1.1.2](https://github.com/actionshub/yamllint/releases/tag/v1.1.2) (3 days ago)
+- [sous-chefs/ossec @ 2.0.0](https://github.com/sous-chefs/ossec/releases/tag/2.0.0) (1 week ago)
 - [sous-chefs/powershell @ 6.3.0](https://github.com/sous-chefs/powershell/releases/tag/6.3.0) (1 week ago)
 - [test-kitchen/kitchen-dokken @ v2.18.0](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.18.0) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 
-- **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (1 week ago)
+- **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (2 weeks ago)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (1 month ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (2 months ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (4 months ago)
-- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (4 months ago)
+- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (5 months ago)
 
 #### 📄 Latest blog posts
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
