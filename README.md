@@ -5,16 +5,16 @@
 I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 👨‍💻 Repositories I created recently
+- **[damacus/homebrew-brewfile](https://github.com/damacus/homebrew-brewfile)** - Brewfiles
 - **[damacus/charts](https://github.com/damacus/charts)** - Terraform Module to Request a certificate from Cert Manager
 - **[damacus/ee-hello-kube](https://github.com/damacus/ee-hello-kube)** - An over the top hello world with Kube
 - **[damacus/terraform-module-github-repository](https://github.com/damacus/terraform-module-github-repository)** - Terraform Module for managing defaults on GitHub Repositories
 - **[damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action)** - GitHub Action to check if the metadata in a cookbook is correct
-- **[damacus/knife-lambda](https://github.com/damacus/knife-lambda)** - Chef Infra Knife in a container designed for running in AWS Lambda
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/selinux @ 6.1.0](https://github.com/sous-chefs/selinux/releases/tag/6.1.0) (6 days ago)
+- [sous-chefs/selinux @ 6.1.0](https://github.com/sous-chefs/selinux/releases/tag/6.1.0) (1 week ago)
 - [actionshub/yamllint @ v1.1.2](https://github.com/actionshub/yamllint/releases/tag/v1.1.2) (1 week ago)
 - [sous-chefs/ossec @ 2.0.0](https://github.com/sous-chefs/ossec/releases/tag/2.0.0) (1 week ago)
 - [sous-chefs/powershell @ 6.3.0](https://github.com/sous-chefs/powershell/releases/tag/6.3.0) (2 weeks ago)
