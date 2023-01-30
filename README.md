@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/php @ 9.2.2](https://github.com/sous-chefs/php/releases/tag/9.2.2) (3 days ago)
+- [sous-chefs/php @ 9.2.2](https://github.com/sous-chefs/php/releases/tag/9.2.2) (4 days ago)
 - [sous-chefs/selinux @ 6.1.0](https://github.com/sous-chefs/selinux/releases/tag/6.1.0) (1 week ago)
-- [actionshub/yamllint @ v1.1.2](https://github.com/actionshub/yamllint/releases/tag/v1.1.2) (1 week ago)
+- [actionshub/yamllint @ v1.1.2](https://github.com/actionshub/yamllint/releases/tag/v1.1.2) (2 weeks ago)
 - [sous-chefs/ossec @ 2.0.0](https://github.com/sous-chefs/ossec/releases/tag/2.0.0) (2 weeks ago)
 - [sous-chefs/powershell @ 6.3.0](https://github.com/sous-chefs/powershell/releases/tag/6.3.0) (3 weeks ago)
 
@@ -25,7 +25,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (3 weeks ago)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (1 month ago)
-- **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (2 months ago)
+- **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (3 months ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Smartify your standing desk (5 months ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (5 months ago)
 
