@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/selinux @ 6.1.1](https://github.com/sous-chefs/selinux/releases/tag/6.1.1) (1 day ago)
-- [sous-chefs/pyenv @ 4.2.1](https://github.com/sous-chefs/pyenv/releases/tag/4.2.1) (2 days ago)
-- [sous-chefs/aws @ 9.0.4](https://github.com/sous-chefs/aws/releases/tag/9.0.4) (2 days ago)
+- [sous-chefs/selinux @ 6.1.1](https://github.com/sous-chefs/selinux/releases/tag/6.1.1) (2 days ago)
+- [sous-chefs/pyenv @ 4.2.1](https://github.com/sous-chefs/pyenv/releases/tag/4.2.1) (3 days ago)
+- [sous-chefs/aws @ 9.0.4](https://github.com/sous-chefs/aws/releases/tag/9.0.4) (3 days ago)
 - [sous-chefs/php @ 9.2.2](https://github.com/sous-chefs/php/releases/tag/9.2.2) (1 week ago)
 - [actionshub/yamllint @ v1.1.2](https://github.com/actionshub/yamllint/releases/tag/v1.1.2) (2 weeks ago)
 
@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (5 months ago)
 
 #### 📄 Latest blog posts
-- [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (3 days ago)
+- [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (4 days ago)
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
 - [OpenSource Entitlement](https://medium.com/@dan.m.webb/opensource-entitlement-f4584a035063?source=rss-bbba9c670f6e------2) (2 years ago)
