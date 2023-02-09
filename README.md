@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [actionshub/yamllint @ v1.4.2](https://github.com/actionshub/yamllint/releases/tag/v1.4.2) (today)
-- [actionshub/test-kitchen @ 2.1.0](https://github.com/actionshub/test-kitchen/releases/tag/2.1.0) (today)
-- [sous-chefs/chef-splunk @ 9.2.3](https://github.com/sous-chefs/chef-splunk/releases/tag/9.2.3) (1 day ago)
-- [test-kitchen/kitchen-dokken @ v2.19.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.19.1) (1 day ago)
-- [sous-chefs/selinux @ 6.1.1](https://github.com/sous-chefs/selinux/releases/tag/6.1.1) (5 days ago)
+- [actionshub/yamllint @ v1.4.2](https://github.com/actionshub/yamllint/releases/tag/v1.4.2) (1 day ago)
+- [actionshub/test-kitchen @ 2.1.0](https://github.com/actionshub/test-kitchen/releases/tag/2.1.0) (1 day ago)
+- [test-kitchen/kitchen-dokken @ v2.19.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.19.1) (2 days ago)
+- [sous-chefs/selinux @ 6.1.1](https://github.com/sous-chefs/selinux/releases/tag/6.1.1) (6 days ago)
+- [sous-chefs/powershell @ 6.3.0](https://github.com/sous-chefs/powershell/releases/tag/6.3.0) (1 month ago)
 
 #### ⭐ Recent Stars
 
