@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [actionshub/publish-gem-to-github @ v1.0.1](https://github.com/actionshub/publish-gem-to-github/releases/tag/v1.0.1) (today)
+- [actionshub/markdownlint @ v3.1.0](https://github.com/actionshub/markdownlint/releases/tag/v3.1.0) (today)
 - [actionshub/yamllint @ v1.6.0](https://github.com/actionshub/yamllint/releases/tag/v1.6.0) (1 day ago)
-- [actionshub/publish-gem-to-github @ v1.0.0](https://github.com/actionshub/publish-gem-to-github/releases/tag/v1.0.0) (2 days ago)
-- [actionshub/markdownlint @ v3.0.2](https://github.com/actionshub/markdownlint/releases/tag/v3.0.2) (2 days ago)
 - [actionshub/test-kitchen @ 2.1.0](https://github.com/actionshub/test-kitchen/releases/tag/2.1.0) (3 days ago)
 - [test-kitchen/kitchen-dokken @ v2.19.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.19.1) (4 days ago)
 
