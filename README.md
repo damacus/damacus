@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/fastly @ 0.6.4](https://github.com/sous-chefs/fastly/releases/tag/0.6.4) (1 day ago)
-- [sous-chefs/beyondcompare @ 2.0.5](https://github.com/sous-chefs/beyondcompare/releases/tag/2.0.5) (1 day ago)
-- [sous-chefs/ark @ 6.0.7](https://github.com/sous-chefs/ark/releases/tag/6.0.7) (1 day ago)
-- [sous-chefs/ruby_rbenv @ 5.0.3](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.3) (1 day ago)
-- [sous-chefs/ruby_build @ 2.3.4](https://github.com/sous-chefs/ruby_build/releases/tag/2.3.4) (1 day ago)
+- [sous-chefs/wix @ 6.0.4](https://github.com/sous-chefs/wix/releases/tag/6.0.4) (today)
+- [sous-chefs/yum-elrepo @ 2.1.4](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.1.4) (today)
+- [sous-chefs/yum-amazon @ 4.0.4](https://github.com/sous-chefs/yum-amazon/releases/tag/4.0.4) (today)
+- [sous-chefs/yum-erlang_solutions @ 2.1.6](https://github.com/sous-chefs/yum-erlang_solutions/releases/tag/2.1.6) (today)
+- [sous-chefs/yum-fedora @ 3.1.4](https://github.com/sous-chefs/yum-fedora/releases/tag/3.1.4) (today)
 
 #### ⭐ Recent Stars
 
