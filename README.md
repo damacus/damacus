@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/wix @ 6.0.4](https://github.com/sous-chefs/wix/releases/tag/6.0.4) (today)
-- [sous-chefs/yum-elrepo @ 2.1.4](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.1.4) (today)
-- [sous-chefs/yum-amazon @ 4.0.4](https://github.com/sous-chefs/yum-amazon/releases/tag/4.0.4) (today)
-- [sous-chefs/yum-erlang_solutions @ 2.1.6](https://github.com/sous-chefs/yum-erlang_solutions/releases/tag/2.1.6) (today)
-- [sous-chefs/yum-fedora @ 3.1.4](https://github.com/sous-chefs/yum-fedora/releases/tag/3.1.4) (today)
+- [sous-chefs/kubernetes @ 2.0.4](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.4) (today)
+- [sous-chefs/vim @ 2.1.6](https://github.com/sous-chefs/vim/releases/tag/2.1.6) (today)
+- [sous-chefs/ossec @ 2.0.1](https://github.com/sous-chefs/ossec/releases/tag/2.0.1) (today)
+- [sous-chefs/confluence @ 2.6.6](https://github.com/sous-chefs/confluence/releases/tag/2.6.6) (today)
+- [sous-chefs/perl @ 8.0.3](https://github.com/sous-chefs/perl/releases/tag/8.0.3) (today)
 
 #### ⭐ Recent Stars
 
