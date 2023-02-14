@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/ruby_build @ 2.3.4](https://github.com/sous-chefs/ruby_build/releases/tag/2.3.4) (today)
-- [sous-chefs/apparmor @ 4.1.2](https://github.com/sous-chefs/apparmor/releases/tag/4.1.2) (today)
-- [actionshub/danger-rb @ v2.0.10](https://github.com/actionshub/danger-rb/releases/tag/v2.0.10) (today)
-- [sous-chefs/apache2 @ 8.15.0](https://github.com/sous-chefs/apache2/releases/tag/8.15.0) (today)
-- [actionshub/publish-gem-to-rubygems @ v1.0.0](https://github.com/actionshub/publish-gem-to-rubygems/releases/tag/v1.0.0) (today)
+- [sous-chefs/fastly @ 0.6.4](https://github.com/sous-chefs/fastly/releases/tag/0.6.4) (1 day ago)
+- [sous-chefs/beyondcompare @ 2.0.5](https://github.com/sous-chefs/beyondcompare/releases/tag/2.0.5) (1 day ago)
+- [sous-chefs/ark @ 6.0.7](https://github.com/sous-chefs/ark/releases/tag/6.0.7) (1 day ago)
+- [sous-chefs/ruby_rbenv @ 5.0.3](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.3) (1 day ago)
+- [sous-chefs/ruby_build @ 2.3.4](https://github.com/sous-chefs/ruby_build/releases/tag/2.3.4) (1 day ago)
 
 #### ⭐ Recent Stars
 
