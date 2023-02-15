@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/kubernetes @ 2.0.4](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.4) (today)
-- [sous-chefs/vim @ 2.1.6](https://github.com/sous-chefs/vim/releases/tag/2.1.6) (today)
-- [sous-chefs/ossec @ 2.0.1](https://github.com/sous-chefs/ossec/releases/tag/2.0.1) (today)
-- [sous-chefs/confluence @ 2.6.6](https://github.com/sous-chefs/confluence/releases/tag/2.6.6) (today)
-- [sous-chefs/perl @ 8.0.3](https://github.com/sous-chefs/perl/releases/tag/8.0.3) (today)
+- [sous-chefs/kubernetes @ 2.0.4](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.4) (1 day ago)
+- [sous-chefs/vim @ 2.1.6](https://github.com/sous-chefs/vim/releases/tag/2.1.6) (1 day ago)
+- [sous-chefs/ossec @ 2.0.1](https://github.com/sous-chefs/ossec/releases/tag/2.0.1) (1 day ago)
+- [sous-chefs/confluence @ 2.6.6](https://github.com/sous-chefs/confluence/releases/tag/2.6.6) (1 day ago)
+- [sous-chefs/perl @ 8.0.3](https://github.com/sous-chefs/perl/releases/tag/8.0.3) (1 day ago)
 
 #### ⭐ Recent Stars
 
@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (5 months ago)
 
 #### 📄 Latest blog posts
-- [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (1 week ago)
+- [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (2 weeks ago)
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
 - [OpenSource Entitlement](https://medium.com/@dan.m.webb/opensource-entitlement-f4584a035063?source=rss-bbba9c670f6e------2) (2 years ago)
