@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/powershell @ 6.4.1](https://github.com/sous-chefs/powershell/releases/tag/6.4.1) (today)
-- [sous-chefs/seven_zip @ 4.2.6](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.6) (today)
-- [sous-chefs/ark @ 6.0.11](https://github.com/sous-chefs/ark/releases/tag/6.0.11) (today)
-- [sous-chefs/jenkins @ 9.5.7](https://github.com/sous-chefs/jenkins/releases/tag/9.5.7) (today)
-- [sous-chefs/rvm @ 1.1.6](https://github.com/sous-chefs/rvm/releases/tag/1.1.6) (today)
+- [sous-chefs/powershell @ 6.4.2](https://github.com/sous-chefs/powershell/releases/tag/6.4.2) (1 day ago)
+- [sous-chefs/mariadb @ 5.2.7](https://github.com/sous-chefs/mariadb/releases/tag/5.2.7) (1 day ago)
+- [sous-chefs/fileutils @ 2.1.4](https://github.com/sous-chefs/fileutils/releases/tag/2.1.4) (1 day ago)
+- [sous-chefs/seven_zip @ 4.2.6](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.6) (1 day ago)
+- [sous-chefs/ark @ 6.0.11](https://github.com/sous-chefs/ark/releases/tag/6.0.11) (1 day ago)
 
 #### ⭐ Recent Stars
 
