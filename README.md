@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/sc-mongodb @ 5.1.5](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.5) (1 day ago)
-- [sous-chefs/openvpn @ 7.0.5](https://github.com/sous-chefs/openvpn/releases/tag/7.0.5) (1 day ago)
-- [sous-chefs/ntp @ 5.0.2](https://github.com/sous-chefs/ntp/releases/tag/5.0.2) (1 day ago)
-- [sous-chefs/php @ 9.2.4](https://github.com/sous-chefs/php/releases/tag/9.2.4) (1 day ago)
-- [sous-chefs/jenkins @ 9.5.8](https://github.com/sous-chefs/jenkins/releases/tag/9.5.8) (1 day ago)
+- [sous-chefs/sc-mongodb @ 5.1.5](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.5) (2 days ago)
+- [sous-chefs/openvpn @ 7.0.5](https://github.com/sous-chefs/openvpn/releases/tag/7.0.5) (2 days ago)
+- [sous-chefs/ntp @ 5.0.2](https://github.com/sous-chefs/ntp/releases/tag/5.0.2) (2 days ago)
+- [sous-chefs/php @ 9.2.4](https://github.com/sous-chefs/php/releases/tag/9.2.4) (2 days ago)
+- [sous-chefs/jenkins @ 9.5.8](https://github.com/sous-chefs/jenkins/releases/tag/9.5.8) (2 days ago)
 
 #### ⭐ Recent Stars
 
@@ -27,7 +27,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (2 months ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (3 months ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Make your standing desk smarter (5 months ago)
-- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (5 months ago)
+- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (6 months ago)
 
 #### 📄 Latest blog posts
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (2 weeks ago)
