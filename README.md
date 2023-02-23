@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/sql_server @ 7.1.7](https://github.com/sous-chefs/sql_server/releases/tag/7.1.7) (3 days ago)
-- [sous-chefs/apache2 @ 8.15.3](https://github.com/sous-chefs/apache2/releases/tag/8.15.3) (3 days ago)
-- [sous-chefs/jenkins @ 9.5.9](https://github.com/sous-chefs/jenkins/releases/tag/9.5.9) (3 days ago)
-- [sous-chefs/php @ 9.2.5](https://github.com/sous-chefs/php/releases/tag/9.2.5) (3 days ago)
-- [sous-chefs/java @ 11.1.5](https://github.com/sous-chefs/java/releases/tag/11.1.5) (3 days ago)
+- [sous-chefs/cron @ 7.0.10](https://github.com/sous-chefs/cron/releases/tag/7.0.10) (today)
+- [sous-chefs/iis @ 8.0.8](https://github.com/sous-chefs/iis/releases/tag/8.0.8) (today)
+- [sous-chefs/mariadb @ 5.2.8](https://github.com/sous-chefs/mariadb/releases/tag/5.2.8) (today)
+- [sous-chefs/memcached @ 7.0.9](https://github.com/sous-chefs/memcached/releases/tag/7.0.9) (today)
+- [sous-chefs/perl @ 8.0.5](https://github.com/sous-chefs/perl/releases/tag/8.0.5) (today)
 
 #### ⭐ Recent Stars
 
