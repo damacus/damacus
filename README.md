@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/cron @ 7.0.10](https://github.com/sous-chefs/cron/releases/tag/7.0.10) (1 day ago)
-- [sous-chefs/iis @ 8.0.8](https://github.com/sous-chefs/iis/releases/tag/8.0.8) (1 day ago)
-- [sous-chefs/mariadb @ 5.2.8](https://github.com/sous-chefs/mariadb/releases/tag/5.2.8) (1 day ago)
-- [sous-chefs/memcached @ 7.0.9](https://github.com/sous-chefs/memcached/releases/tag/7.0.9) (1 day ago)
-- [sous-chefs/perl @ 8.0.5](https://github.com/sous-chefs/perl/releases/tag/8.0.5) (1 day ago)
+- [sous-chefs/cron @ 7.0.10](https://github.com/sous-chefs/cron/releases/tag/7.0.10) (2 days ago)
+- [sous-chefs/iis @ 8.0.8](https://github.com/sous-chefs/iis/releases/tag/8.0.8) (2 days ago)
+- [sous-chefs/mariadb @ 5.2.8](https://github.com/sous-chefs/mariadb/releases/tag/5.2.8) (2 days ago)
+- [sous-chefs/memcached @ 7.0.9](https://github.com/sous-chefs/memcached/releases/tag/7.0.9) (2 days ago)
+- [sous-chefs/perl @ 8.0.5](https://github.com/sous-chefs/perl/releases/tag/8.0.5) (2 days ago)
 
 #### ⭐ Recent Stars
 
@@ -26,7 +26,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (1 month ago)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (2 months ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (3 months ago)
-- **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Make your standing desk smarter (5 months ago)
+- **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Make your standing desk smarter (6 months ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (6 months ago)
 
 #### 📄 Latest blog posts
