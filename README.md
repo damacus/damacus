@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/lvm @ 6.1.6](https://github.com/sous-chefs/lvm/releases/tag/6.1.6) (today)
 - [sous-chefs/stunnel @ 5.0.0](https://github.com/sous-chefs/stunnel/releases/tag/5.0.0) (today)
-- [sous-chefs/lvm @ 6.1.5](https://github.com/sous-chefs/lvm/releases/tag/6.1.5) (today)
 - [sous-chefs/ufw @ 3.2.9](https://github.com/sous-chefs/ufw/releases/tag/3.2.9) (today)
 - [sous-chefs/tomcat @ 5.0.8](https://github.com/sous-chefs/tomcat/releases/tag/5.0.8) (today)
 - [sous-chefs/openldap @ 6.0.8](https://github.com/sous-chefs/openldap/releases/tag/6.0.8) (today)
