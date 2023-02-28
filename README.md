@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/apache2 @ 8.15.4](https://github.com/sous-chefs/apache2/releases/tag/8.15.4) (today)
 - [sous-chefs/.github @ 2.0.0](https://github.com/sous-chefs/.github/releases/tag/2.0.0) (today)
 - [sous-chefs/git @ 11.2.0](https://github.com/sous-chefs/git/releases/tag/11.2.0) (1 day ago)
 - [sous-chefs/lvm @ 6.1.6](https://github.com/sous-chefs/lvm/releases/tag/6.1.6) (1 day ago)
 - [sous-chefs/stunnel @ 5.0.0](https://github.com/sous-chefs/stunnel/releases/tag/5.0.0) (1 day ago)
-- [sous-chefs/ufw @ 3.2.9](https://github.com/sous-chefs/ufw/releases/tag/3.2.9) (1 day ago)
 
 #### ⭐ Recent Stars
 
