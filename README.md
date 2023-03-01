@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/tomcat @ 5.0.9](https://github.com/sous-chefs/tomcat/releases/tag/5.0.9) (today)
+- [sous-chefs/openvpn @ 7.0.6](https://github.com/sous-chefs/openvpn/releases/tag/7.0.6) (today)
+- [sous-chefs/vim @ 2.1.9](https://github.com/sous-chefs/vim/releases/tag/2.1.9) (today)
 - [sous-chefs/haproxy @ 12.2.10](https://github.com/sous-chefs/haproxy/releases/tag/12.2.10) (today)
 - [sous-chefs/etcd @ 9.1.7](https://github.com/sous-chefs/etcd/releases/tag/9.1.7) (1 day ago)
-- [sous-chefs/apache2 @ 8.15.4](https://github.com/sous-chefs/apache2/releases/tag/8.15.4) (1 day ago)
-- [sous-chefs/.github @ 2.0.0](https://github.com/sous-chefs/.github/releases/tag/2.0.0) (1 day ago)
-- [sous-chefs/git @ 11.2.0](https://github.com/sous-chefs/git/releases/tag/11.2.0) (2 days ago)
 
 #### ⭐ Recent Stars
 
