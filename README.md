@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/bind @ 3.3.3](https://github.com/sous-chefs/bind/releases/tag/3.3.3) (1 day ago)
-- [sous-chefs/beyondcompare @ 2.0.6](https://github.com/sous-chefs/beyondcompare/releases/tag/2.0.6) (1 day ago)
-- [sous-chefs/aws @ 9.0.9](https://github.com/sous-chefs/aws/releases/tag/9.0.9) (1 day ago)
-- [sous-chefs/autofs @ 3.0.5](https://github.com/sous-chefs/autofs/releases/tag/3.0.5) (1 day ago)
-- [sous-chefs/atom @ 1.0.6](https://github.com/sous-chefs/atom/releases/tag/1.0.6) (1 day ago)
+- [sous-chefs/influxdb @ 0.1.2](https://github.com/sous-chefs/influxdb/releases/tag/0.1.2) (today)
+- [sous-chefs/iis_urlrewrite @ 2.1.5](https://github.com/sous-chefs/iis_urlrewrite/releases/tag/2.1.5) (today)
+- [sous-chefs/iis @ 8.0.9](https://github.com/sous-chefs/iis/releases/tag/8.0.9) (today)
+- [sous-chefs/htpasswd @ 2.0.6](https://github.com/sous-chefs/htpasswd/releases/tag/2.0.6) (today)
+- [sous-chefs/homebrew @ 5.3.5](https://github.com/sous-chefs/homebrew/releases/tag/5.3.5) (today)
 
 #### ⭐ Recent Stars
 
