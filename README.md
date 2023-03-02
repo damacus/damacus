@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/influxdb @ 0.1.2](https://github.com/sous-chefs/influxdb/releases/tag/0.1.2) (today)
-- [sous-chefs/iis_urlrewrite @ 2.1.5](https://github.com/sous-chefs/iis_urlrewrite/releases/tag/2.1.5) (today)
-- [sous-chefs/iis @ 8.0.9](https://github.com/sous-chefs/iis/releases/tag/8.0.9) (today)
-- [sous-chefs/htpasswd @ 2.0.6](https://github.com/sous-chefs/htpasswd/releases/tag/2.0.6) (today)
-- [sous-chefs/homebrew @ 5.3.5](https://github.com/sous-chefs/homebrew/releases/tag/5.3.5) (today)
+- [sous-chefs/mcelog @ 2.1.6](https://github.com/sous-chefs/mcelog/releases/tag/2.1.6) (today)
+- [sous-chefs/maven @ 6.0.2](https://github.com/sous-chefs/maven/releases/tag/6.0.2) (today)
+- [sous-chefs/mariadb @ 5.2.9](https://github.com/sous-chefs/mariadb/releases/tag/5.2.9) (today)
+- [sous-chefs/lvm @ 6.1.7](https://github.com/sous-chefs/lvm/releases/tag/6.1.7) (today)
+- [sous-chefs/logrotate @ 3.0.15](https://github.com/sous-chefs/logrotate/releases/tag/3.0.15) (today)
 
 #### ⭐ Recent Stars
 
