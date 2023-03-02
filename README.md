@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/tomcat @ 5.0.9](https://github.com/sous-chefs/tomcat/releases/tag/5.0.9) (today)
-- [sous-chefs/openvpn @ 7.0.6](https://github.com/sous-chefs/openvpn/releases/tag/7.0.6) (today)
-- [sous-chefs/vim @ 2.1.9](https://github.com/sous-chefs/vim/releases/tag/2.1.9) (today)
-- [sous-chefs/haproxy @ 12.2.10](https://github.com/sous-chefs/haproxy/releases/tag/12.2.10) (today)
-- [sous-chefs/etcd @ 9.1.7](https://github.com/sous-chefs/etcd/releases/tag/9.1.7) (1 day ago)
+- [sous-chefs/bind @ 3.3.3](https://github.com/sous-chefs/bind/releases/tag/3.3.3) (1 day ago)
+- [sous-chefs/beyondcompare @ 2.0.6](https://github.com/sous-chefs/beyondcompare/releases/tag/2.0.6) (1 day ago)
+- [sous-chefs/aws @ 9.0.9](https://github.com/sous-chefs/aws/releases/tag/9.0.9) (1 day ago)
+- [sous-chefs/autofs @ 3.0.5](https://github.com/sous-chefs/autofs/releases/tag/3.0.5) (1 day ago)
+- [sous-chefs/atom @ 1.0.6](https://github.com/sous-chefs/atom/releases/tag/1.0.6) (1 day ago)
 
 #### ⭐ Recent Stars
 
 
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (1 month ago)
-- **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (2 months ago)
+- **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (3 months ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (4 months ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Make your standing desk smarter (6 months ago)
 - **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (6 months ago)
