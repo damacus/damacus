@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/motd-tail @ 6.0.1](https://github.com/sous-chefs/motd-tail/releases/tag/6.0.1) (2 days ago)
-- [sous-chefs/mingw @ 2.1.5](https://github.com/sous-chefs/mingw/releases/tag/2.1.5) (2 days ago)
-- [sous-chefs/memcached @ 7.0.10](https://github.com/sous-chefs/memcached/releases/tag/7.0.10) (3 days ago)
-- [sous-chefs/mcelog @ 2.1.6](https://github.com/sous-chefs/mcelog/releases/tag/2.1.6) (3 days ago)
-- [sous-chefs/maven @ 6.0.2](https://github.com/sous-chefs/maven/releases/tag/6.0.2) (3 days ago)
+- [sous-chefs/motd-tail @ 6.0.1](https://github.com/sous-chefs/motd-tail/releases/tag/6.0.1) (3 days ago)
+- [sous-chefs/mingw @ 2.1.5](https://github.com/sous-chefs/mingw/releases/tag/2.1.5) (3 days ago)
+- [sous-chefs/memcached @ 7.0.10](https://github.com/sous-chefs/memcached/releases/tag/7.0.10) (4 days ago)
+- [sous-chefs/mcelog @ 2.1.6](https://github.com/sous-chefs/mcelog/releases/tag/2.1.6) (4 days ago)
+- [sous-chefs/maven @ 6.0.2](https://github.com/sous-chefs/maven/releases/tag/6.0.2) (4 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (1 month ago)
+- **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (2 months ago)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (3 months ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (4 months ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Make your standing desk smarter (6 months ago)
