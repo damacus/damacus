@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/motd-tail @ 6.0.1](https://github.com/sous-chefs/motd-tail/releases/tag/6.0.1) (4 days ago)
-- [sous-chefs/mingw @ 2.1.5](https://github.com/sous-chefs/mingw/releases/tag/2.1.5) (4 days ago)
-- [sous-chefs/memcached @ 7.0.10](https://github.com/sous-chefs/memcached/releases/tag/7.0.10) (5 days ago)
-- [sous-chefs/mcelog @ 2.1.6](https://github.com/sous-chefs/mcelog/releases/tag/2.1.6) (5 days ago)
-- [sous-chefs/maven @ 6.0.2](https://github.com/sous-chefs/maven/releases/tag/6.0.2) (5 days ago)
+- [sous-chefs/motd-tail @ 6.0.1](https://github.com/sous-chefs/motd-tail/releases/tag/6.0.1) (5 days ago)
+- [sous-chefs/mingw @ 2.1.5](https://github.com/sous-chefs/mingw/releases/tag/2.1.5) (5 days ago)
+- [sous-chefs/memcached @ 7.0.10](https://github.com/sous-chefs/memcached/releases/tag/7.0.10) (6 days ago)
+- [sous-chefs/mcelog @ 2.1.6](https://github.com/sous-chefs/mcelog/releases/tag/2.1.6) (6 days ago)
+- [sous-chefs/maven @ 6.0.2](https://github.com/sous-chefs/maven/releases/tag/6.0.2) (6 days ago)
 
 #### ⭐ Recent Stars
 
