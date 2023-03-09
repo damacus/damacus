@@ -23,11 +23,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
+- **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (today)
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (2 months ago)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (3 months ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (4 months ago)
 - **[tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky)** - Make your standing desk smarter (6 months ago)
-- **[itchyny/gojq](https://github.com/itchyny/gojq)** - Pure Go implementation of jq (6 months ago)
 
 #### 📄 Latest blog posts
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (1 month ago)
