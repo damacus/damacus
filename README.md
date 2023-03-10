@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/docker-engine @ 0.2.9](https://github.com/sous-chefs/docker-engine/releases/tag/0.2.9) (1 day ago)
-- [sous-chefs/dpkg_autostart @ 0.4.7](https://github.com/sous-chefs/dpkg_autostart/releases/tag/0.4.7) (1 day ago)
-- [sous-chefs/drbd @ 3.0.5](https://github.com/sous-chefs/drbd/releases/tag/3.0.5) (1 day ago)
-- [sous-chefs/elixir @ 3.0.4](https://github.com/sous-chefs/elixir/releases/tag/3.0.4) (1 day ago)
-- [sous-chefs/motd-tail @ 6.0.1](https://github.com/sous-chefs/motd-tail/releases/tag/6.0.1) (6 days ago)
+- [sous-chefs/docker-engine @ 0.2.9](https://github.com/sous-chefs/docker-engine/releases/tag/0.2.9) (2 days ago)
+- [sous-chefs/dpkg_autostart @ 0.4.7](https://github.com/sous-chefs/dpkg_autostart/releases/tag/0.4.7) (2 days ago)
+- [sous-chefs/drbd @ 3.0.5](https://github.com/sous-chefs/drbd/releases/tag/3.0.5) (2 days ago)
+- [sous-chefs/elixir @ 3.0.4](https://github.com/sous-chefs/elixir/releases/tag/3.0.4) (2 days ago)
+- [sous-chefs/motd-tail @ 6.0.1](https://github.com/sous-chefs/motd-tail/releases/tag/6.0.1) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (today)
+- **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (1 day ago)
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (2 months ago)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (3 months ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (4 months ago)
