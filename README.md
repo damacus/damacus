@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/nginx_simplecgi @ 0.3.5](https://github.com/sous-chefs/nginx_simplecgi/releases/tag/0.3.5) (today)
-- [sous-chefs/dnsmasq @ 1.1.3](https://github.com/sous-chefs/dnsmasq/releases/tag/1.1.3) (today)
-- [sous-chefs/apache2 @ 8.16.0](https://github.com/sous-chefs/apache2/releases/tag/8.16.0) (today)
-- [sous-chefs/sc-mongodb @ 5.1.8](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.8) (2 days ago)
-- [sous-chefs/kubernetes @ 2.0.9](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.9) (2 days ago)
+- [sous-chefs/sc_vscode @ 2.0.3](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.3) (today)
+- [sous-chefs/nrpe @ 4.0.8](https://github.com/sous-chefs/nrpe/releases/tag/4.0.8) (today)
+- [sous-chefs/npm_lazy @ 3.0.1](https://github.com/sous-chefs/npm_lazy/releases/tag/3.0.1) (today)
+- [sous-chefs/nfs @ 5.0.5](https://github.com/sous-chefs/nfs/releases/tag/5.0.5) (today)
+- [sous-chefs/nginx @ 12.1.5](https://github.com/sous-chefs/nginx/releases/tag/12.1.5) (today)
 
 #### ⭐ Recent Stars
 
