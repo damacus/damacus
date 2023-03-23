@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/ruby_rbenv @ 5.0.9](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.9) (today)
 - [sous-chefs/ntp @ 5.0.6](https://github.com/sous-chefs/ntp/releases/tag/5.0.6) (today)
 - [sous-chefs/sc_vscode @ 2.0.3](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.3) (1 day ago)
 - [sous-chefs/nrpe @ 4.0.8](https://github.com/sous-chefs/nrpe/releases/tag/4.0.8) (1 day ago)
 - [sous-chefs/npm_lazy @ 3.0.1](https://github.com/sous-chefs/npm_lazy/releases/tag/3.0.1) (1 day ago)
-- [sous-chefs/nfs @ 5.0.5](https://github.com/sous-chefs/nfs/releases/tag/5.0.5) (1 day ago)
 
 #### ⭐ Recent Stars
 
