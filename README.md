@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/sc_vscode @ 2.0.3](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.3) (today)
-- [sous-chefs/nrpe @ 4.0.8](https://github.com/sous-chefs/nrpe/releases/tag/4.0.8) (today)
-- [sous-chefs/npm_lazy @ 3.0.1](https://github.com/sous-chefs/npm_lazy/releases/tag/3.0.1) (today)
-- [sous-chefs/nfs @ 5.0.5](https://github.com/sous-chefs/nfs/releases/tag/5.0.5) (today)
-- [sous-chefs/nginx @ 12.1.5](https://github.com/sous-chefs/nginx/releases/tag/12.1.5) (today)
+- [sous-chefs/sc_vscode @ 2.0.3](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.3) (1 day ago)
+- [sous-chefs/nrpe @ 4.0.8](https://github.com/sous-chefs/nrpe/releases/tag/4.0.8) (1 day ago)
+- [sous-chefs/npm_lazy @ 3.0.1](https://github.com/sous-chefs/npm_lazy/releases/tag/3.0.1) (1 day ago)
+- [sous-chefs/nfs @ 5.0.5](https://github.com/sous-chefs/nfs/releases/tag/5.0.5) (1 day ago)
+- [sous-chefs/nginx @ 12.1.5](https://github.com/sous-chefs/nginx/releases/tag/12.1.5) (1 day ago)
 
 #### ⭐ Recent Stars
 
 
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (1 week ago)
-- **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (1 week ago)
+- **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (2 weeks ago)
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (2 months ago)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (3 months ago)
 - **[m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)** - A CLI tool that automatically writes commit messages for you. (4 months ago)
