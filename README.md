@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/dhcp @ 8.1.5](https://github.com/sous-chefs/dhcp/releases/tag/8.1.5) (1 day ago)
+- [sous-chefs/dhcp @ 8.1.6](https://github.com/sous-chefs/dhcp/releases/tag/8.1.6) (today)
 - [sous-chefs/ruby_rbenv @ 5.0.9](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.9) (1 day ago)
 - [sous-chefs/ntp @ 5.0.6](https://github.com/sous-chefs/ntp/releases/tag/5.0.6) (1 day ago)
 - [sous-chefs/sc_vscode @ 2.0.3](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.3) (2 days ago)
