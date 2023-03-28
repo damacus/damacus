@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/elasticsearch @ 5.0.0](https://github.com/sous-chefs/elasticsearch/releases/tag/5.0.0) (2 days ago)
-- [sous-chefs/dhcp @ 8.1.6](https://github.com/sous-chefs/dhcp/releases/tag/8.1.6) (3 days ago)
-- [sous-chefs/ruby_rbenv @ 5.0.9](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.9) (4 days ago)
-- [sous-chefs/ntp @ 5.0.6](https://github.com/sous-chefs/ntp/releases/tag/5.0.6) (4 days ago)
-- [sous-chefs/sc_vscode @ 2.0.3](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.3) (5 days ago)
+- [sous-chefs/elasticsearch @ 5.0.0](https://github.com/sous-chefs/elasticsearch/releases/tag/5.0.0) (3 days ago)
+- [sous-chefs/dhcp @ 8.1.6](https://github.com/sous-chefs/dhcp/releases/tag/8.1.6) (4 days ago)
+- [sous-chefs/ruby_rbenv @ 5.0.9](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.9) (5 days ago)
+- [sous-chefs/ntp @ 5.0.6](https://github.com/sous-chefs/ntp/releases/tag/5.0.6) (5 days ago)
+- [sous-chefs/sc_vscode @ 2.0.3](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.3) (6 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (4 days ago)
+- **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (5 days ago)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (2 weeks ago)
 - **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (2 weeks ago)
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (2 months ago)
