@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/hashicorp-vault @ 6.3.8](https://github.com/sous-chefs/hashicorp-vault/releases/tag/6.3.8) (today)
-- [sous-chefs/sc-mongodb @ 5.1.9](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.9) (today)
-- [sous-chefs/kubernetes @ 2.0.10](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.10) (today)
-- [sous-chefs/mariadb @ 5.2.12](https://github.com/sous-chefs/mariadb/releases/tag/5.2.12) (today)
-- [sous-chefs/nodejs @ 10.1.7](https://github.com/sous-chefs/nodejs/releases/tag/10.1.7) (today)
+- [sous-chefs/daemontools @ 1.6.8](https://github.com/sous-chefs/daemontools/releases/tag/1.6.8) (today)
+- [sous-chefs/locales @ 1.0.2](https://github.com/sous-chefs/locales/releases/tag/1.0.2) (today)
+- [sous-chefs/mcelog @ 2.1.7](https://github.com/sous-chefs/mcelog/releases/tag/2.1.7) (today)
+- [sous-chefs/foreman @ 0.1.3](https://github.com/sous-chefs/foreman/releases/tag/0.1.3) (today)
+- [sous-chefs/firefox @ 6.1.5](https://github.com/sous-chefs/firefox/releases/tag/6.1.5) (today)
 
 #### ⭐ Recent Stars
 
