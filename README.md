@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/elasticsearch @ 5.0.0](https://github.com/sous-chefs/elasticsearch/releases/tag/5.0.0) (1 week ago)
-- [sous-chefs/dhcp @ 8.1.6](https://github.com/sous-chefs/dhcp/releases/tag/8.1.6) (1 week ago)
-- [sous-chefs/ruby_rbenv @ 5.0.9](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.9) (1 week ago)
-- [sous-chefs/ntp @ 5.0.6](https://github.com/sous-chefs/ntp/releases/tag/5.0.6) (1 week ago)
-- [sous-chefs/sc_vscode @ 2.0.3](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.3) (1 week ago)
+- [sous-chefs/hashicorp-vault @ 6.3.8](https://github.com/sous-chefs/hashicorp-vault/releases/tag/6.3.8) (today)
+- [sous-chefs/sc-mongodb @ 5.1.9](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.9) (today)
+- [sous-chefs/kubernetes @ 2.0.10](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.10) (today)
+- [sous-chefs/mariadb @ 5.2.12](https://github.com/sous-chefs/mariadb/releases/tag/5.2.12) (today)
+- [sous-chefs/nodejs @ 10.1.7](https://github.com/sous-chefs/nodejs/releases/tag/10.1.7) (today)
 
 #### ⭐ Recent Stars
 
