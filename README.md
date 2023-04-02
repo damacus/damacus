@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/daemontools @ 1.6.8](https://github.com/sous-chefs/daemontools/releases/tag/1.6.8) (today)
-- [sous-chefs/locales @ 1.0.2](https://github.com/sous-chefs/locales/releases/tag/1.0.2) (today)
-- [sous-chefs/mcelog @ 2.1.7](https://github.com/sous-chefs/mcelog/releases/tag/2.1.7) (today)
-- [sous-chefs/foreman @ 0.1.3](https://github.com/sous-chefs/foreman/releases/tag/0.1.3) (today)
-- [sous-chefs/firefox @ 6.1.5](https://github.com/sous-chefs/firefox/releases/tag/6.1.5) (today)
+- [sous-chefs/daemontools @ 1.6.8](https://github.com/sous-chefs/daemontools/releases/tag/1.6.8) (1 day ago)
+- [sous-chefs/locales @ 1.0.2](https://github.com/sous-chefs/locales/releases/tag/1.0.2) (1 day ago)
+- [sous-chefs/mcelog @ 2.1.7](https://github.com/sous-chefs/mcelog/releases/tag/2.1.7) (1 day ago)
+- [sous-chefs/foreman @ 0.1.3](https://github.com/sous-chefs/foreman/releases/tag/0.1.3) (1 day ago)
+- [sous-chefs/firefox @ 6.1.5](https://github.com/sous-chefs/firefox/releases/tag/6.1.5) (1 day ago)
 
 #### ⭐ Recent Stars
 
@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (4 months ago)
 
 #### 📄 Latest blog posts
-- [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (1 month ago)
+- [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (2 months ago)
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
 - [OpenSource Entitlement](https://medium.com/@dan.m.webb/opensource-entitlement-f4584a035063?source=rss-bbba9c670f6e------2) (3 years ago)
