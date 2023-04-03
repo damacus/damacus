@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/packagecloud @ 2.0.0](https://github.com/sous-chefs/packagecloud/releases/tag/2.0.0) (today)
 - [sous-chefs/daemontools @ 1.6.8](https://github.com/sous-chefs/daemontools/releases/tag/1.6.8) (2 days ago)
 - [sous-chefs/locales @ 1.0.2](https://github.com/sous-chefs/locales/releases/tag/1.0.2) (2 days ago)
 - [sous-chefs/mcelog @ 2.1.7](https://github.com/sous-chefs/mcelog/releases/tag/2.1.7) (2 days ago)
 - [sous-chefs/foreman @ 0.1.3](https://github.com/sous-chefs/foreman/releases/tag/0.1.3) (2 days ago)
-- [sous-chefs/firefox @ 6.1.5](https://github.com/sous-chefs/firefox/releases/tag/6.1.5) (2 days ago)
 
 #### ⭐ Recent Stars
 
