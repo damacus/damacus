@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/packagecloud @ 2.0.1](https://github.com/sous-chefs/packagecloud/releases/tag/2.0.1) (1 day ago)
-- [sous-chefs/daemontools @ 1.6.8](https://github.com/sous-chefs/daemontools/releases/tag/1.6.8) (3 days ago)
-- [sous-chefs/locales @ 1.0.2](https://github.com/sous-chefs/locales/releases/tag/1.0.2) (3 days ago)
-- [sous-chefs/mcelog @ 2.1.7](https://github.com/sous-chefs/mcelog/releases/tag/2.1.7) (3 days ago)
-- [sous-chefs/foreman @ 0.1.3](https://github.com/sous-chefs/foreman/releases/tag/0.1.3) (3 days ago)
+- [sous-chefs/transmission @ 6.0.2](https://github.com/sous-chefs/transmission/releases/tag/6.0.2) (today)
+- [sous-chefs/mysql @ 11.0.13](https://github.com/sous-chefs/mysql/releases/tag/11.0.13) (today)
+- [sous-chefs/ruby_rbenv @ 5.0.12](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.12) (today)
+- [sous-chefs/redisio @ 6.3.6](https://github.com/sous-chefs/redisio/releases/tag/6.3.6) (today)
+- [sous-chefs/consul @ 5.6.0](https://github.com/sous-chefs/consul/releases/tag/5.6.0) (today)
 
 #### ⭐ Recent Stars
 
