@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/transmission @ 6.0.2](https://github.com/sous-chefs/transmission/releases/tag/6.0.2) (today)
-- [sous-chefs/mysql @ 11.0.13](https://github.com/sous-chefs/mysql/releases/tag/11.0.13) (today)
-- [sous-chefs/ruby_rbenv @ 5.0.12](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.12) (today)
-- [sous-chefs/redisio @ 6.3.6](https://github.com/sous-chefs/redisio/releases/tag/6.3.6) (today)
-- [sous-chefs/consul @ 5.6.0](https://github.com/sous-chefs/consul/releases/tag/5.6.0) (today)
+- [sous-chefs/nginx @ 12.1.7](https://github.com/sous-chefs/nginx/releases/tag/12.1.7) (today)
+- [sous-chefs/rvm @ 1.1.13](https://github.com/sous-chefs/rvm/releases/tag/1.1.13) (today)
+- [sous-chefs/trusted_certificate @ 4.0.6](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.6) (today)
+- [sous-chefs/tomcat @ 5.0.11](https://github.com/sous-chefs/tomcat/releases/tag/5.0.11) (today)
+- [sous-chefs/elasticsearch @ 5.1.0](https://github.com/sous-chefs/elasticsearch/releases/tag/5.1.0) (today)
 
 #### ⭐ Recent Stars
 
