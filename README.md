@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/.github @ 2.0.2](https://github.com/sous-chefs/.github/releases/tag/2.0.2) (today)
+- [damacus/check-chef-metadata-action @ 0.2.0](https://github.com/damacus/check-chef-metadata-action/releases/tag/0.2.0) (today)
+- [sous-chefs/nagios @ 11.1.11](https://github.com/sous-chefs/nagios/releases/tag/11.1.11) (today)
 - [sous-chefs/sql_server @ 7.2.0](https://github.com/sous-chefs/sql_server/releases/tag/7.2.0) (1 day ago)
 - [sous-chefs/nginx @ 12.1.7](https://github.com/sous-chefs/nginx/releases/tag/12.1.7) (1 day ago)
-- [sous-chefs/rvm @ 1.1.13](https://github.com/sous-chefs/rvm/releases/tag/1.1.13) (1 day ago)
-- [sous-chefs/trusted_certificate @ 4.0.6](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.6) (1 day ago)
-- [sous-chefs/tomcat @ 5.0.11](https://github.com/sous-chefs/tomcat/releases/tag/5.0.11) (1 day ago)
 
 #### ⭐ Recent Stars
 
