@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/.github @ 2.0.2](https://github.com/sous-chefs/.github/releases/tag/2.0.2) (2 days ago)
-- [damacus/check-chef-metadata-action @ 0.2.0](https://github.com/damacus/check-chef-metadata-action/releases/tag/0.2.0) (2 days ago)
-- [sous-chefs/nagios @ 11.1.11](https://github.com/sous-chefs/nagios/releases/tag/11.1.11) (2 days ago)
-- [sous-chefs/sql_server @ 7.2.0](https://github.com/sous-chefs/sql_server/releases/tag/7.2.0) (3 days ago)
-- [sous-chefs/nginx @ 12.1.7](https://github.com/sous-chefs/nginx/releases/tag/12.1.7) (3 days ago)
+- [sous-chefs/hashicorp-vault @ 6.3.11](https://github.com/sous-chefs/hashicorp-vault/releases/tag/6.3.11) (today)
+- [sous-chefs/sc-mongodb @ 5.1.12](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.12) (today)
+- [sous-chefs/kubernetes @ 2.0.13](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.13) (today)
+- [sous-chefs/mariadb @ 5.2.15](https://github.com/sous-chefs/mariadb/releases/tag/5.2.15) (today)
+- [sous-chefs/nodejs @ 10.1.10](https://github.com/sous-chefs/nodejs/releases/tag/10.1.10) (today)
 
 #### ⭐ Recent Stars
 
