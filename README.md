@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/.github @ 2.0.2](https://github.com/sous-chefs/.github/releases/tag/2.0.2) (1 day ago)
-- [damacus/check-chef-metadata-action @ 0.2.0](https://github.com/damacus/check-chef-metadata-action/releases/tag/0.2.0) (1 day ago)
-- [sous-chefs/nagios @ 11.1.11](https://github.com/sous-chefs/nagios/releases/tag/11.1.11) (1 day ago)
-- [sous-chefs/sql_server @ 7.2.0](https://github.com/sous-chefs/sql_server/releases/tag/7.2.0) (2 days ago)
-- [sous-chefs/nginx @ 12.1.7](https://github.com/sous-chefs/nginx/releases/tag/12.1.7) (2 days ago)
+- [sous-chefs/.github @ 2.0.2](https://github.com/sous-chefs/.github/releases/tag/2.0.2) (2 days ago)
+- [damacus/check-chef-metadata-action @ 0.2.0](https://github.com/damacus/check-chef-metadata-action/releases/tag/0.2.0) (2 days ago)
+- [sous-chefs/nagios @ 11.1.11](https://github.com/sous-chefs/nagios/releases/tag/11.1.11) (2 days ago)
+- [sous-chefs/sql_server @ 7.2.0](https://github.com/sous-chefs/sql_server/releases/tag/7.2.0) (3 days ago)
+- [sous-chefs/nginx @ 12.1.7](https://github.com/sous-chefs/nginx/releases/tag/12.1.7) (3 days ago)
 
 #### ⭐ Recent Stars
 
 
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (2 weeks ago)
-- **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (3 weeks ago)
+- **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (4 weeks ago)
 - **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (4 weeks ago)
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (3 months ago)
 - **[hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s)** - First-class support for Consul Service Mesh on Kubernetes (4 months ago)
