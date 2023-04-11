@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/hashicorp-vault @ 6.3.11](https://github.com/sous-chefs/hashicorp-vault/releases/tag/6.3.11) (3 days ago)
-- [sous-chefs/sc-mongodb @ 5.1.12](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.12) (3 days ago)
-- [sous-chefs/kubernetes @ 2.0.13](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.13) (3 days ago)
-- [sous-chefs/mariadb @ 5.2.15](https://github.com/sous-chefs/mariadb/releases/tag/5.2.15) (3 days ago)
-- [sous-chefs/nodejs @ 10.1.10](https://github.com/sous-chefs/nodejs/releases/tag/10.1.10) (3 days ago)
+- [sous-chefs/hashicorp-vault @ 6.3.11](https://github.com/sous-chefs/hashicorp-vault/releases/tag/6.3.11) (4 days ago)
+- [sous-chefs/sc-mongodb @ 5.1.12](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.12) (4 days ago)
+- [sous-chefs/kubernetes @ 2.0.13](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.13) (4 days ago)
+- [sous-chefs/mariadb @ 5.2.15](https://github.com/sous-chefs/mariadb/releases/tag/5.2.15) (4 days ago)
+- [sous-chefs/nodejs @ 10.1.10](https://github.com/sous-chefs/nodejs/releases/tag/10.1.10) (4 days ago)
 
 #### ⭐ Recent Stars
 
