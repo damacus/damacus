@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/yum-epel @ 4.5.1](https://github.com/sous-chefs/yum-epel/releases/tag/4.5.1) (today)
 - [sous-chefs/mariadb @ 5.2.17](https://github.com/sous-chefs/mariadb/releases/tag/5.2.17) (1 day ago)
 - [test-kitchen/kitchen-azurerm @ v1.11.0](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.11.0) (2 days ago)
 - [sous-chefs/line @ 4.5.9](https://github.com/sous-chefs/line/releases/tag/4.5.9) (2 days ago)
 - [sous-chefs/ruby_rbenv @ 5.0.13](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.13) (2 days ago)
-- [sous-chefs/firewall @ 6.2.13](https://github.com/sous-chefs/firewall/releases/tag/6.2.13) (2 days ago)
 
 #### ⭐ Recent Stars
 
