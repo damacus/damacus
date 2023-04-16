@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/check-chef-metadata-action @ 0.2.0](https://github.com/damacus/check-chef-metadata-action/releases/tag/0.2.0) (3 days ago)
+- [damacus/check-chef-metadata-action @ 0.2.1](https://github.com/damacus/check-chef-metadata-action/releases/tag/0.2.1) (today)
 - [sous-chefs/nginx @ 12.2.0](https://github.com/sous-chefs/nginx/releases/tag/12.2.0) (3 days ago)
 - [sous-chefs/yum-epel @ 4.5.1](https://github.com/sous-chefs/yum-epel/releases/tag/4.5.1) (3 days ago)
 - [sous-chefs/mariadb @ 5.2.17](https://github.com/sous-chefs/mariadb/releases/tag/5.2.17) (4 days ago)
