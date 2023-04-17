@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/vim @ 2.1.16](https://github.com/sous-chefs/vim/releases/tag/2.1.16) (today)
-- [sous-chefs/golang @ 5.4.12](https://github.com/sous-chefs/golang/releases/tag/5.4.12) (today)
-- [sous-chefs/cron @ 7.0.18](https://github.com/sous-chefs/cron/releases/tag/7.0.18) (today)
-- [sous-chefs/java @ 11.1.11](https://github.com/sous-chefs/java/releases/tag/11.1.11) (today)
-- [sous-chefs/postfix @ 6.0.19](https://github.com/sous-chefs/postfix/releases/tag/6.0.19) (today)
+- [sous-chefs/yum-epel @ 5.0.0](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.0) (today)
+- [sous-chefs/grafana @ 10.2.13](https://github.com/sous-chefs/grafana/releases/tag/10.2.13) (today)
+- [sous-chefs/varnish @ 5.0.13](https://github.com/sous-chefs/varnish/releases/tag/5.0.13) (today)
+- [sous-chefs/postfix @ 6.0.20](https://github.com/sous-chefs/postfix/releases/tag/6.0.20) (today)
+- [sous-chefs/apache2 @ 8.15.10](https://github.com/sous-chefs/apache2/releases/tag/8.15.10) (today)
 
 #### ⭐ Recent Stars
 
