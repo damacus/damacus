@@ -5,20 +5,20 @@
 I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 👨‍💻 Repositories I created recently
+- **[damacus/terraform-kubernetes-k3s-upgrade-controller](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller)** - Terraform Module for installing the k3s system upgrade controller
+- **[damacus/terraform-helm-release](https://github.com/damacus/terraform-helm-release)** - Terraform Module for configuring a Helm Release
 - **[damacus/homebrew-brewfile](https://github.com/damacus/homebrew-brewfile)** - Brewfiles
 - **[damacus/charts](https://github.com/damacus/charts)** - Terraform Module to Request a certificate from Cert Manager
 - **[damacus/ee-hello-kube](https://github.com/damacus/ee-hello-kube)** - An over the top hello world with Kube
-- **[damacus/terraform-module-github-repository](https://github.com/damacus/terraform-module-github-repository)** - Terraform Module for managing defaults on GitHub Repositories
-- **[damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action)** - GitHub Action to check if the metadata in a cookbook is correct
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/homebrew @ 5.3.8](https://github.com/sous-chefs/homebrew/releases/tag/5.3.8) (1 day ago)
-- [sous-chefs/mariadb @ 5.2.18](https://github.com/sous-chefs/mariadb/releases/tag/5.2.18) (1 day ago)
-- [sous-chefs/.github @ 2.0.2](https://github.com/sous-chefs/.github/releases/tag/2.0.2) (1 day ago)
-- [damacus/check-chef-metadata-action @ 0.2.1](https://github.com/damacus/check-chef-metadata-action/releases/tag/0.2.1) (1 day ago)
-- [sous-chefs/nginx @ 12.2.0](https://github.com/sous-chefs/nginx/releases/tag/12.2.0) (4 days ago)
+- [sous-chefs/vim @ 2.1.16](https://github.com/sous-chefs/vim/releases/tag/2.1.16) (today)
+- [sous-chefs/golang @ 5.4.12](https://github.com/sous-chefs/golang/releases/tag/5.4.12) (today)
+- [sous-chefs/cron @ 7.0.18](https://github.com/sous-chefs/cron/releases/tag/7.0.18) (today)
+- [sous-chefs/java @ 11.1.11](https://github.com/sous-chefs/java/releases/tag/11.1.11) (today)
+- [sous-chefs/postfix @ 6.0.19](https://github.com/sous-chefs/postfix/releases/tag/6.0.19) (today)
 
 #### ⭐ Recent Stars
 
