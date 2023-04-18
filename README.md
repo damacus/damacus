@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/yum-elrepo @ 2.1.5](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.1.5) (today)
 - [sous-chefs/nagios @ 11.1.12](https://github.com/sous-chefs/nagios/releases/tag/11.1.12) (today)
 - [sous-chefs/yum-epel @ 5.0.0](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.0) (1 day ago)
 - [sous-chefs/grafana @ 10.2.13](https://github.com/sous-chefs/grafana/releases/tag/10.2.13) (1 day ago)
 - [sous-chefs/varnish @ 5.0.13](https://github.com/sous-chefs/varnish/releases/tag/5.0.13) (1 day ago)
-- [sous-chefs/postfix @ 6.0.20](https://github.com/sous-chefs/postfix/releases/tag/6.0.20) (1 day ago)
 
 #### ⭐ Recent Stars
 
