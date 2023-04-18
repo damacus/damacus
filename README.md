@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/yum-epel @ 5.0.0](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.0) (today)
-- [sous-chefs/grafana @ 10.2.13](https://github.com/sous-chefs/grafana/releases/tag/10.2.13) (today)
-- [sous-chefs/varnish @ 5.0.13](https://github.com/sous-chefs/varnish/releases/tag/5.0.13) (today)
-- [sous-chefs/postfix @ 6.0.20](https://github.com/sous-chefs/postfix/releases/tag/6.0.20) (today)
-- [sous-chefs/apache2 @ 8.15.10](https://github.com/sous-chefs/apache2/releases/tag/8.15.10) (today)
+- [sous-chefs/yum-epel @ 5.0.0](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.0) (1 day ago)
+- [sous-chefs/grafana @ 10.2.13](https://github.com/sous-chefs/grafana/releases/tag/10.2.13) (1 day ago)
+- [sous-chefs/varnish @ 5.0.13](https://github.com/sous-chefs/varnish/releases/tag/5.0.13) (1 day ago)
+- [sous-chefs/postfix @ 6.0.20](https://github.com/sous-chefs/postfix/releases/tag/6.0.20) (1 day ago)
+- [sous-chefs/apache2 @ 8.15.10](https://github.com/sous-chefs/apache2/releases/tag/8.15.10) (1 day ago)
 
 #### ⭐ Recent Stars
 
 
-- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (6 days ago)
+- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (1 week ago)
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (3 weeks ago)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (1 month ago)
 - **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (1 month ago)
