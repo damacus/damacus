@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/docker @ 10.4.7](https://github.com/sous-chefs/docker/releases/tag/10.4.7) (3 days ago)
-- [sous-chefs/certificate @ 2.0.16](https://github.com/sous-chefs/certificate/releases/tag/2.0.16) (4 days ago)
-- [sous-chefs/ruby_rbenv @ 5.0.14](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.14) (4 days ago)
-- [sous-chefs/mariadb @ 5.2.19](https://github.com/sous-chefs/mariadb/releases/tag/5.2.19) (5 days ago)
-- [sous-chefs/yum-elrepo @ 2.2.0](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.2.0) (5 days ago)
+- [sous-chefs/docker @ 10.4.7](https://github.com/sous-chefs/docker/releases/tag/10.4.7) (4 days ago)
+- [sous-chefs/certificate @ 2.0.16](https://github.com/sous-chefs/certificate/releases/tag/2.0.16) (5 days ago)
+- [sous-chefs/ruby_rbenv @ 5.0.14](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.14) (5 days ago)
+- [sous-chefs/mariadb @ 5.2.19](https://github.com/sous-chefs/mariadb/releases/tag/5.2.19) (6 days ago)
+- [sous-chefs/yum-elrepo @ 2.2.0](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.2.0) (6 days ago)
 
 #### ⭐ Recent Stars
 
