@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/clone-org-repos @ v0.0.2](https://github.com/damacus/clone-org-repos/releases/tag/v0.0.2) (today)
-- [sous-chefs/homebrew @ 5.4.0](https://github.com/sous-chefs/homebrew/releases/tag/5.4.0) (1 day ago)
-- [sous-chefs/docker @ 10.4.8](https://github.com/sous-chefs/docker/releases/tag/10.4.8) (1 day ago)
-- [sous-chefs/apache2 @ 9.0.1](https://github.com/sous-chefs/apache2/releases/tag/9.0.1) (1 day ago)
-- [sous-chefs/certificate @ 2.0.16](https://github.com/sous-chefs/certificate/releases/tag/2.0.16) (6 days ago)
+- [sous-chefs/redisio @ 6.3.7](https://github.com/sous-chefs/redisio/releases/tag/6.3.7) (today)
+- [sous-chefs/rundeck @ 8.1.0](https://github.com/sous-chefs/rundeck/releases/tag/8.1.0) (today)
+- [sous-chefs/nagios @ 11.2.0](https://github.com/sous-chefs/nagios/releases/tag/11.2.0) (today)
+- [sous-chefs/percona @ 3.2.11](https://github.com/sous-chefs/percona/releases/tag/3.2.11) (today)
+- [sous-chefs/ufw @ 4.0.0](https://github.com/sous-chefs/ufw/releases/tag/4.0.0) (today)
 
 #### ⭐ Recent Stars
 
