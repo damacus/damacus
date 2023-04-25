@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/docker @ 10.4.7](https://github.com/sous-chefs/docker/releases/tag/10.4.7) (4 days ago)
-- [sous-chefs/certificate @ 2.0.16](https://github.com/sous-chefs/certificate/releases/tag/2.0.16) (5 days ago)
-- [sous-chefs/ruby_rbenv @ 5.0.14](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.14) (5 days ago)
-- [sous-chefs/mariadb @ 5.2.19](https://github.com/sous-chefs/mariadb/releases/tag/5.2.19) (6 days ago)
-- [sous-chefs/yum-elrepo @ 2.2.0](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.2.0) (6 days ago)
+- [sous-chefs/homebrew @ 5.4.0](https://github.com/sous-chefs/homebrew/releases/tag/5.4.0) (1 day ago)
+- [sous-chefs/docker @ 10.4.8](https://github.com/sous-chefs/docker/releases/tag/10.4.8) (1 day ago)
+- [sous-chefs/apache2 @ 9.0.1](https://github.com/sous-chefs/apache2/releases/tag/9.0.1) (1 day ago)
+- [sous-chefs/certificate @ 2.0.16](https://github.com/sous-chefs/certificate/releases/tag/2.0.16) (6 days ago)
+- [sous-chefs/ruby_rbenv @ 5.0.14](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.14) (6 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (1 week ago)
+- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (2 weeks ago)
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (1 month ago)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (1 month ago)
 - **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (1 month ago)
