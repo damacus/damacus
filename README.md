@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/redisio @ 6.4.0](https://github.com/sous-chefs/redisio/releases/tag/6.4.0) (today)
+- [sous-chefs/firewall @ 6.2.15](https://github.com/sous-chefs/firewall/releases/tag/6.2.15) (today)
 - [sous-chefs/percona @ 3.3.0](https://github.com/sous-chefs/percona/releases/tag/3.3.0) (1 day ago)
-- [sous-chefs/redisio @ 6.3.7](https://github.com/sous-chefs/redisio/releases/tag/6.3.7) (1 day ago)
 - [sous-chefs/rundeck @ 8.1.0](https://github.com/sous-chefs/rundeck/releases/tag/8.1.0) (1 day ago)
 - [sous-chefs/nagios @ 11.2.0](https://github.com/sous-chefs/nagios/releases/tag/11.2.0) (1 day ago)
-- [sous-chefs/ufw @ 4.0.0](https://github.com/sous-chefs/ufw/releases/tag/4.0.0) (1 day ago)
 
 #### ⭐ Recent Stars
 
