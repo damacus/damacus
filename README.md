@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/mariadb @ 5.3.0](https://github.com/sous-chefs/mariadb/releases/tag/5.3.0) (today)
+- [sous-chefs/yum-centos @ 5.2.3](https://github.com/sous-chefs/yum-centos/releases/tag/5.2.3) (today)
 - [sous-chefs/tftp @ 4.0.6](https://github.com/sous-chefs/tftp/releases/tag/4.0.6) (6 days ago)
 - [sous-chefs/line @ 4.5.11](https://github.com/sous-chefs/line/releases/tag/4.5.11) (6 days ago)
 - [sous-chefs/packagecloud @ 2.0.2](https://github.com/sous-chefs/packagecloud/releases/tag/2.0.2) (6 days ago)
-- [sous-chefs/redisio @ 6.4.0](https://github.com/sous-chefs/redisio/releases/tag/6.4.0) (6 days ago)
-- [sous-chefs/firewall @ 6.2.15](https://github.com/sous-chefs/firewall/releases/tag/6.2.15) (6 days ago)
 
 #### ⭐ Recent Stars
 
