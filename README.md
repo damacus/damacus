@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (3 months ago)
 
 #### 📄 Latest blog posts
+- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (today)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (3 months ago)
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
-- [OpenSource Entitlement](https://medium.com/@dan.m.webb/opensource-entitlement-f4584a035063?source=rss-bbba9c670f6e------2) (3 years ago)
