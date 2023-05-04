@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/ntp @ 5.0.9](https://github.com/sous-chefs/ntp/releases/tag/5.0.9) (today)
-- [sous-chefs/iis_urlrewrite @ 2.1.7](https://github.com/sous-chefs/iis_urlrewrite/releases/tag/2.1.7) (today)
-- [sous-chefs/kubernetes @ 2.0.14](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.14) (today)
-- [sous-chefs/sc_vscode @ 2.0.4](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.4) (today)
-- [sous-chefs/nano @ 3.0.5](https://github.com/sous-chefs/nano/releases/tag/3.0.5) (today)
+- [sous-chefs/cinc-omnibus @ 1.1.0](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.0) (1 day ago)
+- [sous-chefs/ntp @ 5.0.9](https://github.com/sous-chefs/ntp/releases/tag/5.0.9) (1 day ago)
+- [sous-chefs/iis_urlrewrite @ 2.1.7](https://github.com/sous-chefs/iis_urlrewrite/releases/tag/2.1.7) (1 day ago)
+- [sous-chefs/kubernetes @ 2.0.14](https://github.com/sous-chefs/kubernetes/releases/tag/2.0.14) (1 day ago)
+- [sous-chefs/sc_vscode @ 2.0.4](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.4) (1 day ago)
 
 #### ⭐ Recent Stars
 
