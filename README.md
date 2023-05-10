@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/squid @ 5.0.0](https://github.com/sous-chefs/squid/releases/tag/5.0.0) (today)
-- [sous-chefs/seven_zip @ 4.2.7](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.7) (5 days ago)
-- [sous-chefs/postgresql @ 11.2.11](https://github.com/sous-chefs/postgresql/releases/tag/11.2.11) (5 days ago)
-- [sous-chefs/resolver @ 4.1.2](https://github.com/sous-chefs/resolver/releases/tag/4.1.2) (5 days ago)
-- [sous-chefs/sensors @ 2.0.3](https://github.com/sous-chefs/sensors/releases/tag/2.0.3) (5 days ago)
+- [sous-chefs/squid @ 5.0.0](https://github.com/sous-chefs/squid/releases/tag/5.0.0) (1 day ago)
+- [sous-chefs/seven_zip @ 4.2.7](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.7) (6 days ago)
+- [sous-chefs/postgresql @ 11.2.11](https://github.com/sous-chefs/postgresql/releases/tag/11.2.11) (6 days ago)
+- [sous-chefs/resolver @ 4.1.2](https://github.com/sous-chefs/resolver/releases/tag/4.1.2) (6 days ago)
+- [sous-chefs/sensors @ 2.0.3](https://github.com/sous-chefs/sensors/releases/tag/2.0.3) (6 days ago)
 
 #### ⭐ Recent Stars
 
@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (4 months ago)
 
 #### 📄 Latest blog posts
-- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (5 days ago)
+- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (6 days ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (3 months ago)
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
