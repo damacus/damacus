@@ -14,22 +14,22 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/squid @ 5.1.0](https://github.com/sous-chefs/squid/releases/tag/5.1.0) (today)
-- [sous-chefs/sql_server @ 7.2.2](https://github.com/sous-chefs/sql_server/releases/tag/7.2.2) (today)
-- [sous-chefs/seven_zip @ 4.2.7](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.7) (6 days ago)
-- [sous-chefs/postgresql @ 11.2.11](https://github.com/sous-chefs/postgresql/releases/tag/11.2.11) (6 days ago)
-- [sous-chefs/resolver @ 4.1.2](https://github.com/sous-chefs/resolver/releases/tag/4.1.2) (6 days ago)
+- [sous-chefs/squid @ 5.1.0](https://github.com/sous-chefs/squid/releases/tag/5.1.0) (1 day ago)
+- [sous-chefs/sql_server @ 7.2.2](https://github.com/sous-chefs/sql_server/releases/tag/7.2.2) (1 day ago)
+- [sous-chefs/seven_zip @ 4.2.7](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.7) (1 week ago)
+- [sous-chefs/postgresql @ 11.2.11](https://github.com/sous-chefs/postgresql/releases/tag/11.2.11) (1 week ago)
+- [sous-chefs/resolver @ 4.1.2](https://github.com/sous-chefs/resolver/releases/tag/4.1.2) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (4 weeks ago)
+- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (1 month ago)
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (1 month ago)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (2 months ago)
 - **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (2 months ago)
 - **[jmcglock/kubernetes](https://github.com/jmcglock/kubernetes)** - Some kubernetes stuff. (4 months ago)
 
 #### 📄 Latest blog posts
-- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (6 days ago)
+- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (1 week ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (3 months ago)
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
