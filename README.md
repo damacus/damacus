@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/ruby_build @ 2.3.15](https://github.com/sous-chefs/ruby_build/releases/tag/2.3.15) (today)
 - [sous-chefs/squid @ 5.1.0](https://github.com/sous-chefs/squid/releases/tag/5.1.0) (5 days ago)
 - [sous-chefs/sql_server @ 7.2.2](https://github.com/sous-chefs/sql_server/releases/tag/7.2.2) (5 days ago)
 - [sous-chefs/seven_zip @ 4.2.7](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.7) (1 week ago)
 - [sous-chefs/postgresql @ 11.2.11](https://github.com/sous-chefs/postgresql/releases/tag/11.2.11) (1 week ago)
-- [sous-chefs/resolver @ 4.1.2](https://github.com/sous-chefs/resolver/releases/tag/4.1.2) (1 week ago)
 
 #### ⭐ Recent Stars
 
