@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/ruby_build @ 2.5.0](https://github.com/sous-chefs/ruby_build/releases/tag/2.5.0) (1 day ago)
-- [sous-chefs/redisio @ 6.4.1](https://github.com/sous-chefs/redisio/releases/tag/6.4.1) (1 day ago)
-- [sous-chefs/stunnel @ 5.0.2](https://github.com/sous-chefs/stunnel/releases/tag/5.0.2) (1 day ago)
-- [sous-chefs/java @ 11.1.12](https://github.com/sous-chefs/java/releases/tag/11.1.12) (1 day ago)
-- [sous-chefs/gpg @ 2.0.8](https://github.com/sous-chefs/gpg/releases/tag/2.0.8) (1 day ago)
+- [sous-chefs/yum-elrepo @ 2.2.1](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.2.1) (today)
+- [sous-chefs/vim @ 2.1.17](https://github.com/sous-chefs/vim/releases/tag/2.1.17) (today)
+- [sous-chefs/ufw @ 4.0.1](https://github.com/sous-chefs/ufw/releases/tag/4.0.1) (today)
+- [sous-chefs/trusted_certificate @ 4.0.7](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.7) (today)
+- [sous-chefs/tomcat @ 5.0.12](https://github.com/sous-chefs/tomcat/releases/tag/5.0.12) (today)
 
 #### ⭐ Recent Stars
 
