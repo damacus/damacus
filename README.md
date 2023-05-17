@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/ruby_build @ 2.5.0](https://github.com/sous-chefs/ruby_build/releases/tag/2.5.0) (today)
-- [sous-chefs/redisio @ 6.4.1](https://github.com/sous-chefs/redisio/releases/tag/6.4.1) (today)
-- [sous-chefs/stunnel @ 5.0.2](https://github.com/sous-chefs/stunnel/releases/tag/5.0.2) (today)
-- [sous-chefs/java @ 11.1.12](https://github.com/sous-chefs/java/releases/tag/11.1.12) (today)
-- [sous-chefs/gpg @ 2.0.8](https://github.com/sous-chefs/gpg/releases/tag/2.0.8) (today)
+- [sous-chefs/ruby_build @ 2.5.0](https://github.com/sous-chefs/ruby_build/releases/tag/2.5.0) (1 day ago)
+- [sous-chefs/redisio @ 6.4.1](https://github.com/sous-chefs/redisio/releases/tag/6.4.1) (1 day ago)
+- [sous-chefs/stunnel @ 5.0.2](https://github.com/sous-chefs/stunnel/releases/tag/5.0.2) (1 day ago)
+- [sous-chefs/java @ 11.1.12](https://github.com/sous-chefs/java/releases/tag/11.1.12) (1 day ago)
+- [sous-chefs/gpg @ 2.0.8](https://github.com/sous-chefs/gpg/releases/tag/2.0.8) (1 day ago)
 
 #### ⭐ Recent Stars
 
 
-- **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (5 days ago)
+- **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (6 days ago)
 - **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (1 month ago)
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (1 month ago)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (2 months ago)
