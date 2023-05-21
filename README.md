@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/git @ 12.1.0](https://github.com/sous-chefs/git/releases/tag/12.1.0) (2 days ago)
-- [sous-chefs/trusted_certificate @ 4.0.8](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.8) (3 days ago)
-- [sous-chefs/yum-elrepo @ 2.2.1](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.2.1) (3 days ago)
-- [sous-chefs/vim @ 2.1.17](https://github.com/sous-chefs/vim/releases/tag/2.1.17) (3 days ago)
-- [sous-chefs/ufw @ 4.0.1](https://github.com/sous-chefs/ufw/releases/tag/4.0.1) (3 days ago)
+- [sous-chefs/git @ 12.1.0](https://github.com/sous-chefs/git/releases/tag/12.1.0) (3 days ago)
+- [sous-chefs/trusted_certificate @ 4.0.8](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.8) (4 days ago)
+- [sous-chefs/yum-elrepo @ 2.2.1](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.2.1) (4 days ago)
+- [sous-chefs/vim @ 2.1.17](https://github.com/sous-chefs/vim/releases/tag/2.1.17) (4 days ago)
+- [sous-chefs/ufw @ 4.0.1](https://github.com/sous-chefs/ufw/releases/tag/4.0.1) (4 days ago)
 
 #### ⭐ Recent Stars
 
