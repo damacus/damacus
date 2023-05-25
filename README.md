@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/git @ 12.1.0](https://github.com/sous-chefs/git/releases/tag/12.1.0) (6 days ago)
+- [sous-chefs/git @ 12.1.0](https://github.com/sous-chefs/git/releases/tag/12.1.0) (1 week ago)
 - [sous-chefs/trusted_certificate @ 4.0.8](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.8) (1 week ago)
 - [sous-chefs/yum-elrepo @ 2.2.1](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.2.1) (1 week ago)
 - [sous-chefs/vim @ 2.1.17](https://github.com/sous-chefs/vim/releases/tag/2.1.17) (1 week ago)
@@ -23,13 +23,13 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (1 week ago)
+- **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (2 weeks ago)
 - **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (1 month ago)
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (2 months ago)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (2 months ago)
 - **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (2 months ago)
 
 #### 📄 Latest blog posts
-- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (2 weeks ago)
+- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (3 weeks ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (3 months ago)
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
