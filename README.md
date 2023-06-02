@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/sc-mongodb @ 5.1.15](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.15) (today)
-- [sous-chefs/control_groups @ 0.2.8](https://github.com/sous-chefs/control_groups/releases/tag/0.2.8) (today)
-- [sous-chefs/mingw @ 2.1.7](https://github.com/sous-chefs/mingw/releases/tag/2.1.7) (today)
-- [sous-chefs/iis @ 8.0.17](https://github.com/sous-chefs/iis/releases/tag/8.0.17) (today)
-- [sous-chefs/homebrew @ 5.4.1](https://github.com/sous-chefs/homebrew/releases/tag/5.4.1) (today)
+- [sous-chefs/yum-remi-chef @ 7.0.2](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.0.2) (1 day ago)
+- [sous-chefs/docker @ 11.0.1](https://github.com/sous-chefs/docker/releases/tag/11.0.1) (1 day ago)
+- [sous-chefs/sc-mongodb @ 5.1.15](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.15) (1 day ago)
+- [sous-chefs/control_groups @ 0.2.8](https://github.com/sous-chefs/control_groups/releases/tag/0.2.8) (1 day ago)
+- [sous-chefs/mingw @ 2.1.7](https://github.com/sous-chefs/mingw/releases/tag/2.1.7) (1 day ago)
 
 #### ⭐ Recent Stars
 
