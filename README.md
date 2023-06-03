@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/yum-remi-chef @ 7.0.2](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.0.2) (1 day ago)
-- [sous-chefs/docker @ 11.0.1](https://github.com/sous-chefs/docker/releases/tag/11.0.1) (1 day ago)
-- [sous-chefs/sc-mongodb @ 5.1.15](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.15) (1 day ago)
-- [sous-chefs/control_groups @ 0.2.8](https://github.com/sous-chefs/control_groups/releases/tag/0.2.8) (1 day ago)
-- [sous-chefs/mingw @ 2.1.7](https://github.com/sous-chefs/mingw/releases/tag/2.1.7) (1 day ago)
+- [sous-chefs/yum-remi-chef @ 7.0.2](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.0.2) (2 days ago)
+- [sous-chefs/docker @ 11.0.1](https://github.com/sous-chefs/docker/releases/tag/11.0.1) (2 days ago)
+- [sous-chefs/sc-mongodb @ 5.1.15](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.15) (2 days ago)
+- [sous-chefs/control_groups @ 0.2.8](https://github.com/sous-chefs/control_groups/releases/tag/0.2.8) (2 days ago)
+- [sous-chefs/mingw @ 2.1.7](https://github.com/sous-chefs/mingw/releases/tag/2.1.7) (2 days ago)
 
 #### ⭐ Recent Stars
 
@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (2 months ago)
 
 #### 📄 Latest blog posts
-- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (4 weeks ago)
+- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (1 month ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (4 months ago)
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
