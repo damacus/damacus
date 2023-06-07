@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/docker @ 11.1.0](https://github.com/sous-chefs/docker/releases/tag/11.1.0) (today)
-- [sous-chefs/yum-remi-chef @ 7.0.2](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.0.2) (5 days ago)
-- [sous-chefs/sc-mongodb @ 5.1.15](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.15) (5 days ago)
-- [sous-chefs/control_groups @ 0.2.8](https://github.com/sous-chefs/control_groups/releases/tag/0.2.8) (5 days ago)
-- [sous-chefs/mingw @ 2.1.7](https://github.com/sous-chefs/mingw/releases/tag/2.1.7) (5 days ago)
+- [sous-chefs/postgresql @ 11.3.0](https://github.com/sous-chefs/postgresql/releases/tag/11.3.0) (1 day ago)
+- [sous-chefs/docker @ 11.1.0](https://github.com/sous-chefs/docker/releases/tag/11.1.0) (1 day ago)
+- [sous-chefs/yum-remi-chef @ 7.0.2](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.0.2) (6 days ago)
+- [sous-chefs/sc-mongodb @ 5.1.15](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.15) (6 days ago)
+- [sous-chefs/control_groups @ 0.2.8](https://github.com/sous-chefs/control_groups/releases/tag/0.2.8) (6 days ago)
 
 #### ⭐ Recent Stars
 
@@ -27,7 +27,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (1 month ago)
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (2 months ago)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (2 months ago)
-- **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (2 months ago)
+- **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (3 months ago)
 
 #### 📄 Latest blog posts
 - [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (1 month ago)
