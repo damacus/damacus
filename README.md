@@ -14,19 +14,19 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/elixir @ 3.0.8](https://github.com/sous-chefs/elixir/releases/tag/3.0.8) (today)
-- [sous-chefs/percona @ 3.4.0](https://github.com/sous-chefs/percona/releases/tag/3.4.0) (today)
-- [sous-chefs/postgresql @ 11.3.0](https://github.com/sous-chefs/postgresql/releases/tag/11.3.0) (1 day ago)
-- [sous-chefs/docker @ 11.1.0](https://github.com/sous-chefs/docker/releases/tag/11.1.0) (1 day ago)
-- [sous-chefs/yum-remi-chef @ 7.0.2](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.0.2) (6 days ago)
+- [sous-chefs/elixir @ 3.0.8](https://github.com/sous-chefs/elixir/releases/tag/3.0.8) (1 day ago)
+- [sous-chefs/percona @ 3.4.0](https://github.com/sous-chefs/percona/releases/tag/3.4.0) (1 day ago)
+- [sous-chefs/postgresql @ 11.3.0](https://github.com/sous-chefs/postgresql/releases/tag/11.3.0) (2 days ago)
+- [sous-chefs/docker @ 11.1.0](https://github.com/sous-chefs/docker/releases/tag/11.1.0) (2 days ago)
+- [sous-chefs/yum-remi-chef @ 7.0.2](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.0.2) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (3 weeks ago)
+- **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (4 weeks ago)
 - **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (1 month ago)
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (2 months ago)
-- **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (2 months ago)
+- **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (3 months ago)
 - **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (3 months ago)
 
 #### 📄 Latest blog posts
