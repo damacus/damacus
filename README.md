@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.0.2](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.0.2) (1 day ago)
-- [sous-chefs/aptly @ 3.1.6](https://github.com/sous-chefs/aptly/releases/tag/3.1.6) (1 day ago)
-- [sous-chefs/sssd_ldap @ 5.2.2](https://github.com/sous-chefs/sssd_ldap/releases/tag/5.2.2) (1 day ago)
-- [sous-chefs/pyenv @ 4.2.3](https://github.com/sous-chefs/pyenv/releases/tag/4.2.3) (1 day ago)
-- [sous-chefs/snort @ 5.0.6](https://github.com/sous-chefs/snort/releases/tag/5.0.6) (1 day ago)
+- [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.0.2](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.0.2) (2 days ago)
+- [sous-chefs/aptly @ 3.1.6](https://github.com/sous-chefs/aptly/releases/tag/3.1.6) (2 days ago)
+- [sous-chefs/sssd_ldap @ 5.2.2](https://github.com/sous-chefs/sssd_ldap/releases/tag/5.2.2) (2 days ago)
+- [sous-chefs/pyenv @ 4.2.3](https://github.com/sous-chefs/pyenv/releases/tag/4.2.3) (2 days ago)
+- [sous-chefs/snort @ 5.0.6](https://github.com/sous-chefs/snort/releases/tag/5.0.6) (2 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (4 weeks ago)
-- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (1 month ago)
+- **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (1 month ago)
+- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (2 months ago)
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (2 months ago)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (3 months ago)
 - **[mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)** - A VSCode extension that allows you to use ChatGPT (3 months ago)
