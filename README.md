@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.0.2](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.0.2) (2 days ago)
-- [sous-chefs/aptly @ 3.1.6](https://github.com/sous-chefs/aptly/releases/tag/3.1.6) (2 days ago)
-- [sous-chefs/sssd_ldap @ 5.2.2](https://github.com/sous-chefs/sssd_ldap/releases/tag/5.2.2) (2 days ago)
-- [sous-chefs/pyenv @ 4.2.3](https://github.com/sous-chefs/pyenv/releases/tag/4.2.3) (2 days ago)
-- [sous-chefs/snort @ 5.0.6](https://github.com/sous-chefs/snort/releases/tag/5.0.6) (2 days ago)
+- [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.0.2](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.0.2) (3 days ago)
+- [sous-chefs/aptly @ 3.1.6](https://github.com/sous-chefs/aptly/releases/tag/3.1.6) (3 days ago)
+- [sous-chefs/sssd_ldap @ 5.2.2](https://github.com/sous-chefs/sssd_ldap/releases/tag/5.2.2) (3 days ago)
+- [sous-chefs/pyenv @ 4.2.3](https://github.com/sous-chefs/pyenv/releases/tag/4.2.3) (3 days ago)
+- [sous-chefs/snort @ 5.0.6](https://github.com/sous-chefs/snort/releases/tag/5.0.6) (3 days ago)
 
 #### ⭐ Recent Stars
 
