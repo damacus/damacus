@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/percona @ 3.4.1](https://github.com/sous-chefs/percona/releases/tag/3.4.1) (3 days ago)
+- [sous-chefs/percona @ 3.4.1](https://github.com/sous-chefs/percona/releases/tag/3.4.1) (4 days ago)
 - [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.0.2](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.0.2) (1 week ago)
 - [sous-chefs/aptly @ 3.1.6](https://github.com/sous-chefs/aptly/releases/tag/3.1.6) (1 week ago)
 - [sous-chefs/sssd_ldap @ 5.2.2](https://github.com/sous-chefs/sssd_ldap/releases/tag/5.2.2) (1 week ago)
