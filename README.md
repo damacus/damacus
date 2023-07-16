@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.0.4](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.0.4) (4 days ago)
-- [sous-chefs/docker @ 11.1.1](https://github.com/sous-chefs/docker/releases/tag/11.1.1) (5 days ago)
-- [sous-chefs/trusted_certificate @ 4.0.9](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.9) (5 days ago)
-- [sous-chefs/sql_server @ 7.2.4](https://github.com/sous-chefs/sql_server/releases/tag/7.2.4) (5 days ago)
-- [sous-chefs/ruby_rbenv @ 5.0.16](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.16) (5 days ago)
+- [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.0.4](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.0.4) (5 days ago)
+- [sous-chefs/docker @ 11.1.1](https://github.com/sous-chefs/docker/releases/tag/11.1.1) (6 days ago)
+- [sous-chefs/trusted_certificate @ 4.0.9](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.9) (6 days ago)
+- [sous-chefs/sql_server @ 7.2.4](https://github.com/sous-chefs/sql_server/releases/tag/7.2.4) (6 days ago)
+- [sous-chefs/ruby_rbenv @ 5.0.16](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.16) (6 days ago)
 
 #### ⭐ Recent Stars
 
