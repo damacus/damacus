@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.0.4](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.0.4) (5 days ago)
-- [sous-chefs/docker @ 11.1.1](https://github.com/sous-chefs/docker/releases/tag/11.1.1) (6 days ago)
-- [sous-chefs/trusted_certificate @ 4.0.9](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.9) (6 days ago)
-- [sous-chefs/sql_server @ 7.2.4](https://github.com/sous-chefs/sql_server/releases/tag/7.2.4) (6 days ago)
-- [sous-chefs/ruby_rbenv @ 5.0.16](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.16) (6 days ago)
+- [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.0.4](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.0.4) (6 days ago)
+- [sous-chefs/docker @ 11.1.1](https://github.com/sous-chefs/docker/releases/tag/11.1.1) (1 week ago)
+- [sous-chefs/trusted_certificate @ 4.0.9](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.9) (1 week ago)
+- [sous-chefs/sql_server @ 7.2.4](https://github.com/sous-chefs/sql_server/releases/tag/7.2.4) (1 week ago)
+- [sous-chefs/ruby_rbenv @ 5.0.16](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.16) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions)** - GitHub token permissions Monitor and Advisor actions (2 weeks ago)
+- **[GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions)** - GitHub token permissions Monitor and Advisor actions (3 weeks ago)
 - **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (2 months ago)
 - **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (3 months ago)
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (3 months ago)
