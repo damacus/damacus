@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/postgresql @ 11.6.3](https://github.com/sous-chefs/postgresql/releases/tag/11.6.3) (4 days ago)
-- [sous-chefs/grafana @ 10.5.1](https://github.com/sous-chefs/grafana/releases/tag/10.5.1) (5 days ago)
+- [sous-chefs/postgresql @ 11.6.3](https://github.com/sous-chefs/postgresql/releases/tag/11.6.3) (5 days ago)
+- [sous-chefs/grafana @ 10.5.1](https://github.com/sous-chefs/grafana/releases/tag/10.5.1) (6 days ago)
 - [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.0.4](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.0.4) (2 weeks ago)
 - [sous-chefs/docker @ 11.1.1](https://github.com/sous-chefs/docker/releases/tag/11.1.1) (2 weeks ago)
 - [sous-chefs/trusted_certificate @ 4.0.9](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.9) (2 weeks ago)
