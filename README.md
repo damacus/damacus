@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/firewall @ 6.3.0](https://github.com/sous-chefs/firewall/releases/tag/6.3.0) (today)
 - [sous-chefs/jenkins @ 9.5.16](https://github.com/sous-chefs/jenkins/releases/tag/9.5.16) (today)
 - [sous-chefs/openssh @ 2.11.0](https://github.com/sous-chefs/openssh/releases/tag/2.11.0) (today)
-- [sous-chefs/firewall @ 6.2.18](https://github.com/sous-chefs/firewall/releases/tag/6.2.18) (1 day ago)
 - [sous-chefs/postgresql @ 11.6.3](https://github.com/sous-chefs/postgresql/releases/tag/11.6.3) (1 week ago)
 - [sous-chefs/grafana @ 10.5.1](https://github.com/sous-chefs/grafana/releases/tag/10.5.1) (1 week ago)
 
