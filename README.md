@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/firewall @ 6.3.0](https://github.com/sous-chefs/firewall/releases/tag/6.3.0) (today)
-- [sous-chefs/jenkins @ 9.5.16](https://github.com/sous-chefs/jenkins/releases/tag/9.5.16) (today)
-- [sous-chefs/openssh @ 2.11.0](https://github.com/sous-chefs/openssh/releases/tag/2.11.0) (today)
+- [sous-chefs/firewall @ 6.3.0](https://github.com/sous-chefs/firewall/releases/tag/6.3.0) (1 day ago)
+- [sous-chefs/jenkins @ 9.5.16](https://github.com/sous-chefs/jenkins/releases/tag/9.5.16) (1 day ago)
+- [sous-chefs/openssh @ 2.11.0](https://github.com/sous-chefs/openssh/releases/tag/2.11.0) (1 day ago)
 - [sous-chefs/postgresql @ 11.6.3](https://github.com/sous-chefs/postgresql/releases/tag/11.6.3) (1 week ago)
 - [sous-chefs/grafana @ 10.5.1](https://github.com/sous-chefs/grafana/releases/tag/10.5.1) (1 week ago)
 
@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (4 months ago)
 
 #### 📄 Latest blog posts
-- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (2 months ago)
+- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (3 months ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (6 months ago)
 - [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
