@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (5 months ago)
 
 #### 📄 Latest blog posts
+- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (today)
 - [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (3 months ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (6 months ago)
-- [Terraform for_each on Modules](https://medium.com/@dan.m.webb/terraform-for-each-on-modules-bcf17c97e9ff?source=rss-bbba9c670f6e------2) (2 years ago)
