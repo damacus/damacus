@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/openssh @ 2.11.3](https://github.com/sous-chefs/openssh/releases/tag/2.11.3) (3 days ago)
+- [sous-chefs/openssh @ 2.11.3](https://github.com/sous-chefs/openssh/releases/tag/2.11.3) (4 days ago)
 - [sous-chefs/firewall @ 6.3.0](https://github.com/sous-chefs/firewall/releases/tag/6.3.0) (1 week ago)
 - [sous-chefs/jenkins @ 9.5.16](https://github.com/sous-chefs/jenkins/releases/tag/9.5.16) (1 week ago)
 - [sous-chefs/postgresql @ 11.6.3](https://github.com/sous-chefs/postgresql/releases/tag/11.6.3) (2 weeks ago)
@@ -24,12 +24,12 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 
 - **[GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions)** - GitHub token permissions Monitor and Advisor actions (1 month ago)
-- **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (2 months ago)
-- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (3 months ago)
+- **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (3 months ago)
+- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (4 months ago)
 - **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (4 months ago)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (5 months ago)
 
 #### 📄 Latest blog posts
-- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (today)
+- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (1 day ago)
 - [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (3 months ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (6 months ago)
