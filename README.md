@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/aws @ 9.1.0](https://github.com/sous-chefs/aws/releases/tag/9.1.0) (today)
 - [sous-chefs/docker @ 11.2.0](https://github.com/sous-chefs/docker/releases/tag/11.2.0) (1 week ago)
 - [sous-chefs/openssh @ 2.11.3](https://github.com/sous-chefs/openssh/releases/tag/2.11.3) (1 week ago)
 - [sous-chefs/firewall @ 6.3.0](https://github.com/sous-chefs/firewall/releases/tag/6.3.0) (2 weeks ago)
 - [sous-chefs/jenkins @ 9.5.16](https://github.com/sous-chefs/jenkins/releases/tag/9.5.16) (2 weeks ago)
-- [sous-chefs/postgresql @ 11.6.3](https://github.com/sous-chefs/postgresql/releases/tag/11.6.3) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
