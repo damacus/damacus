@@ -14,10 +14,10 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/docker @ 11.2.2](https://github.com/sous-chefs/docker/releases/tag/11.2.2) (today)
-- [sous-chefs/grafana @ 10.6.0](https://github.com/sous-chefs/grafana/releases/tag/10.6.0) (1 day ago)
-- [sous-chefs/aws @ 9.1.0](https://github.com/sous-chefs/aws/releases/tag/9.1.0) (1 day ago)
-- [sous-chefs/openssh @ 2.11.3](https://github.com/sous-chefs/openssh/releases/tag/2.11.3) (1 week ago)
+- [sous-chefs/docker @ 11.2.2](https://github.com/sous-chefs/docker/releases/tag/11.2.2) (1 day ago)
+- [sous-chefs/grafana @ 10.6.0](https://github.com/sous-chefs/grafana/releases/tag/10.6.0) (2 days ago)
+- [sous-chefs/aws @ 9.1.0](https://github.com/sous-chefs/aws/releases/tag/9.1.0) (2 days ago)
+- [sous-chefs/openssh @ 2.11.3](https://github.com/sous-chefs/openssh/releases/tag/2.11.3) (2 weeks ago)
 - [sous-chefs/firewall @ 6.3.0](https://github.com/sous-chefs/firewall/releases/tag/6.3.0) (2 weeks ago)
 
 #### ⭐ Recent Stars
