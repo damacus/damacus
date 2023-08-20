@@ -14,10 +14,10 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/mariadb @ 5.4.0](https://github.com/sous-chefs/mariadb/releases/tag/5.4.0) (today)
-- [sous-chefs/docker @ 11.2.2](https://github.com/sous-chefs/docker/releases/tag/11.2.2) (1 day ago)
-- [sous-chefs/grafana @ 10.6.0](https://github.com/sous-chefs/grafana/releases/tag/10.6.0) (2 days ago)
-- [sous-chefs/aws @ 9.1.0](https://github.com/sous-chefs/aws/releases/tag/9.1.0) (2 days ago)
+- [sous-chefs/mariadb @ 5.4.0](https://github.com/sous-chefs/mariadb/releases/tag/5.4.0) (1 day ago)
+- [sous-chefs/docker @ 11.2.2](https://github.com/sous-chefs/docker/releases/tag/11.2.2) (2 days ago)
+- [sous-chefs/grafana @ 10.6.0](https://github.com/sous-chefs/grafana/releases/tag/10.6.0) (3 days ago)
+- [sous-chefs/aws @ 9.1.0](https://github.com/sous-chefs/aws/releases/tag/9.1.0) (3 days ago)
 - [sous-chefs/openssh @ 2.11.3](https://github.com/sous-chefs/openssh/releases/tag/2.11.3) (2 weeks ago)
 
 #### ⭐ Recent Stars
@@ -26,7 +26,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions)** - GitHub token permissions Monitor and Advisor actions (1 month ago)
 - **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (3 months ago)
 - **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (4 months ago)
-- **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (4 months ago)
+- **[argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)** - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets (5 months ago)
 - **[xorima/github-notifications-manager](https://github.com/xorima/github-notifications-manager)** - A CLI tool to help clean up your Github notifications. (5 months ago)
 
 #### 📄 Latest blog posts
