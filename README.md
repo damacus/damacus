@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/nginx @ 12.2.3](https://github.com/sous-chefs/nginx/releases/tag/12.2.3) (today)
-- [sous-chefs/mariadb @ 5.4.0](https://github.com/sous-chefs/mariadb/releases/tag/5.4.0) (1 day ago)
-- [sous-chefs/docker @ 11.2.2](https://github.com/sous-chefs/docker/releases/tag/11.2.2) (2 days ago)
-- [sous-chefs/grafana @ 10.6.0](https://github.com/sous-chefs/grafana/releases/tag/10.6.0) (3 days ago)
-- [sous-chefs/aws @ 9.1.0](https://github.com/sous-chefs/aws/releases/tag/9.1.0) (3 days ago)
+- [sous-chefs/nginx @ 12.2.3](https://github.com/sous-chefs/nginx/releases/tag/12.2.3) (1 day ago)
+- [sous-chefs/mariadb @ 5.4.0](https://github.com/sous-chefs/mariadb/releases/tag/5.4.0) (2 days ago)
+- [sous-chefs/docker @ 11.2.2](https://github.com/sous-chefs/docker/releases/tag/11.2.2) (3 days ago)
+- [sous-chefs/grafana @ 10.6.0](https://github.com/sous-chefs/grafana/releases/tag/10.6.0) (4 days ago)
+- [sous-chefs/aws @ 9.1.0](https://github.com/sous-chefs/aws/releases/tag/9.1.0) (4 days ago)
 
 #### ⭐ Recent Stars
 
