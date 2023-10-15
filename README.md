@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/docker @ 11.3.0](https://github.com/sous-chefs/docker/releases/tag/11.3.0) (2 days ago)
-- [sous-chefs/atlantis @ 3.0.0](https://github.com/sous-chefs/atlantis/releases/tag/3.0.0) (3 days ago)
-- [sous-chefs/iis @ 8.2.0](https://github.com/sous-chefs/iis/releases/tag/8.2.0) (4 days ago)
-- [actionshub/danger-rb @ v2.1.1](https://github.com/actionshub/danger-rb/releases/tag/v2.1.1) (4 days ago)
-- [sous-chefs/ark @ 6.0.26](https://github.com/sous-chefs/ark/releases/tag/6.0.26) (1 week ago)
+- [sous-chefs/cinc-omnibus @ 1.1.7](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.7) (1 day ago)
+- [sous-chefs/docker @ 11.3.0](https://github.com/sous-chefs/docker/releases/tag/11.3.0) (3 days ago)
+- [sous-chefs/atlantis @ 3.0.0](https://github.com/sous-chefs/atlantis/releases/tag/3.0.0) (4 days ago)
+- [sous-chefs/iis @ 8.2.0](https://github.com/sous-chefs/iis/releases/tag/8.2.0) (5 days ago)
+- [actionshub/danger-rb @ v2.1.1](https://github.com/actionshub/danger-rb/releases/tag/v2.1.1) (5 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[nokyan/resources](https://github.com/nokyan/resources)** - Monitor your system resources and processes (1 day ago)
+- **[nokyan/resources](https://github.com/nokyan/resources)** - Monitor your system resources and processes (2 days ago)
 - **[home-assistant/core](https://github.com/home-assistant/core)** - :house_with_garden: Open source home automation that puts local control and privacy first. (1 week ago)
 - **[GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions)** - GitHub token permissions Monitor and Advisor actions (3 months ago)
 - **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (5 months ago)
