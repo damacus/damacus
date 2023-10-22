@@ -14,20 +14,20 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/cinc-omnibus @ 1.1.7](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.7) (2 days ago)
-- [sous-chefs/docker @ 11.3.0](https://github.com/sous-chefs/docker/releases/tag/11.3.0) (4 days ago)
-- [sous-chefs/atlantis @ 3.0.0](https://github.com/sous-chefs/atlantis/releases/tag/3.0.0) (5 days ago)
-- [sous-chefs/iis @ 8.2.0](https://github.com/sous-chefs/iis/releases/tag/8.2.0) (6 days ago)
-- [actionshub/danger-rb @ v2.1.1](https://github.com/actionshub/danger-rb/releases/tag/v2.1.1) (6 days ago)
+- [sous-chefs/apache2 @ 9.0.6](https://github.com/sous-chefs/apache2/releases/tag/9.0.6) (2 days ago)
+- [actionshub/yamllint @ v1.8.2](https://github.com/actionshub/yamllint/releases/tag/v1.8.2) (5 days ago)
+- [sous-chefs/cinc-omnibus @ 1.1.8](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.8) (6 days ago)
+- [sous-chefs/docker @ 11.3.0](https://github.com/sous-chefs/docker/releases/tag/11.3.0) (1 week ago)
+- [sous-chefs/atlantis @ 3.0.0](https://github.com/sous-chefs/atlantis/releases/tag/3.0.0) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[nokyan/resources](https://github.com/nokyan/resources)** - Monitor your system resources and processes (3 days ago)
-- **[home-assistant/core](https://github.com/home-assistant/core)** - :house_with_garden: Open source home automation that puts local control and privacy first. (1 week ago)
+- **[danielgross/localpilot](https://github.com/danielgross/localpilot)** (3 days ago)
+- **[nokyan/resources](https://github.com/nokyan/resources)** - Monitor your system resources and processes (1 week ago)
+- **[home-assistant/core](https://github.com/home-assistant/core)** - :house_with_garden: Open source home automation that puts local control and privacy first. (2 weeks ago)
 - **[GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions)** - GitHub token permissions Monitor and Advisor actions (3 months ago)
 - **[bjw-s/helm-charts-actions](https://github.com/bjw-s/helm-charts-actions)** - A collection of GitHub actions to use with helm-charts repo (5 months ago)
-- **[segmentio/kafka-go](https://github.com/segmentio/kafka-go)** - Kafka library in Go (6 months ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (2 months ago)
