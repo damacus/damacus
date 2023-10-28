@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/sc-mongodb @ 5.1.19](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.19) (1 day ago)
-- [sous-chefs/github @ 1.1.8](https://github.com/sous-chefs/github/releases/tag/1.1.8) (1 day ago)
-- [sous-chefs/haproxy @ 12.2.23](https://github.com/sous-chefs/haproxy/releases/tag/12.2.23) (1 day ago)
-- [sous-chefs/ruby_build @ 2.5.5](https://github.com/sous-chefs/ruby_build/releases/tag/2.5.5) (1 day ago)
-- [sous-chefs/.github @ 3.0.0](https://github.com/sous-chefs/.github/releases/tag/3.0.0) (1 day ago)
+- [sous-chefs/sc-mongodb @ 5.1.19](https://github.com/sous-chefs/sc-mongodb/releases/tag/5.1.19) (2 days ago)
+- [sous-chefs/github @ 1.1.8](https://github.com/sous-chefs/github/releases/tag/1.1.8) (2 days ago)
+- [sous-chefs/haproxy @ 12.2.23](https://github.com/sous-chefs/haproxy/releases/tag/12.2.23) (2 days ago)
+- [sous-chefs/ruby_build @ 2.5.5](https://github.com/sous-chefs/ruby_build/releases/tag/2.5.5) (2 days ago)
+- [sous-chefs/.github @ 3.0.0](https://github.com/sous-chefs/.github/releases/tag/3.0.0) (2 days ago)
 
 #### ⭐ Recent Stars
 
