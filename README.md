@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/sc_vscode @ 2.0.8](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.8) (2 days ago)
-- [sous-chefs/bot-trainer @ 0.1.6](https://github.com/sous-chefs/bot-trainer/releases/tag/0.1.6) (2 days ago)
-- [sous-chefs/mariadb @ 5.5.2](https://github.com/sous-chefs/mariadb/releases/tag/5.5.2) (2 days ago)
-- [sous-chefs/chef_ca @ 1.0.6](https://github.com/sous-chefs/chef_ca/releases/tag/1.0.6) (2 days ago)
-- [sous-chefs/winrm @ 3.0.4](https://github.com/sous-chefs/winrm/releases/tag/3.0.4) (2 days ago)
+- [sous-chefs/sc_vscode @ 2.0.8](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.8) (3 days ago)
+- [sous-chefs/bot-trainer @ 0.1.6](https://github.com/sous-chefs/bot-trainer/releases/tag/0.1.6) (3 days ago)
+- [sous-chefs/mariadb @ 5.5.2](https://github.com/sous-chefs/mariadb/releases/tag/5.5.2) (3 days ago)
+- [sous-chefs/chef_ca @ 1.0.6](https://github.com/sous-chefs/chef_ca/releases/tag/1.0.6) (3 days ago)
+- [sous-chefs/winrm @ 3.0.4](https://github.com/sous-chefs/winrm/releases/tag/3.0.4) (3 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[allenporter/flux-local](https://github.com/allenporter/flux-local)** - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.  (2 days ago)
+- **[allenporter/flux-local](https://github.com/allenporter/flux-local)** - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.  (3 days ago)
 - **[danielgross/localpilot](https://github.com/danielgross/localpilot)** (2 weeks ago)
 - **[nokyan/resources](https://github.com/nokyan/resources)** - Monitor your system resources and processes (3 weeks ago)
 - **[home-assistant/core](https://github.com/home-assistant/core)** - :house_with_garden: Open source home automation that puts local control and privacy first. (1 month ago)
