@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/powershell @ 6.4.14](https://github.com/sous-chefs/powershell/releases/tag/6.4.14) (1 day ago)
-- [sous-chefs/pulledpork @ 3.0.5](https://github.com/sous-chefs/pulledpork/releases/tag/3.0.5) (1 day ago)
-- [sous-chefs/mingw @ 4.0.1](https://github.com/sous-chefs/mingw/releases/tag/4.0.1) (1 day ago)
-- [sous-chefs/prometheus @ 0.7.3](https://github.com/sous-chefs/prometheus/releases/tag/0.7.3) (1 day ago)
-- [sous-chefs/visualstudio @ 3.0.0](https://github.com/sous-chefs/visualstudio/releases/tag/3.0.0) (1 day ago)
+- [sous-chefs/etcd @ 9.1.24](https://github.com/sous-chefs/etcd/releases/tag/9.1.24) (today)
+- [sous-chefs/powershell @ 6.4.14](https://github.com/sous-chefs/powershell/releases/tag/6.4.14) (2 days ago)
+- [sous-chefs/pulledpork @ 3.0.5](https://github.com/sous-chefs/pulledpork/releases/tag/3.0.5) (2 days ago)
+- [sous-chefs/mingw @ 4.0.1](https://github.com/sous-chefs/mingw/releases/tag/4.0.1) (2 days ago)
+- [sous-chefs/prometheus @ 0.7.3](https://github.com/sous-chefs/prometheus/releases/tag/0.7.3) (2 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[allenporter/flux-local](https://github.com/allenporter/flux-local)** - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.  (6 days ago)
+- **[allenporter/flux-local](https://github.com/allenporter/flux-local)** - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.  (1 week ago)
 - **[danielgross/localpilot](https://github.com/danielgross/localpilot)** (2 weeks ago)
 - **[nokyan/resources](https://github.com/nokyan/resources)** - Monitor your system resources and processes (3 weeks ago)
 - **[home-assistant/core](https://github.com/home-assistant/core)** - :house_with_garden: Open source home automation that puts local control and privacy first. (1 month ago)
