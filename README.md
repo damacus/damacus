@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/redisio @ 6.6.0](https://github.com/sous-chefs/redisio/releases/tag/6.6.0) (today)
 - [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.1.1](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.1.1) (2 days ago)
 - [sous-chefs/etcd @ 9.1.24](https://github.com/sous-chefs/etcd/releases/tag/9.1.24) (3 days ago)
 - [sous-chefs/powershell @ 6.4.14](https://github.com/sous-chefs/powershell/releases/tag/6.4.14) (5 days ago)
 - [sous-chefs/pulledpork @ 3.0.5](https://github.com/sous-chefs/pulledpork/releases/tag/3.0.5) (5 days ago)
-- [sous-chefs/mingw @ 4.0.1](https://github.com/sous-chefs/mingw/releases/tag/4.0.1) (5 days ago)
 
 #### ⭐ Recent Stars
 
