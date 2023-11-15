@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-docker @ v2.15.0](https://github.com/test-kitchen/kitchen-docker/releases/tag/v2.15.0) (2 days ago)
+- [test-kitchen/kitchen-digitalocean @ v0.15.0](https://github.com/test-kitchen/kitchen-digitalocean/releases/tag/v0.15.0) (today)
+- [test-kitchen/test-kitchen @ v3.5.1](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.5.1) (today)
+- [test-kitchen/kitchen-docker @ v3.0.0](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.0.0) (today)
 - [sous-chefs/redisio @ 6.6.0](https://github.com/sous-chefs/redisio/releases/tag/6.6.0) (4 days ago)
 - [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.1.1](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.1.1) (6 days ago)
-- [sous-chefs/etcd @ 9.1.24](https://github.com/sous-chefs/etcd/releases/tag/9.1.24) (1 week ago)
-- [sous-chefs/powershell @ 6.4.14](https://github.com/sous-chefs/powershell/releases/tag/6.4.14) (1 week ago)
 
 #### ⭐ Recent Stars
 
