@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-docker @ v2.15.0](https://github.com/test-kitchen/kitchen-docker/releases/tag/v2.15.0) (1 day ago)
-- [sous-chefs/redisio @ 6.6.0](https://github.com/sous-chefs/redisio/releases/tag/6.6.0) (3 days ago)
-- [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.1.1](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.1.1) (5 days ago)
-- [sous-chefs/etcd @ 9.1.24](https://github.com/sous-chefs/etcd/releases/tag/9.1.24) (6 days ago)
+- [test-kitchen/kitchen-docker @ v2.15.0](https://github.com/test-kitchen/kitchen-docker/releases/tag/v2.15.0) (2 days ago)
+- [sous-chefs/redisio @ 6.6.0](https://github.com/sous-chefs/redisio/releases/tag/6.6.0) (4 days ago)
+- [damacus/terraform-kubernetes-k3s-upgrade-controller @ v0.1.1](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller/releases/tag/v0.1.1) (6 days ago)
+- [sous-chefs/etcd @ 9.1.24](https://github.com/sous-chefs/etcd/releases/tag/9.1.24) (1 week ago)
 - [sous-chefs/powershell @ 6.4.14](https://github.com/sous-chefs/powershell/releases/tag/6.4.14) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[allenporter/flux-local](https://github.com/allenporter/flux-local)** - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.  (1 week ago)
+- **[allenporter/flux-local](https://github.com/allenporter/flux-local)** - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.  (2 weeks ago)
 - **[danielgross/localpilot](https://github.com/danielgross/localpilot)** (3 weeks ago)
 - **[nokyan/resources](https://github.com/nokyan/resources)** - Monitor your system resources and processes (1 month ago)
 - **[home-assistant/core](https://github.com/home-assistant/core)** - :house_with_garden: Open source home automation that puts local control and privacy first. (1 month ago)
