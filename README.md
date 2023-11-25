@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [actionshub/danger-rb @ v2.1.2](https://github.com/actionshub/danger-rb/releases/tag/v2.1.2) (today)
 - [test-kitchen/workflow-testing-gem @ v1.0.7](https://github.com/test-kitchen/workflow-testing-gem/releases/tag/v1.0.7) (2 days ago)
 - [actionshub/publish-gem-to-rubygems @ v2.0.3](https://github.com/actionshub/publish-gem-to-rubygems/releases/tag/v2.0.3) (2 days ago)
 - [actionshub/publish-gem-to-github @ v1.0.12](https://github.com/actionshub/publish-gem-to-github/releases/tag/v1.0.12) (2 days ago)
 - [test-kitchen/kitchen-hyperv @ v0.9.6](https://github.com/test-kitchen/kitchen-hyperv/releases/tag/v0.9.6) (1 week ago)
-- [test-kitchen/kitchen-digitalocean @ v0.15.0](https://github.com/test-kitchen/kitchen-digitalocean/releases/tag/v0.15.0) (1 week ago)
 
 #### ⭐ Recent Stars
 
