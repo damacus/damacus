@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-dokken @ v2.20.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.1) (2 days ago)
+- [test-kitchen/kitchen-digitalocean @ v0.16.0](https://github.com/test-kitchen/kitchen-digitalocean/releases/tag/v0.16.0) (today)
+- [test-kitchen/kitchen-dokken @ v2.20.2](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.2) (today)
+- [test-kitchen/kitchen-docker @ v3.2.0](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.0) (today)
+- [test-kitchen/.github @ v0.1.1](https://github.com/test-kitchen/.github/releases/tag/v0.1.1) (today)
 - [actionshub/danger-rb @ v2.1.2](https://github.com/actionshub/danger-rb/releases/tag/v2.1.2) (2 days ago)
-- [test-kitchen/workflow-testing-gem @ v1.0.7](https://github.com/test-kitchen/workflow-testing-gem/releases/tag/v1.0.7) (4 days ago)
-- [actionshub/publish-gem-to-rubygems @ v2.0.3](https://github.com/actionshub/publish-gem-to-rubygems/releases/tag/v2.0.3) (4 days ago)
-- [actionshub/publish-gem-to-github @ v1.0.12](https://github.com/actionshub/publish-gem-to-github/releases/tag/v1.0.12) (4 days ago)
 
 #### ⭐ Recent Stars
 
