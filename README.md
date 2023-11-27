@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-digitalocean @ v0.16.0](https://github.com/test-kitchen/kitchen-digitalocean/releases/tag/v0.16.0) (today)
-- [test-kitchen/kitchen-dokken @ v2.20.2](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.2) (today)
-- [test-kitchen/kitchen-docker @ v3.2.0](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.0) (today)
-- [test-kitchen/.github @ v0.1.1](https://github.com/test-kitchen/.github/releases/tag/v0.1.1) (today)
-- [actionshub/danger-rb @ v2.1.2](https://github.com/actionshub/danger-rb/releases/tag/v2.1.2) (2 days ago)
+- [test-kitchen/kitchen-vro @ v1.1.0](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.1.0) (today)
+- [test-kitchen/kitchen-vagrant @ v1.14.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v1.14.2) (today)
+- [test-kitchen/kitchen-hyperv @ v0.10.0](https://github.com/test-kitchen/kitchen-hyperv/releases/tag/v0.10.0) (today)
+- [test-kitchen/test-kitchen @ v3.6.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.6.0) (today)
+- [test-kitchen/kitchen-azurerm @ v1.13.0](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.0) (today)
 
 #### ⭐ Recent Stars
 
