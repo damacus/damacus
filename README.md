@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-vro @ v1.1.0](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.1.0) (today)
-- [test-kitchen/kitchen-vagrant @ v1.14.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v1.14.2) (today)
-- [test-kitchen/kitchen-hyperv @ v0.10.0](https://github.com/test-kitchen/kitchen-hyperv/releases/tag/v0.10.0) (today)
-- [test-kitchen/test-kitchen @ v3.6.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.6.0) (today)
-- [test-kitchen/kitchen-azurerm @ v1.13.0](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.0) (today)
+- [test-kitchen/kitchen-vro @ v1.1.0](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.1.0) (1 day ago)
+- [test-kitchen/kitchen-vagrant @ v1.14.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v1.14.2) (1 day ago)
+- [test-kitchen/kitchen-hyperv @ v0.10.0](https://github.com/test-kitchen/kitchen-hyperv/releases/tag/v0.10.0) (1 day ago)
+- [test-kitchen/test-kitchen @ v3.6.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.6.0) (1 day ago)
+- [test-kitchen/kitchen-azurerm @ v1.13.0](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.0) (1 day ago)
 
 #### ⭐ Recent Stars
 
@@ -32,4 +32,4 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (3 months ago)
 - [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (6 months ago)
-- [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (9 months ago)
+- [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (10 months ago)
