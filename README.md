@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [test-kitchen/kitchen-google @ v2.6.0](https://github.com/test-kitchen/kitchen-google/releases/tag/v2.6.0) (today)
+- [test-kitchen/kitchen-ec2 @ v3.18.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.18.0) (today)
+- [test-kitchen/kitchen-dsc @ v0.12.0](https://github.com/test-kitchen/kitchen-dsc/releases/tag/v0.12.0) (today)
+- [test-kitchen/kitchen-dokken @ v2.20.3](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.3) (today)
 - [test-kitchen/kitchen-vro @ v1.1.0](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.1.0) (1 day ago)
-- [test-kitchen/kitchen-vagrant @ v1.14.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v1.14.2) (1 day ago)
-- [test-kitchen/kitchen-hyperv @ v0.10.0](https://github.com/test-kitchen/kitchen-hyperv/releases/tag/v0.10.0) (1 day ago)
-- [test-kitchen/test-kitchen @ v3.6.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.6.0) (1 day ago)
-- [test-kitchen/kitchen-azurerm @ v1.13.0](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.0) (1 day ago)
 
 #### ⭐ Recent Stars
 
