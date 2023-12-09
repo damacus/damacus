@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/cinc-omnibus @ 1.1.10](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.10) (today)
+- [sous-chefs/cinc-omnibus @ 1.1.12](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.12) (1 day ago)
 - [test-kitchen/busser-bats @ v0.5.0](https://github.com/test-kitchen/busser-bats/releases/tag/v0.5.0) (1 week ago)
 - [test-kitchen/kitchen-google @ v2.6.0](https://github.com/test-kitchen/kitchen-google/releases/tag/v2.6.0) (1 week ago)
 - [test-kitchen/kitchen-ec2 @ v3.18.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.18.0) (1 week ago)
@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)** - automated releases based on conventional commits (6 days ago)
+- **[google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)** - automated releases based on conventional commits (1 week ago)
 - **[cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant)** - Control your Home Assistant devices from StreamDeck (1 week ago)
 - **[allenporter/flux-local](https://github.com/allenporter/flux-local)** - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.  (1 month ago)
 - **[danielgross/localpilot](https://github.com/danielgross/localpilot)** (1 month ago)
