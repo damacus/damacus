@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/cinc-omnibus @ 1.1.12](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.12) (2 days ago)
+- [sous-chefs/cinc-omnibus @ 1.1.12](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.12) (3 days ago)
 - [test-kitchen/busser-bats @ v0.5.0](https://github.com/test-kitchen/busser-bats/releases/tag/v0.5.0) (1 week ago)
 - [test-kitchen/kitchen-google @ v2.6.0](https://github.com/test-kitchen/kitchen-google/releases/tag/v2.6.0) (1 week ago)
 - [test-kitchen/kitchen-ec2 @ v3.18.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.18.0) (1 week ago)
