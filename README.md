@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/postgresql @ 11.8.4](https://github.com/sous-chefs/postgresql/releases/tag/11.8.4) (today)
-- [sous-chefs/apache2 @ 9.3.0](https://github.com/sous-chefs/apache2/releases/tag/9.3.0) (4 days ago)
+- [sous-chefs/postgresql @ 11.8.4](https://github.com/sous-chefs/postgresql/releases/tag/11.8.4) (1 day ago)
+- [sous-chefs/apache2 @ 9.3.0](https://github.com/sous-chefs/apache2/releases/tag/9.3.0) (5 days ago)
 - [sous-chefs/cinc-omnibus @ 1.1.12](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.12) (1 week ago)
 - [test-kitchen/busser-bats @ v0.5.0](https://github.com/test-kitchen/busser-bats/releases/tag/v0.5.0) (2 weeks ago)
 - [test-kitchen/kitchen-google @ v2.6.0](https://github.com/test-kitchen/kitchen-google/releases/tag/v2.6.0) (2 weeks ago)
@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)** - automated releases based on conventional commits (1 week ago)
+- **[google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)** - automated releases based on conventional commits (2 weeks ago)
 - **[cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant)** - Control your Home Assistant devices from StreamDeck (2 weeks ago)
 - **[allenporter/flux-local](https://github.com/allenporter/flux-local)** - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.  (1 month ago)
 - **[danielgross/localpilot](https://github.com/danielgross/localpilot)** (1 month ago)
