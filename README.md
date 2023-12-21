@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/isc_kea @ 1.4.0](https://github.com/sous-chefs/isc_kea/releases/tag/1.4.0) (1 day ago)
-- [sous-chefs/postgresql @ 11.8.5](https://github.com/sous-chefs/postgresql/releases/tag/11.8.5) (3 days ago)
-- [sous-chefs/cinc-omnibus @ 1.1.13](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.13) (4 days ago)
-- [sous-chefs/apache2 @ 9.3.0](https://github.com/sous-chefs/apache2/releases/tag/9.3.0) (1 week ago)
-- [test-kitchen/busser-bats @ v0.5.0](https://github.com/test-kitchen/busser-bats/releases/tag/v0.5.0) (3 weeks ago)
+- [sous-chefs/htpasswd @ 2.0.13](https://github.com/sous-chefs/htpasswd/releases/tag/2.0.13) (today)
+- [sous-chefs/resolver @ 4.1.6](https://github.com/sous-chefs/resolver/releases/tag/4.1.6) (today)
+- [sous-chefs/nagios @ 11.2.6](https://github.com/sous-chefs/nagios/releases/tag/11.2.6) (today)
+- [sous-chefs/dnsmasq @ 1.1.11](https://github.com/sous-chefs/dnsmasq/releases/tag/1.1.11) (today)
+- [sous-chefs/grafana @ 10.6.4](https://github.com/sous-chefs/grafana/releases/tag/10.6.4) (today)
 
 #### ⭐ Recent Stars
 
