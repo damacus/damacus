@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/htpasswd @ 2.0.13](https://github.com/sous-chefs/htpasswd/releases/tag/2.0.13) (1 day ago)
-- [sous-chefs/resolver @ 4.1.6](https://github.com/sous-chefs/resolver/releases/tag/4.1.6) (1 day ago)
-- [sous-chefs/nagios @ 11.2.6](https://github.com/sous-chefs/nagios/releases/tag/11.2.6) (1 day ago)
-- [sous-chefs/dnsmasq @ 1.1.11](https://github.com/sous-chefs/dnsmasq/releases/tag/1.1.11) (1 day ago)
-- [sous-chefs/grafana @ 10.6.4](https://github.com/sous-chefs/grafana/releases/tag/10.6.4) (1 day ago)
+- [sous-chefs/htpasswd @ 2.0.13](https://github.com/sous-chefs/htpasswd/releases/tag/2.0.13) (2 days ago)
+- [sous-chefs/resolver @ 4.1.6](https://github.com/sous-chefs/resolver/releases/tag/4.1.6) (2 days ago)
+- [sous-chefs/nagios @ 11.2.6](https://github.com/sous-chefs/nagios/releases/tag/11.2.6) (2 days ago)
+- [sous-chefs/dnsmasq @ 1.1.11](https://github.com/sous-chefs/dnsmasq/releases/tag/1.1.11) (2 days ago)
+- [sous-chefs/grafana @ 10.6.4](https://github.com/sous-chefs/grafana/releases/tag/10.6.4) (2 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)** - automated releases based on conventional commits (2 weeks ago)
+- **[google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)** - automated releases based on conventional commits (3 weeks ago)
 - **[cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant)** - Control your Home Assistant devices from StreamDeck (3 weeks ago)
 - **[allenporter/flux-local](https://github.com/allenporter/flux-local)** - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.  (1 month ago)
 - **[danielgross/localpilot](https://github.com/danielgross/localpilot)** (2 months ago)
