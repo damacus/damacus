@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/htpasswd @ 2.0.13](https://github.com/sous-chefs/htpasswd/releases/tag/2.0.13) (6 days ago)
-- [sous-chefs/resolver @ 4.1.6](https://github.com/sous-chefs/resolver/releases/tag/4.1.6) (6 days ago)
-- [sous-chefs/nagios @ 11.2.6](https://github.com/sous-chefs/nagios/releases/tag/11.2.6) (6 days ago)
-- [sous-chefs/dnsmasq @ 1.1.11](https://github.com/sous-chefs/dnsmasq/releases/tag/1.1.11) (6 days ago)
-- [sous-chefs/grafana @ 10.6.4](https://github.com/sous-chefs/grafana/releases/tag/10.6.4) (6 days ago)
+- [sous-chefs/yum-epel @ 5.0.6](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.6) (today)
+- [sous-chefs/influxdb @ 0.1.8](https://github.com/sous-chefs/influxdb/releases/tag/0.1.8) (today)
+- [sous-chefs/sensors @ 2.0.9](https://github.com/sous-chefs/sensors/releases/tag/2.0.9) (today)
+- [sous-chefs/certificate @ 2.0.22](https://github.com/sous-chefs/certificate/releases/tag/2.0.22) (today)
+- [sous-chefs/aws @ 9.1.4](https://github.com/sous-chefs/aws/releases/tag/9.1.4) (today)
 
 #### ⭐ Recent Stars
 
