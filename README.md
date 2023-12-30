@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/yum-epel @ 5.0.6](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.6) (2 days ago)
-- [sous-chefs/influxdb @ 0.1.8](https://github.com/sous-chefs/influxdb/releases/tag/0.1.8) (2 days ago)
-- [sous-chefs/sensors @ 2.0.9](https://github.com/sous-chefs/sensors/releases/tag/2.0.9) (2 days ago)
-- [sous-chefs/certificate @ 2.0.22](https://github.com/sous-chefs/certificate/releases/tag/2.0.22) (2 days ago)
-- [sous-chefs/aws @ 9.1.4](https://github.com/sous-chefs/aws/releases/tag/9.1.4) (2 days ago)
+- [sous-chefs/yum-epel @ 5.0.6](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.6) (3 days ago)
+- [sous-chefs/influxdb @ 0.1.8](https://github.com/sous-chefs/influxdb/releases/tag/0.1.8) (3 days ago)
+- [sous-chefs/sensors @ 2.0.9](https://github.com/sous-chefs/sensors/releases/tag/2.0.9) (3 days ago)
+- [sous-chefs/certificate @ 2.0.22](https://github.com/sous-chefs/certificate/releases/tag/2.0.22) (3 days ago)
+- [sous-chefs/aws @ 9.1.4](https://github.com/sous-chefs/aws/releases/tag/9.1.4) (3 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)** - automated releases based on conventional commits (3 weeks ago)
+- **[google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)** - automated releases based on conventional commits (4 weeks ago)
 - **[cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant)** - Control your Home Assistant devices from StreamDeck (1 month ago)
 - **[allenporter/flux-local](https://github.com/allenporter/flux-local)** - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.  (1 month ago)
 - **[danielgross/localpilot](https://github.com/danielgross/localpilot)** (2 months ago)
@@ -31,5 +31,5 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (4 months ago)
-- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (7 months ago)
+- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (8 months ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (11 months ago)
