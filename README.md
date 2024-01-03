@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/yum-epel @ 5.0.6](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.6) (6 days ago)
-- [sous-chefs/influxdb @ 0.1.8](https://github.com/sous-chefs/influxdb/releases/tag/0.1.8) (6 days ago)
-- [sous-chefs/sensors @ 2.0.9](https://github.com/sous-chefs/sensors/releases/tag/2.0.9) (6 days ago)
-- [sous-chefs/certificate @ 2.0.22](https://github.com/sous-chefs/certificate/releases/tag/2.0.22) (6 days ago)
-- [sous-chefs/aws @ 9.1.4](https://github.com/sous-chefs/aws/releases/tag/9.1.4) (6 days ago)
+- [sous-chefs/yum-epel @ 5.0.6](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.6) (1 week ago)
+- [sous-chefs/influxdb @ 0.1.8](https://github.com/sous-chefs/influxdb/releases/tag/0.1.8) (1 week ago)
+- [sous-chefs/sensors @ 2.0.9](https://github.com/sous-chefs/sensors/releases/tag/2.0.9) (1 week ago)
+- [sous-chefs/certificate @ 2.0.22](https://github.com/sous-chefs/certificate/releases/tag/2.0.22) (1 week ago)
+- [sous-chefs/aws @ 9.1.4](https://github.com/sous-chefs/aws/releases/tag/9.1.4) (1 week ago)
 
 #### ⭐ Recent Stars
 
