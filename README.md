@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/redisio @ 6.7.0](https://github.com/sous-chefs/redisio/releases/tag/6.7.0) (today)
-- [sous-chefs/sc_vscode @ 2.0.9](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.9) (today)
+- [sous-chefs/redisio @ 6.7.0](https://github.com/sous-chefs/redisio/releases/tag/6.7.0) (1 day ago)
+- [sous-chefs/sc_vscode @ 2.0.9](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.9) (1 day ago)
 - [sous-chefs/yum-epel @ 5.0.6](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.6) (1 week ago)
 - [sous-chefs/influxdb @ 0.1.8](https://github.com/sous-chefs/influxdb/releases/tag/0.1.8) (1 week ago)
 - [sous-chefs/sensors @ 2.0.9](https://github.com/sous-chefs/sensors/releases/tag/2.0.9) (1 week ago)
@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[nokyan/resources](https://github.com/nokyan/resources)** - Monitor your system resources and processes (2 months ago)
 
 #### 📄 Latest blog posts
-- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (4 months ago)
+- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (5 months ago)
 - [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (8 months ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (11 months ago)
