@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/java @ 12.0.3](https://github.com/sous-chefs/java/releases/tag/12.0.3) (today)
 - [sous-chefs/redisio @ 6.7.1](https://github.com/sous-chefs/redisio/releases/tag/6.7.1) (5 days ago)
 - [sous-chefs/postgresql @ 11.9.0](https://github.com/sous-chefs/postgresql/releases/tag/11.9.0) (1 week ago)
 - [sous-chefs/sc_vscode @ 2.0.9](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.9) (1 week ago)
 - [sous-chefs/yum-epel @ 5.0.6](https://github.com/sous-chefs/yum-epel/releases/tag/5.0.6) (2 weeks ago)
-- [sous-chefs/influxdb @ 0.1.8](https://github.com/sous-chefs/influxdb/releases/tag/0.1.8) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
