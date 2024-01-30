@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/resolver @ 4.2.0](https://github.com/sous-chefs/resolver/releases/tag/4.2.0) (today)
-- [sous-chefs/postgresql @ 11.10.0](https://github.com/sous-chefs/postgresql/releases/tag/11.10.0) (5 days ago)
-- [sous-chefs/java @ 12.0.3](https://github.com/sous-chefs/java/releases/tag/12.0.3) (1 week ago)
+- [sous-chefs/resolver @ 4.2.0](https://github.com/sous-chefs/resolver/releases/tag/4.2.0) (1 day ago)
+- [sous-chefs/postgresql @ 11.10.0](https://github.com/sous-chefs/postgresql/releases/tag/11.10.0) (6 days ago)
+- [sous-chefs/java @ 12.0.3](https://github.com/sous-chefs/java/releases/tag/12.0.3) (2 weeks ago)
 - [sous-chefs/redisio @ 6.7.1](https://github.com/sous-chefs/redisio/releases/tag/6.7.1) (2 weeks ago)
 - [sous-chefs/sc_vscode @ 2.0.9](https://github.com/sous-chefs/sc_vscode/releases/tag/2.0.9) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 
-- **[sous-chefs/keepalived](https://github.com/sous-chefs/keepalived)** - Development repository for the keepalived cookbook (2 days ago)
+- **[sous-chefs/keepalived](https://github.com/sous-chefs/keepalived)** - Development repository for the keepalived cookbook (3 days ago)
 - **[munnerz/kube-plex](https://github.com/munnerz/kube-plex)** - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster! (1 week ago)
 - **[gabe565/charts](https://github.com/gabe565/charts)** - ☸️ A collection of Helm charts, based on the bjw-s common library chart. (2 weeks ago)
 - **[google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)** - automated releases based on conventional commits (1 month ago)
