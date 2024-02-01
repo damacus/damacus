@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/keepalived @ 6.0.16](https://github.com/sous-chefs/keepalived/releases/tag/6.0.16) (today)
 - [sous-chefs/haproxy @ 12.3.2](https://github.com/sous-chefs/haproxy/releases/tag/12.3.2) (today)
-- [sous-chefs/keepalived @ 6.0.15](https://github.com/sous-chefs/keepalived/releases/tag/6.0.15) (today)
 - [sous-chefs/.github @ 3.1.0](https://github.com/sous-chefs/.github/releases/tag/3.1.0) (1 day ago)
 - [actionshub/chef-install @ 3.0.0](https://github.com/actionshub/chef-install/releases/tag/3.0.0) (1 day ago)
 - [sous-chefs/yum-mysql-community @ 5.4.1](https://github.com/sous-chefs/yum-mysql-community/releases/tag/5.4.1) (1 day ago)
