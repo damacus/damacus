@@ -14,18 +14,18 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/ntp @ 5.0.17](https://github.com/sous-chefs/ntp/releases/tag/5.0.17) (2 days ago)
-- [sous-chefs/rsyslog @ 9.2.19](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.19) (2 days ago)
-- [sous-chefs/yum-ius @ 3.2.11](https://github.com/sous-chefs/yum-ius/releases/tag/3.2.11) (2 days ago)
-- [sous-chefs/keepalived @ 6.0.16](https://github.com/sous-chefs/keepalived/releases/tag/6.0.16) (3 days ago)
-- [sous-chefs/haproxy @ 12.3.2](https://github.com/sous-chefs/haproxy/releases/tag/12.3.2) (3 days ago)
+- [sous-chefs/ntp @ 5.0.17](https://github.com/sous-chefs/ntp/releases/tag/5.0.17) (3 days ago)
+- [sous-chefs/rsyslog @ 9.2.19](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.19) (3 days ago)
+- [sous-chefs/yum-ius @ 3.2.11](https://github.com/sous-chefs/yum-ius/releases/tag/3.2.11) (3 days ago)
+- [sous-chefs/keepalived @ 6.0.16](https://github.com/sous-chefs/keepalived/releases/tag/6.0.16) (4 days ago)
+- [sous-chefs/haproxy @ 12.3.2](https://github.com/sous-chefs/haproxy/releases/tag/12.3.2) (4 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (today)
+- **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 day ago)
 - **[sous-chefs/keepalived](https://github.com/sous-chefs/keepalived)** - Development repository for the keepalived cookbook (1 week ago)
-- **[munnerz/kube-plex](https://github.com/munnerz/kube-plex)** - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster! (1 week ago)
+- **[munnerz/kube-plex](https://github.com/munnerz/kube-plex)** - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster! (2 weeks ago)
 - **[gabe565/charts](https://github.com/gabe565/charts)** - ☸️ A collection of Helm charts, based on the bjw-s common library chart. (3 weeks ago)
 - **[google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action)** - automated releases based on conventional commits (2 months ago)
 
