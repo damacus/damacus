@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[LilDrunkenSmurf/k3s-home-cluster](https://github.com/LilDrunkenSmurf/k3s-home-cluster)** - Gitops for my kubernetes cluster (today)
+- **[joryirving/k3s-home-cluster](https://github.com/joryirving/k3s-home-cluster)** - Gitops for my kubernetes cluster (today)
 - **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster (1 week ago)
 - **[larivierec/home-cluster](https://github.com/larivierec/home-cluster)** - k3s cluster using gitops (flux) and renovate automation (2 weeks ago)
 - **[chef/architecture-center](https://github.com/chef/architecture-center)** (2 weeks ago)
