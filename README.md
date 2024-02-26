@@ -23,11 +23,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
+- **[LilDrunkenSmurf/k3s-home-cluster](https://github.com/LilDrunkenSmurf/k3s-home-cluster)** - Gitops for my kubernetes cluster (today)
 - **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster (1 week ago)
 - **[larivierec/home-cluster](https://github.com/larivierec/home-cluster)** - k3s cluster using gitops (flux) and renovate automation (2 weeks ago)
 - **[chef/architecture-center](https://github.com/chef/architecture-center)** (2 weeks ago)
 - **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (3 weeks ago)
-- **[sous-chefs/keepalived](https://github.com/sous-chefs/keepalived)** - Development repository for the keepalived cookbook (1 month ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (6 months ago)
