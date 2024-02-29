@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-vro @ v1.2.0](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.2.0) (today)
+- [test-kitchen/kitchen-vro @ v1.2.0](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.2.0) (1 day ago)
 - [sous-chefs/docker @ 11.3.2](https://github.com/sous-chefs/docker/releases/tag/11.3.2) (1 week ago)
 - [sous-chefs/etcd @ 9.1.26](https://github.com/sous-chefs/etcd/releases/tag/9.1.26) (1 week ago)
 - [sous-chefs/djbdns @ 5.1.14](https://github.com/sous-chefs/djbdns/releases/tag/5.1.14) (1 week ago)
@@ -23,10 +23,10 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[joryirving/k3s-home-cluster](https://github.com/joryirving/k3s-home-cluster)** - Gitops for my kubernetes cluster (2 days ago)
+- **[joryirving/home-ops](https://github.com/joryirving/home-ops)** - Gitops for my kubernetes cluster (3 days ago)
 - **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster (1 week ago)
 - **[larivierec/home-cluster](https://github.com/larivierec/home-cluster)** - k3s cluster using gitops (flux) and renovate automation (2 weeks ago)
-- **[chef/architecture-center](https://github.com/chef/architecture-center)** (2 weeks ago)
+- **[chef/architecture-center](https://github.com/chef/architecture-center)** (3 weeks ago)
 - **[FiloSottile/age](https://github.com/FiloSottile/age)** - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (3 weeks ago)
 
 #### 📄 Latest blog posts
