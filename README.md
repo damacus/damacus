@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-vro @ v1.2.0](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.2.0) (1 day ago)
+- [test-kitchen/kitchen-vro @ v1.2.0](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.2.0) (2 days ago)
 - [sous-chefs/docker @ 11.3.2](https://github.com/sous-chefs/docker/releases/tag/11.3.2) (1 week ago)
 - [sous-chefs/etcd @ 9.1.26](https://github.com/sous-chefs/etcd/releases/tag/9.1.26) (1 week ago)
 - [sous-chefs/djbdns @ 5.1.14](https://github.com/sous-chefs/djbdns/releases/tag/5.1.14) (1 week ago)
@@ -23,8 +23,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[ahinko/home-ops](https://github.com/ahinko/home-ops)** - Homelab &amp; Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date. (today)
-- **[joryirving/home-ops](https://github.com/joryirving/home-ops)** - Gitops for my kubernetes cluster (3 days ago)
+- **[ahinko/home-ops](https://github.com/ahinko/home-ops)** - Homelab &amp; Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date. (1 day ago)
+- **[joryirving/home-ops](https://github.com/joryirving/home-ops)** - Gitops for my kubernetes cluster (4 days ago)
 - **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster (1 week ago)
 - **[larivierec/home-cluster](https://github.com/larivierec/home-cluster)** - k3s cluster using gitops (flux) and renovate automation (2 weeks ago)
 - **[chef/architecture-center](https://github.com/chef/architecture-center)** (3 weeks ago)
