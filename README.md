@@ -23,11 +23,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
+- **[slashback100/presence_simulation](https://github.com/slashback100/presence_simulation)** - Home Assistant Presence Simulation (today)
 - **[jgilfoil/home-cluster](https://github.com/jgilfoil/home-cluster)** - Contains a declarative configuration of our home network and services for our kubernetes cluster and supporting hardware (1 day ago)
 - **[onedr0p/home-ops](https://github.com/onedr0p/home-ops)** - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (4 days ago)
 - **[pimoroni/grow-python](https://github.com/pimoroni/grow-python)** - Python libs for controlling the Grow HATs (5 days ago)
 - **[ahinko/home-ops](https://github.com/ahinko/home-ops)** - Homelab &amp; Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date. (6 days ago)
-- **[joryirving/home-ops](https://github.com/joryirving/home-ops)** - Gitops for my kubernetes cluster (1 week ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (7 months ago)
