@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/syslog_ng @ 3.0.5](https://github.com/sous-chefs/syslog_ng/releases/tag/3.0.5) (2 days ago)
-- [sous-chefs/memcached @ 7.0.23](https://github.com/sous-chefs/memcached/releases/tag/7.0.23) (3 days ago)
+- [sous-chefs/syslog_ng @ 3.0.5](https://github.com/sous-chefs/syslog_ng/releases/tag/3.0.5) (3 days ago)
+- [sous-chefs/memcached @ 7.0.23](https://github.com/sous-chefs/memcached/releases/tag/7.0.23) (4 days ago)
 - [sous-chefs/ruby_build @ 2.5.7](https://github.com/sous-chefs/ruby_build/releases/tag/2.5.7) (1 week ago)
 - [test-kitchen/kitchen-vro @ v1.2.0](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.2.0) (1 week ago)
 - [sous-chefs/docker @ 11.3.2](https://github.com/sous-chefs/docker/releases/tag/11.3.2) (2 weeks ago)
@@ -23,9 +23,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[slashback100/presence_simulation](https://github.com/slashback100/presence_simulation)** - Home Assistant Presence Simulation (2 days ago)
-- **[jgilfoil/home-cluster](https://github.com/jgilfoil/home-cluster)** - Contains a declarative configuration of our home network and services for our kubernetes cluster and supporting hardware (3 days ago)
-- **[onedr0p/home-ops](https://github.com/onedr0p/home-ops)** - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (6 days ago)
+- **[slashback100/presence_simulation](https://github.com/slashback100/presence_simulation)** - Home Assistant Presence Simulation (3 days ago)
+- **[jgilfoil/home-cluster](https://github.com/jgilfoil/home-cluster)** - Contains a declarative configuration of our home network and services for our kubernetes cluster and supporting hardware (4 days ago)
+- **[onedr0p/home-ops](https://github.com/onedr0p/home-ops)** - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (1 week ago)
 - **[pimoroni/grow-python](https://github.com/pimoroni/grow-python)** - Python libs for controlling the Grow HATs (1 week ago)
 - **[ahinko/home-ops](https://github.com/ahinko/home-ops)** - Homelab &amp; Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date. (1 week ago)
 
