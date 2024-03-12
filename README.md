@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/openssh @ 2.11.7](https://github.com/sous-chefs/openssh/releases/tag/2.11.7) (today)
 - [sous-chefs/grafana @ 10.7.0](https://github.com/sous-chefs/grafana/releases/tag/10.7.0) (2 days ago)
 - [sous-chefs/syslog_ng @ 3.0.5](https://github.com/sous-chefs/syslog_ng/releases/tag/3.0.5) (6 days ago)
 - [sous-chefs/memcached @ 7.0.23](https://github.com/sous-chefs/memcached/releases/tag/7.0.23) (1 week ago)
 - [sous-chefs/ruby_build @ 2.5.7](https://github.com/sous-chefs/ruby_build/releases/tag/2.5.7) (1 week ago)
-- [test-kitchen/kitchen-vro @ v1.2.0](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.2.0) (1 week ago)
 
 #### ⭐ Recent Stars
 
