@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/openssh @ 2.11.7](https://github.com/sous-chefs/openssh/releases/tag/2.11.7) (5 days ago)
+- [sous-chefs/openssh @ 2.11.8](https://github.com/sous-chefs/openssh/releases/tag/2.11.8) (today)
 - [sous-chefs/grafana @ 10.7.0](https://github.com/sous-chefs/grafana/releases/tag/10.7.0) (1 week ago)
 - [sous-chefs/syslog_ng @ 3.0.5](https://github.com/sous-chefs/syslog_ng/releases/tag/3.0.5) (1 week ago)
 - [sous-chefs/memcached @ 7.0.23](https://github.com/sous-chefs/memcached/releases/tag/7.0.23) (1 week ago)
