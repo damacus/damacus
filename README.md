@@ -14,20 +14,20 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/openssh @ 2.11.9](https://github.com/sous-chefs/openssh/releases/tag/2.11.9) (today)
+- [sous-chefs/openssh @ 2.11.9](https://github.com/sous-chefs/openssh/releases/tag/2.11.9) (1 day ago)
 - [sous-chefs/grafana @ 10.7.0](https://github.com/sous-chefs/grafana/releases/tag/10.7.0) (1 week ago)
 - [sous-chefs/syslog_ng @ 3.0.5](https://github.com/sous-chefs/syslog_ng/releases/tag/3.0.5) (1 week ago)
-- [sous-chefs/memcached @ 7.0.23](https://github.com/sous-chefs/memcached/releases/tag/7.0.23) (1 week ago)
+- [sous-chefs/memcached @ 7.0.23](https://github.com/sous-chefs/memcached/releases/tag/7.0.23) (2 weeks ago)
 - [sous-chefs/ruby_build @ 2.5.7](https://github.com/sous-chefs/ruby_build/releases/tag/2.5.7) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 
-- **[drag0n141/home-ops](https://github.com/drag0n141/home-ops)** - HomeOps driven by Kubernetes and GitOps using Flux (6 days ago)
+- **[bjw-s/home-ops](https://github.com/bjw-s/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices (1 day ago)
+- **[drag0n141/home-ops](https://github.com/drag0n141/home-ops)** - HomeOps driven by Kubernetes and GitOps using Flux (1 week ago)
 - **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (1 week ago)
 - **[slashback100/presence_simulation](https://github.com/slashback100/presence_simulation)** - Home Assistant Presence Simulation (1 week ago)
-- **[jgilfoil/home-cluster](https://github.com/jgilfoil/home-cluster)** - Contains a declarative configuration of our home network and services for our kubernetes cluster and supporting hardware (1 week ago)
-- **[onedr0p/home-ops](https://github.com/onedr0p/home-ops)** - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (2 weeks ago)
+- **[jgilfoil/home-cluster](https://github.com/jgilfoil/home-cluster)** - Contains a declarative configuration of our home network and services for our kubernetes cluster and supporting hardware (2 weeks ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (7 months ago)
