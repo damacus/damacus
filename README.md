@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/openssh @ 2.11.9](https://github.com/sous-chefs/openssh/releases/tag/2.11.9) (2 days ago)
+- [sous-chefs/openssh @ 2.11.9](https://github.com/sous-chefs/openssh/releases/tag/2.11.9) (3 days ago)
 - [sous-chefs/grafana @ 10.7.0](https://github.com/sous-chefs/grafana/releases/tag/10.7.0) (1 week ago)
 - [sous-chefs/syslog_ng @ 3.0.5](https://github.com/sous-chefs/syslog_ng/releases/tag/3.0.5) (2 weeks ago)
 - [sous-chefs/memcached @ 7.0.23](https://github.com/sous-chefs/memcached/releases/tag/7.0.23) (2 weeks ago)
@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[bjw-s/home-ops](https://github.com/bjw-s/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices (2 days ago)
+- **[bjw-s/home-ops](https://github.com/bjw-s/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices (3 days ago)
 - **[drag0n141/home-ops](https://github.com/drag0n141/home-ops)** - HomeOps driven by Kubernetes and GitOps using Flux (1 week ago)
 - **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (1 week ago)
 - **[slashback100/presence_simulation](https://github.com/slashback100/presence_simulation)** - Home Assistant Presence Simulation (2 weeks ago)
