@@ -23,11 +23,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
+- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (today)
 - **[whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search)** - Your Gateway Drug to Kubernetes at Home! (2 weeks ago)
 - **[bjw-s/home-ops](https://github.com/bjw-s/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices (3 weeks ago)
 - **[drag0n141/home-ops](https://github.com/drag0n141/home-ops)** - HomeOps driven by Kubernetes and GitOps using Flux (4 weeks ago)
 - **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (1 month ago)
-- **[slashback100/presence_simulation](https://github.com/slashback100/presence_simulation)** - Home Assistant Presence Simulation (1 month ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (8 months ago)
