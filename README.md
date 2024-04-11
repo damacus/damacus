@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-dokken @ v2.20.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.4) (2 days ago)
-- [sous-chefs/redisio @ 7.0.1](https://github.com/sous-chefs/redisio/releases/tag/7.0.1) (6 days ago)
+- [test-kitchen/kitchen-dokken @ v2.20.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.4) (3 days ago)
+- [sous-chefs/redisio @ 7.0.1](https://github.com/sous-chefs/redisio/releases/tag/7.0.1) (1 week ago)
 - [sous-chefs/openssh @ 2.11.9](https://github.com/sous-chefs/openssh/releases/tag/2.11.9) (3 weeks ago)
 - [sous-chefs/grafana @ 10.7.0](https://github.com/sous-chefs/grafana/releases/tag/10.7.0) (1 month ago)
 - [sous-chefs/syslog_ng @ 3.0.5](https://github.com/sous-chefs/syslog_ng/releases/tag/3.0.5) (1 month ago)
@@ -23,10 +23,10 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 day ago)
+- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (2 days ago)
 - **[whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search)** - Your Gateway Drug to Kubernetes at Home! (2 weeks ago)
 - **[bjw-s/home-ops](https://github.com/bjw-s/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices (3 weeks ago)
-- **[drag0n141/home-ops](https://github.com/drag0n141/home-ops)** - HomeOps driven by Kubernetes and GitOps using Flux (4 weeks ago)
+- **[drag0n141/home-ops](https://github.com/drag0n141/home-ops)** - HomeOps driven by Kubernetes and GitOps using Flux (1 month ago)
 - **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (1 month ago)
 
 #### 📄 Latest blog posts
