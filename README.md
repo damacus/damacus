@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/redisio @ 7.1.1](https://github.com/sous-chefs/redisio/releases/tag/7.1.1) (2 days ago)
+- [sous-chefs/redisio @ 7.1.1](https://github.com/sous-chefs/redisio/releases/tag/7.1.1) (3 days ago)
 - [test-kitchen/kitchen-dokken @ v2.20.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.4) (2 weeks ago)
 - [sous-chefs/openssh @ 2.11.9](https://github.com/sous-chefs/openssh/releases/tag/2.11.9) (1 month ago)
 - [sous-chefs/grafana @ 10.7.0](https://github.com/sous-chefs/grafana/releases/tag/10.7.0) (1 month ago)
