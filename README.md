@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/redisio @ 7.1.1](https://github.com/sous-chefs/redisio/releases/tag/7.1.1) (6 days ago)
+- [sous-chefs/redisio @ 7.1.1](https://github.com/sous-chefs/redisio/releases/tag/7.1.1) (1 week ago)
 - [test-kitchen/kitchen-dokken @ v2.20.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.4) (2 weeks ago)
 - [sous-chefs/openssh @ 2.11.9](https://github.com/sous-chefs/openssh/releases/tag/2.11.9) (1 month ago)
 - [sous-chefs/grafana @ 10.7.0](https://github.com/sous-chefs/grafana/releases/tag/10.7.0) (1 month ago)
@@ -31,5 +31,5 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (8 months ago)
-- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (11 months ago)
+- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (1 year ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (1 year ago)
