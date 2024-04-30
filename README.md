@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/nagios @ 11.2.8](https://github.com/sous-chefs/nagios/releases/tag/11.2.8) (today)
+- [sous-chefs/nagios @ 11.2.9](https://github.com/sous-chefs/nagios/releases/tag/11.2.9) (1 day ago)
 - [sous-chefs/redisio @ 7.1.1](https://github.com/sous-chefs/redisio/releases/tag/7.1.1) (1 week ago)
 - [test-kitchen/kitchen-dokken @ v2.20.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.4) (3 weeks ago)
 - [sous-chefs/openssh @ 2.11.9](https://github.com/sous-chefs/openssh/releases/tag/2.11.9) (1 month ago)
@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (2 weeks ago)
+- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (3 weeks ago)
 - **[whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search)** - Your Gateway Drug to Kubernetes at Home! (1 month ago)
 - **[bjw-s/home-ops](https://github.com/bjw-s/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices (1 month ago)
 - **[drag0n141/home-ops](https://github.com/drag0n141/home-ops)** - HomeOps driven by Kubernetes and GitOps using Flux (1 month ago)
