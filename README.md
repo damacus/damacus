@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/redisio @ 7.2.0](https://github.com/sous-chefs/redisio/releases/tag/7.2.0) (1 day ago)
-- [sous-chefs/lvm @ 6.1.20](https://github.com/sous-chefs/lvm/releases/tag/6.1.20) (1 day ago)
-- [sous-chefs/chef-ruby-lvm-attrib @ v0.3.15](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.3.15) (1 day ago)
-- [sous-chefs/nagios @ 11.2.9](https://github.com/sous-chefs/nagios/releases/tag/11.2.9) (2 days ago)
-- [test-kitchen/kitchen-dokken @ v2.20.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.4) (3 weeks ago)
+- [sous-chefs/webpi @ 5.0.1](https://github.com/sous-chefs/webpi/releases/tag/5.0.1) (today)
+- [sous-chefs/apt @ 7.5.20](https://github.com/sous-chefs/apt/releases/tag/7.5.20) (today)
+- [sous-chefs/yum-elrepo @ 2.2.8](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.2.8) (today)
+- [sous-chefs/github @ 1.1.13](https://github.com/sous-chefs/github/releases/tag/1.1.13) (today)
+- [sous-chefs/etcd @ 9.1.27](https://github.com/sous-chefs/etcd/releases/tag/9.1.27) (today)
 
 #### ⭐ Recent Stars
 
