@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/trusted_certificate @ 4.0.15](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.15) (today)
 - [sous-chefs/atlantis @ 3.0.4](https://github.com/sous-chefs/atlantis/releases/tag/3.0.4) (today)
-- [sous-chefs/trusted_certificate @ 4.0.14](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.14) (1 day ago)
 - [sous-chefs/isc_kea @ 1.4.4](https://github.com/sous-chefs/isc_kea/releases/tag/1.4.4) (1 day ago)
 - [sous-chefs/docker @ 11.3.3](https://github.com/sous-chefs/docker/releases/tag/11.3.3) (1 day ago)
 - [sous-chefs/nfs @ 5.1.4](https://github.com/sous-chefs/nfs/releases/tag/5.1.4) (1 day ago)
