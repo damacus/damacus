@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/mysql @ 11.1.6](https://github.com/sous-chefs/mysql/releases/tag/11.1.6) (today)
-- [sous-chefs/filesystem @ 4.0.12](https://github.com/sous-chefs/filesystem/releases/tag/4.0.12) (today)
-- [sous-chefs/rsyslog @ 9.2.20](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.20) (today)
-- [sous-chefs/cpu @ 3.0.10](https://github.com/sous-chefs/cpu/releases/tag/3.0.10) (today)
-- [sous-chefs/ruby_rbenv @ 5.0.20](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.20) (today)
+- [sous-chefs/gpg @ 2.0.12](https://github.com/sous-chefs/gpg/releases/tag/2.0.12) (today)
+- [sous-chefs/samba @ 2.0.11](https://github.com/sous-chefs/samba/releases/tag/2.0.11) (today)
+- [sous-chefs/aptly @ 3.2.2](https://github.com/sous-chefs/aptly/releases/tag/3.2.2) (today)
+- [sous-chefs/github @ 1.1.15](https://github.com/sous-chefs/github/releases/tag/1.1.15) (today)
+- [sous-chefs/rsyslog @ 9.2.21](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.21) (today)
 
 #### ⭐ Recent Stars
 
