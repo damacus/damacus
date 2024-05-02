@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/webpi @ 5.0.1](https://github.com/sous-chefs/webpi/releases/tag/5.0.1) (today)
-- [sous-chefs/apt @ 7.5.20](https://github.com/sous-chefs/apt/releases/tag/7.5.20) (today)
-- [sous-chefs/yum-elrepo @ 2.2.8](https://github.com/sous-chefs/yum-elrepo/releases/tag/2.2.8) (today)
-- [sous-chefs/github @ 1.1.13](https://github.com/sous-chefs/github/releases/tag/1.1.13) (today)
-- [sous-chefs/etcd @ 9.1.27](https://github.com/sous-chefs/etcd/releases/tag/9.1.27) (today)
+- [sous-chefs/atlantis @ 3.0.4](https://github.com/sous-chefs/atlantis/releases/tag/3.0.4) (today)
+- [sous-chefs/trusted_certificate @ 4.0.14](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.14) (1 day ago)
+- [sous-chefs/isc_kea @ 1.4.4](https://github.com/sous-chefs/isc_kea/releases/tag/1.4.4) (1 day ago)
+- [sous-chefs/docker @ 11.3.3](https://github.com/sous-chefs/docker/releases/tag/11.3.3) (1 day ago)
+- [sous-chefs/nfs @ 5.1.4](https://github.com/sous-chefs/nfs/releases/tag/5.1.4) (1 day ago)
 
 #### ⭐ Recent Stars
 
