@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/trusted_certificate @ 4.0.15](https://github.com/sous-chefs/trusted_certificate/releases/tag/4.0.15) (today)
-- [sous-chefs/atlantis @ 3.0.4](https://github.com/sous-chefs/atlantis/releases/tag/3.0.4) (today)
-- [sous-chefs/isc_kea @ 1.4.4](https://github.com/sous-chefs/isc_kea/releases/tag/1.4.4) (1 day ago)
-- [sous-chefs/docker @ 11.3.3](https://github.com/sous-chefs/docker/releases/tag/11.3.3) (1 day ago)
-- [sous-chefs/nfs @ 5.1.4](https://github.com/sous-chefs/nfs/releases/tag/5.1.4) (1 day ago)
+- [sous-chefs/mysql @ 11.1.6](https://github.com/sous-chefs/mysql/releases/tag/11.1.6) (today)
+- [sous-chefs/filesystem @ 4.0.12](https://github.com/sous-chefs/filesystem/releases/tag/4.0.12) (today)
+- [sous-chefs/rsyslog @ 9.2.20](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.20) (today)
+- [sous-chefs/cpu @ 3.0.10](https://github.com/sous-chefs/cpu/releases/tag/3.0.10) (today)
+- [sous-chefs/ruby_rbenv @ 5.0.20](https://github.com/sous-chefs/ruby_rbenv/releases/tag/5.0.20) (today)
 
 #### ⭐ Recent Stars
 
