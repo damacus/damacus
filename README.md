@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/gpg @ 2.0.12](https://github.com/sous-chefs/gpg/releases/tag/2.0.12) (today)
-- [sous-chefs/samba @ 2.0.11](https://github.com/sous-chefs/samba/releases/tag/2.0.11) (today)
-- [sous-chefs/aptly @ 3.2.2](https://github.com/sous-chefs/aptly/releases/tag/3.2.2) (today)
-- [sous-chefs/github @ 1.1.15](https://github.com/sous-chefs/github/releases/tag/1.1.15) (today)
-- [sous-chefs/rsyslog @ 9.2.21](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.21) (today)
+- [sous-chefs/erlang @ 8.1.25](https://github.com/sous-chefs/erlang/releases/tag/8.1.25) (1 day ago)
+- [sous-chefs/cron @ 7.0.25](https://github.com/sous-chefs/cron/releases/tag/7.0.25) (1 day ago)
+- [sous-chefs/nagios @ 11.3.2](https://github.com/sous-chefs/nagios/releases/tag/11.3.2) (1 day ago)
+- [sous-chefs/hashicorp-vault @ 6.3.18](https://github.com/sous-chefs/hashicorp-vault/releases/tag/6.3.18) (1 day ago)
+- [sous-chefs/firefox @ 6.1.12](https://github.com/sous-chefs/firefox/releases/tag/6.1.12) (1 day ago)
 
 #### ⭐ Recent Stars
 
