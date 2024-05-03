@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/postgresql @ 11.10.3](https://github.com/sous-chefs/postgresql/releases/tag/11.10.3) (today)
+- [sous-chefs/motd-tail @ 6.0.11](https://github.com/sous-chefs/motd-tail/releases/tag/6.0.11) (today)
+- [sous-chefs/openssh @ 2.11.11](https://github.com/sous-chefs/openssh/releases/tag/2.11.11) (today)
 - [sous-chefs/erlang @ 8.1.25](https://github.com/sous-chefs/erlang/releases/tag/8.1.25) (1 day ago)
 - [sous-chefs/cron @ 7.0.25](https://github.com/sous-chefs/cron/releases/tag/7.0.25) (1 day ago)
-- [sous-chefs/nagios @ 11.3.2](https://github.com/sous-chefs/nagios/releases/tag/11.3.2) (1 day ago)
-- [sous-chefs/hashicorp-vault @ 6.3.18](https://github.com/sous-chefs/hashicorp-vault/releases/tag/6.3.18) (1 day ago)
-- [sous-chefs/firefox @ 6.1.12](https://github.com/sous-chefs/firefox/releases/tag/6.1.12) (1 day ago)
 
 #### ⭐ Recent Stars
 
