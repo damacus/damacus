@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/postgresql @ 11.10.3](https://github.com/sous-chefs/postgresql/releases/tag/11.10.3) (today)
-- [sous-chefs/motd-tail @ 6.0.11](https://github.com/sous-chefs/motd-tail/releases/tag/6.0.11) (today)
-- [sous-chefs/openssh @ 2.11.11](https://github.com/sous-chefs/openssh/releases/tag/2.11.11) (today)
-- [sous-chefs/erlang @ 8.1.25](https://github.com/sous-chefs/erlang/releases/tag/8.1.25) (1 day ago)
-- [sous-chefs/cron @ 7.0.25](https://github.com/sous-chefs/cron/releases/tag/7.0.25) (1 day ago)
+- [sous-chefs/chef_ca @ 1.0.9](https://github.com/sous-chefs/chef_ca/releases/tag/1.0.9) (1 day ago)
+- [sous-chefs/certificate @ 2.1.0](https://github.com/sous-chefs/certificate/releases/tag/2.1.0) (1 day ago)
+- [sous-chefs/maven @ 6.0.11](https://github.com/sous-chefs/maven/releases/tag/6.0.11) (1 day ago)
+- [sous-chefs/yum-almalinux @ 1.1.7](https://github.com/sous-chefs/yum-almalinux/releases/tag/1.1.7) (1 day ago)
+- [sous-chefs/transmission @ 6.0.8](https://github.com/sous-chefs/transmission/releases/tag/6.0.8) (1 day ago)
 
 #### ⭐ Recent Stars
 
@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (1 month ago)
 
 #### 📄 Latest blog posts
-- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (8 months ago)
+- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (9 months ago)
 - [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (1 year ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (1 year ago)
