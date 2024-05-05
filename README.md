@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/chef_ca @ 1.0.9](https://github.com/sous-chefs/chef_ca/releases/tag/1.0.9) (1 day ago)
-- [sous-chefs/certificate @ 2.1.0](https://github.com/sous-chefs/certificate/releases/tag/2.1.0) (1 day ago)
-- [sous-chefs/maven @ 6.0.11](https://github.com/sous-chefs/maven/releases/tag/6.0.11) (1 day ago)
-- [sous-chefs/yum-almalinux @ 1.1.7](https://github.com/sous-chefs/yum-almalinux/releases/tag/1.1.7) (1 day ago)
-- [sous-chefs/transmission @ 6.0.8](https://github.com/sous-chefs/transmission/releases/tag/6.0.8) (1 day ago)
+- [sous-chefs/chef_ca @ 1.0.9](https://github.com/sous-chefs/chef_ca/releases/tag/1.0.9) (2 days ago)
+- [sous-chefs/certificate @ 2.1.0](https://github.com/sous-chefs/certificate/releases/tag/2.1.0) (2 days ago)
+- [sous-chefs/maven @ 6.0.11](https://github.com/sous-chefs/maven/releases/tag/6.0.11) (2 days ago)
+- [sous-chefs/yum-almalinux @ 1.1.7](https://github.com/sous-chefs/yum-almalinux/releases/tag/1.1.7) (2 days ago)
+- [sous-chefs/transmission @ 6.0.8](https://github.com/sous-chefs/transmission/releases/tag/6.0.8) (2 days ago)
 
 #### ⭐ Recent Stars
 
