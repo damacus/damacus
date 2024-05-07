@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/nodejs @ 10.1.18](https://github.com/sous-chefs/nodejs/releases/tag/10.1.18) (today)
 - [sous-chefs/notepadpp @ 3.0.0](https://github.com/sous-chefs/notepadpp/releases/tag/3.0.0) (1 day ago)
 - [sous-chefs/seven_zip @ 4.2.10](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.10) (1 day ago)
 - [sous-chefs/vim @ 3.0.0](https://github.com/sous-chefs/vim/releases/tag/3.0.0) (1 day ago)
 - [sous-chefs/powershell @ 6.4.16](https://github.com/sous-chefs/powershell/releases/tag/6.4.16) (1 day ago)
-- [sous-chefs/smartmontools @ 2.0.7](https://github.com/sous-chefs/smartmontools/releases/tag/2.0.7) (1 day ago)
 
 #### ⭐ Recent Stars
 
