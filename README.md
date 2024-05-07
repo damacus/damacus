@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/rundeck @ 8.1.5](https://github.com/sous-chefs/rundeck/releases/tag/8.1.5) (today)
-- [sous-chefs/openvpn @ 7.0.20](https://github.com/sous-chefs/openvpn/releases/tag/7.0.20) (today)
-- [sous-chefs/unbound @ 3.0.4](https://github.com/sous-chefs/unbound/releases/tag/3.0.4) (today)
-- [sous-chefs/vcruntime @ 2.2.15](https://github.com/sous-chefs/vcruntime/releases/tag/2.2.15) (today)
-- [sous-chefs/smartmontools @ 2.0.6](https://github.com/sous-chefs/smartmontools/releases/tag/2.0.6) (today)
+- [sous-chefs/notepadpp @ 3.0.0](https://github.com/sous-chefs/notepadpp/releases/tag/3.0.0) (1 day ago)
+- [sous-chefs/seven_zip @ 4.2.10](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.10) (1 day ago)
+- [sous-chefs/vim @ 3.0.0](https://github.com/sous-chefs/vim/releases/tag/3.0.0) (1 day ago)
+- [sous-chefs/powershell @ 6.4.16](https://github.com/sous-chefs/powershell/releases/tag/6.4.16) (1 day ago)
+- [sous-chefs/smartmontools @ 2.0.7](https://github.com/sous-chefs/smartmontools/releases/tag/2.0.7) (1 day ago)
 
 #### ⭐ Recent Stars
 
 
-- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (3 weeks ago)
+- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (4 weeks ago)
 - **[whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search)** - Your Gateway Drug to Kubernetes at Home! (1 month ago)
 - **[bjw-s/home-ops](https://github.com/bjw-s/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices (1 month ago)
 - **[drag0n141/home-ops](https://github.com/drag0n141/home-ops)** - HomeOps driven by Kubernetes and GitOps using Flux (1 month ago)
