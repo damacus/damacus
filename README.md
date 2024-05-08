@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/nodejs @ 10.1.18](https://github.com/sous-chefs/nodejs/releases/tag/10.1.18) (today)
-- [sous-chefs/notepadpp @ 3.0.0](https://github.com/sous-chefs/notepadpp/releases/tag/3.0.0) (1 day ago)
-- [sous-chefs/seven_zip @ 4.2.10](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.10) (1 day ago)
-- [sous-chefs/vim @ 3.0.0](https://github.com/sous-chefs/vim/releases/tag/3.0.0) (1 day ago)
-- [sous-chefs/powershell @ 6.4.16](https://github.com/sous-chefs/powershell/releases/tag/6.4.16) (1 day ago)
+- [sous-chefs/homebrew @ 5.4.8](https://github.com/sous-chefs/homebrew/releases/tag/5.4.8) (1 day ago)
+- [sous-chefs/nodejs @ 10.1.18](https://github.com/sous-chefs/nodejs/releases/tag/10.1.18) (1 day ago)
+- [sous-chefs/notepadpp @ 3.0.0](https://github.com/sous-chefs/notepadpp/releases/tag/3.0.0) (2 days ago)
+- [sous-chefs/seven_zip @ 4.2.10](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.10) (2 days ago)
+- [sous-chefs/vim @ 3.0.0](https://github.com/sous-chefs/vim/releases/tag/3.0.0) (2 days ago)
 
 #### ⭐ Recent Stars
 
@@ -27,7 +27,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search)** - Your Gateway Drug to Kubernetes at Home! (1 month ago)
 - **[bjw-s/home-ops](https://github.com/bjw-s/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices (1 month ago)
 - **[drag0n141/home-ops](https://github.com/drag0n141/home-ops)** - HomeOps driven by Kubernetes and GitOps using Flux (1 month ago)
-- **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (1 month ago)
+- **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (2 months ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (9 months ago)
