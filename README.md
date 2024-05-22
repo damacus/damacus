@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/vim @ 3.0.1](https://github.com/sous-chefs/vim/releases/tag/3.0.1) (1 day ago)
+- [sous-chefs/vim @ 3.0.1](https://github.com/sous-chefs/vim/releases/tag/3.0.1) (2 days ago)
 - [sous-chefs/homebrew @ 5.4.8](https://github.com/sous-chefs/homebrew/releases/tag/5.4.8) (2 weeks ago)
 - [sous-chefs/nodejs @ 10.1.18](https://github.com/sous-chefs/nodejs/releases/tag/10.1.18) (2 weeks ago)
 - [sous-chefs/notepadpp @ 3.0.0](https://github.com/sous-chefs/notepadpp/releases/tag/3.0.0) (2 weeks ago)
