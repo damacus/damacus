@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/rsyslog @ 9.2.22](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.22) (today)
+- [sous-chefs/etcd @ 9.1.31](https://github.com/sous-chefs/etcd/releases/tag/9.1.31) (today)
+- [sous-chefs/elasticsearch @ 5.1.14](https://github.com/sous-chefs/elasticsearch/releases/tag/5.1.14) (today)
 - [sous-chefs/vim @ 3.0.1](https://github.com/sous-chefs/vim/releases/tag/3.0.1) (2 days ago)
 - [sous-chefs/homebrew @ 5.4.8](https://github.com/sous-chefs/homebrew/releases/tag/5.4.8) (2 weeks ago)
-- [sous-chefs/nodejs @ 10.1.18](https://github.com/sous-chefs/nodejs/releases/tag/10.1.18) (2 weeks ago)
-- [sous-chefs/notepadpp @ 3.0.0](https://github.com/sous-chefs/notepadpp/releases/tag/3.0.0) (2 weeks ago)
-- [sous-chefs/seven_zip @ 4.2.10](https://github.com/sous-chefs/seven_zip/releases/tag/4.2.10) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
