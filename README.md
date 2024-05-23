@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/cinc-omnibus @ 1.1.16](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.16) (today)
+- [sous-chefs/php @ 10.0.1](https://github.com/sous-chefs/php/releases/tag/10.0.1) (today)
 - [sous-chefs/rsyslog @ 9.2.22](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.22) (1 day ago)
 - [sous-chefs/etcd @ 9.1.31](https://github.com/sous-chefs/etcd/releases/tag/9.1.31) (1 day ago)
 - [sous-chefs/elasticsearch @ 5.1.14](https://github.com/sous-chefs/elasticsearch/releases/tag/5.1.14) (1 day ago)
-- [sous-chefs/vim @ 3.0.1](https://github.com/sous-chefs/vim/releases/tag/3.0.1) (3 days ago)
-- [sous-chefs/homebrew @ 5.4.8](https://github.com/sous-chefs/homebrew/releases/tag/5.4.8) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
