@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/rsyslog @ 9.2.22](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.22) (today)
-- [sous-chefs/etcd @ 9.1.31](https://github.com/sous-chefs/etcd/releases/tag/9.1.31) (today)
-- [sous-chefs/elasticsearch @ 5.1.14](https://github.com/sous-chefs/elasticsearch/releases/tag/5.1.14) (today)
-- [sous-chefs/vim @ 3.0.1](https://github.com/sous-chefs/vim/releases/tag/3.0.1) (2 days ago)
+- [sous-chefs/rsyslog @ 9.2.22](https://github.com/sous-chefs/rsyslog/releases/tag/9.2.22) (1 day ago)
+- [sous-chefs/etcd @ 9.1.31](https://github.com/sous-chefs/etcd/releases/tag/9.1.31) (1 day ago)
+- [sous-chefs/elasticsearch @ 5.1.14](https://github.com/sous-chefs/elasticsearch/releases/tag/5.1.14) (1 day ago)
+- [sous-chefs/vim @ 3.0.1](https://github.com/sous-chefs/vim/releases/tag/3.0.1) (3 days ago)
 - [sous-chefs/homebrew @ 5.4.8](https://github.com/sous-chefs/homebrew/releases/tag/5.4.8) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 month ago)
-- **[whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search)** - Your Gateway Drug to Kubernetes at Home! (1 month ago)
+- **[whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search)** - Your Gateway Drug to Kubernetes at Home! (2 months ago)
 - **[bjw-s/home-ops](https://github.com/bjw-s/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices (2 months ago)
 - **[drag0n141/home-ops](https://github.com/drag0n141/home-ops)** - HomeOps driven by Kubernetes and GitOps using Flux (2 months ago)
 - **[cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)** - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (2 months ago)
