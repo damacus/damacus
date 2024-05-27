@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/notepadpp @ 3.0.1](https://github.com/sous-chefs/notepadpp/releases/tag/3.0.1) (3 days ago)
-- [sous-chefs/cron @ 7.0.26](https://github.com/sous-chefs/cron/releases/tag/7.0.26) (3 days ago)
-- [sous-chefs/grafana @ 10.7.3](https://github.com/sous-chefs/grafana/releases/tag/10.7.3) (3 days ago)
-- [sous-chefs/certificate @ 2.1.1](https://github.com/sous-chefs/certificate/releases/tag/2.1.1) (3 days ago)
-- [sous-chefs/openssh @ 2.11.12](https://github.com/sous-chefs/openssh/releases/tag/2.11.12) (3 days ago)
+- [sous-chefs/notepadpp @ 3.0.1](https://github.com/sous-chefs/notepadpp/releases/tag/3.0.1) (4 days ago)
+- [sous-chefs/cron @ 7.0.26](https://github.com/sous-chefs/cron/releases/tag/7.0.26) (4 days ago)
+- [sous-chefs/grafana @ 10.7.3](https://github.com/sous-chefs/grafana/releases/tag/10.7.3) (4 days ago)
+- [sous-chefs/certificate @ 2.1.1](https://github.com/sous-chefs/certificate/releases/tag/2.1.1) (4 days ago)
+- [sous-chefs/openssh @ 2.11.12](https://github.com/sous-chefs/openssh/releases/tag/2.11.12) (4 days ago)
 
 #### ⭐ Recent Stars
 
