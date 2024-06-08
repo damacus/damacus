@@ -23,9 +23,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (3 days ago)
-- **[cdnninja/yoto_api](https://github.com/cdnninja/yoto_api)** - An attempt at a python wrapper for the yoto API (3 days ago)
-- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (1 month ago)
+- **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (4 days ago)
+- **[cdnninja/yoto_api](https://github.com/cdnninja/yoto_api)** - An attempt at a python wrapper for the yoto API (4 days ago)
+- **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (2 months ago)
 - **[whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search)** - Your Gateway Drug to Kubernetes at Home! (2 months ago)
 - **[bjw-s/home-ops](https://github.com/bjw-s/home-ops)** - My home or for-home infrastructure written as code, adhering to GitOps practices (2 months ago)
 
