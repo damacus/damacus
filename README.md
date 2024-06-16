@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-vro @ v1.2.1](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.2.1) (6 days ago)
+- [test-kitchen/kitchen-vro @ v1.2.1](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.2.1) (1 week ago)
 - [sous-chefs/notepadpp @ 3.0.1](https://github.com/sous-chefs/notepadpp/releases/tag/3.0.1) (3 weeks ago)
 - [sous-chefs/cron @ 7.0.26](https://github.com/sous-chefs/cron/releases/tag/7.0.26) (3 weeks ago)
 - [sous-chefs/grafana @ 10.7.3](https://github.com/sous-chefs/grafana/releases/tag/10.7.3) (3 weeks ago)
@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (3 days ago)
+- **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (4 days ago)
 - **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (1 week ago)
 - **[cdnninja/yoto_api](https://github.com/cdnninja/yoto_api)** - An attempt at a python wrapper for the yoto API (1 week ago)
 - **[immich-app/immich](https://github.com/immich-app/immich)** - High performance self-hosted photo and video management solution. (2 months ago)
