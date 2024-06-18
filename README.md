@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [test-kitchen/workflow-testing-gem @ v1.0.9](https://github.com/test-kitchen/workflow-testing-gem/releases/tag/v1.0.9) (today)
+- [test-kitchen/.github @ v0.2.0](https://github.com/test-kitchen/.github/releases/tag/v0.2.0) (today)
 - [test-kitchen/kitchen-vro @ v1.2.1](https://github.com/test-kitchen/kitchen-vro/releases/tag/v1.2.1) (1 week ago)
 - [sous-chefs/notepadpp @ 3.0.1](https://github.com/sous-chefs/notepadpp/releases/tag/3.0.1) (3 weeks ago)
 - [sous-chefs/cron @ 7.0.26](https://github.com/sous-chefs/cron/releases/tag/7.0.26) (3 weeks ago)
-- [sous-chefs/grafana @ 10.7.3](https://github.com/sous-chefs/grafana/releases/tag/10.7.3) (3 weeks ago)
-- [sous-chefs/certificate @ 2.1.1](https://github.com/sous-chefs/certificate/releases/tag/2.1.1) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
