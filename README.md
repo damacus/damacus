@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/chef-ruby-lvm-attrib @ v0.4.0](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.4.0) (today)
 - [test-kitchen/kitchen-google @ v2.6.1](https://github.com/test-kitchen/kitchen-google/releases/tag/v2.6.1) (1 day ago)
 - [test-kitchen/kitchen-hyperv @ v0.10.1](https://github.com/test-kitchen/kitchen-hyperv/releases/tag/v0.10.1) (1 week ago)
 - [test-kitchen/kitchen-ec2 @ v3.19.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.19.0) (1 week ago)
 - [test-kitchen/kitchen-azurerm @ v1.13.1](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.1) (1 week ago)
-- [test-kitchen/.github @ v0.2.3](https://github.com/test-kitchen/.github/releases/tag/v0.2.3) (1 week ago)
 
 #### ⭐ Recent Stars
 
