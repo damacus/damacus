@@ -14,20 +14,20 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/nagios @ 12.0.0](https://github.com/sous-chefs/nagios/releases/tag/12.0.0) (1 day ago)
-- [test-kitchen/kitchen-dokken @ v2.20.6](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.20.6) (2 days ago)
-- [test-kitchen/kitchen-dsc @ v0.12.1](https://github.com/test-kitchen/kitchen-dsc/releases/tag/v0.12.1) (2 days ago)
-- [test-kitchen/kitchen-rackspace @ v0.21.1](https://github.com/test-kitchen/kitchen-rackspace/releases/tag/v0.21.1) (2 days ago)
-- [test-kitchen/kitchen-digitalocean @ v0.16.1](https://github.com/test-kitchen/kitchen-digitalocean/releases/tag/v0.16.1) (2 days ago)
+- [sous-chefs/lvm @ 6.1.23](https://github.com/sous-chefs/lvm/releases/tag/6.1.23) (today)
+- [sous-chefs/golang @ 5.4.20](https://github.com/sous-chefs/golang/releases/tag/5.4.20) (today)
+- [sous-chefs/mariadb @ 5.5.5](https://github.com/sous-chefs/mariadb/releases/tag/5.5.5) (today)
+- [sous-chefs/rundeck @ 8.1.7](https://github.com/sous-chefs/rundeck/releases/tag/8.1.7) (today)
+- [sous-chefs/hashicorp-vault @ 6.3.19](https://github.com/sous-chefs/hashicorp-vault/releases/tag/6.3.19) (today)
 
 #### ⭐ Recent Stars
 
 
-- **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (1 week ago)
-- **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (1 week ago)
-- **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (3 weeks ago)
-- **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (4 weeks ago)
-- **[cdnninja/yoto_api](https://github.com/cdnninja/yoto_api)** - An attempt at a python wrapper for the yoto API (4 weeks ago)
+- **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (2 weeks ago)
+- **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (3 weeks ago)
+- **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (1 month ago)
+- **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (1 month ago)
+- **[cdnninja/yoto_api](https://github.com/cdnninja/yoto_api)** - An attempt at a python wrapper for the yoto API (1 month ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (11 months ago)
