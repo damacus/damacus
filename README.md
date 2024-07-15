@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/lvm @ 6.1.23](https://github.com/sous-chefs/lvm/releases/tag/6.1.23) (today)
-- [sous-chefs/golang @ 5.4.20](https://github.com/sous-chefs/golang/releases/tag/5.4.20) (today)
-- [sous-chefs/mariadb @ 5.5.5](https://github.com/sous-chefs/mariadb/releases/tag/5.5.5) (today)
-- [sous-chefs/rundeck @ 8.1.7](https://github.com/sous-chefs/rundeck/releases/tag/8.1.7) (today)
-- [sous-chefs/hashicorp-vault @ 6.3.19](https://github.com/sous-chefs/hashicorp-vault/releases/tag/6.3.19) (today)
+- [sous-chefs/docker @ 11.4.0](https://github.com/sous-chefs/docker/releases/tag/11.4.0) (today)
+- [sous-chefs/keepalived @ 6.0.19](https://github.com/sous-chefs/keepalived/releases/tag/6.0.19) (today)
+- [sous-chefs/elasticsearch @ 5.1.15](https://github.com/sous-chefs/elasticsearch/releases/tag/5.1.15) (today)
+- [sous-chefs/jenkins @ 9.5.22](https://github.com/sous-chefs/jenkins/releases/tag/9.5.22) (today)
+- [sous-chefs/java @ 12.0.6](https://github.com/sous-chefs/java/releases/tag/12.0.6) (today)
 
 #### ⭐ Recent Stars
 
