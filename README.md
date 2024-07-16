@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/docker @ 11.4.0](https://github.com/sous-chefs/docker/releases/tag/11.4.0) (today)
-- [sous-chefs/keepalived @ 6.0.19](https://github.com/sous-chefs/keepalived/releases/tag/6.0.19) (today)
-- [sous-chefs/elasticsearch @ 5.1.15](https://github.com/sous-chefs/elasticsearch/releases/tag/5.1.15) (today)
-- [sous-chefs/jenkins @ 9.5.22](https://github.com/sous-chefs/jenkins/releases/tag/9.5.22) (today)
-- [sous-chefs/java @ 12.0.6](https://github.com/sous-chefs/java/releases/tag/12.0.6) (today)
+- [sous-chefs/selinux @ 6.2.0](https://github.com/sous-chefs/selinux/releases/tag/6.2.0) (1 day ago)
+- [sous-chefs/ntp @ 5.2.2](https://github.com/sous-chefs/ntp/releases/tag/5.2.2) (1 day ago)
+- [sous-chefs/docker @ 11.4.0](https://github.com/sous-chefs/docker/releases/tag/11.4.0) (1 day ago)
+- [sous-chefs/keepalived @ 6.0.19](https://github.com/sous-chefs/keepalived/releases/tag/6.0.19) (1 day ago)
+- [sous-chefs/elasticsearch @ 5.1.15](https://github.com/sous-chefs/elasticsearch/releases/tag/5.1.15) (1 day ago)
 
 #### ⭐ Recent Stars
 
