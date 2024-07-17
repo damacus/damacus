@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/docker @ 11.4.2](https://github.com/sous-chefs/docker/releases/tag/11.4.2) (today)
-- [sous-chefs/selinux @ 6.2.0](https://github.com/sous-chefs/selinux/releases/tag/6.2.0) (1 day ago)
-- [sous-chefs/ntp @ 5.2.2](https://github.com/sous-chefs/ntp/releases/tag/5.2.2) (1 day ago)
-- [sous-chefs/keepalived @ 6.0.19](https://github.com/sous-chefs/keepalived/releases/tag/6.0.19) (1 day ago)
-- [sous-chefs/elasticsearch @ 5.1.15](https://github.com/sous-chefs/elasticsearch/releases/tag/5.1.15) (1 day ago)
+- [sous-chefs/docker @ 11.4.2](https://github.com/sous-chefs/docker/releases/tag/11.4.2) (1 day ago)
+- [sous-chefs/selinux @ 6.2.0](https://github.com/sous-chefs/selinux/releases/tag/6.2.0) (2 days ago)
+- [sous-chefs/ntp @ 5.2.2](https://github.com/sous-chefs/ntp/releases/tag/5.2.2) (2 days ago)
+- [sous-chefs/keepalived @ 6.0.19](https://github.com/sous-chefs/keepalived/releases/tag/6.0.19) (2 days ago)
+- [sous-chefs/elasticsearch @ 5.1.15](https://github.com/sous-chefs/elasticsearch/releases/tag/5.1.15) (2 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (2 weeks ago)
+- **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (3 weeks ago)
 - **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (3 weeks ago)
 - **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (1 month ago)
 - **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (1 month ago)
