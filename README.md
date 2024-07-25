@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/memcached @ 7.0.26](https://github.com/sous-chefs/memcached/releases/tag/7.0.26) (today)
 - [sous-chefs/isc_kea @ 1.7.0](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.0) (2 days ago)
 - [sous-chefs/docker @ 11.4.2](https://github.com/sous-chefs/docker/releases/tag/11.4.2) (1 week ago)
 - [sous-chefs/selinux @ 6.2.0](https://github.com/sous-chefs/selinux/releases/tag/6.2.0) (1 week ago)
 - [sous-chefs/ntp @ 5.2.2](https://github.com/sous-chefs/ntp/releases/tag/5.2.2) (1 week ago)
-- [sous-chefs/keepalived @ 6.0.19](https://github.com/sous-chefs/keepalived/releases/tag/6.0.19) (1 week ago)
 
 #### ⭐ Recent Stars
 
