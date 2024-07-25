@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/isc_kea @ 1.7.0](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.0) (1 day ago)
+- [sous-chefs/isc_kea @ 1.7.0](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.0) (2 days ago)
 - [sous-chefs/docker @ 11.4.2](https://github.com/sous-chefs/docker/releases/tag/11.4.2) (1 week ago)
 - [sous-chefs/selinux @ 6.2.0](https://github.com/sous-chefs/selinux/releases/tag/6.2.0) (1 week ago)
 - [sous-chefs/ntp @ 5.2.2](https://github.com/sous-chefs/ntp/releases/tag/5.2.2) (1 week ago)
@@ -32,4 +32,4 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (11 months ago)
 - [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (1 year ago)
-- [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (1 year ago)
+- [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (2 years ago)
