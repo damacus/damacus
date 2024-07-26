@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/memcached @ 7.0.26](https://github.com/sous-chefs/memcached/releases/tag/7.0.26) (today)
-- [sous-chefs/isc_kea @ 1.7.0](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.0) (2 days ago)
+- [sous-chefs/memcached @ 7.0.26](https://github.com/sous-chefs/memcached/releases/tag/7.0.26) (1 day ago)
+- [sous-chefs/isc_kea @ 1.7.0](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.0) (3 days ago)
 - [sous-chefs/docker @ 11.4.2](https://github.com/sous-chefs/docker/releases/tag/11.4.2) (1 week ago)
 - [sous-chefs/selinux @ 6.2.0](https://github.com/sous-chefs/selinux/releases/tag/6.2.0) (1 week ago)
 - [sous-chefs/ntp @ 5.2.2](https://github.com/sous-chefs/ntp/releases/tag/5.2.2) (1 week ago)
@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (4 weeks ago)
+- **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (1 month ago)
 - **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (1 month ago)
 - **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (1 month ago)
 - **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (1 month ago)
