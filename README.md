@@ -14,10 +14,10 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/php @ 10.0.3](https://github.com/sous-chefs/php/releases/tag/10.0.3) (today)
-- [sous-chefs/memcached @ 7.0.26](https://github.com/sous-chefs/memcached/releases/tag/7.0.26) (4 days ago)
-- [sous-chefs/isc_kea @ 1.7.0](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.0) (6 days ago)
-- [sous-chefs/docker @ 11.4.2](https://github.com/sous-chefs/docker/releases/tag/11.4.2) (1 week ago)
+- [sous-chefs/php @ 10.0.3](https://github.com/sous-chefs/php/releases/tag/10.0.3) (1 day ago)
+- [sous-chefs/memcached @ 7.0.26](https://github.com/sous-chefs/memcached/releases/tag/7.0.26) (5 days ago)
+- [sous-chefs/isc_kea @ 1.7.0](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.0) (1 week ago)
+- [sous-chefs/docker @ 11.4.2](https://github.com/sous-chefs/docker/releases/tag/11.4.2) (2 weeks ago)
 - [sous-chefs/selinux @ 6.2.0](https://github.com/sous-chefs/selinux/releases/tag/6.2.0) (2 weeks ago)
 
 #### ⭐ Recent Stars
