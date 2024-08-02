@@ -14,10 +14,10 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/php @ 10.1.1](https://github.com/sous-chefs/php/releases/tag/10.1.1) (today)
-- [sous-chefs/cinc-omnibus @ 1.1.20](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.20) (1 day ago)
-- [sous-chefs/yum-remi-chef @ 7.1.0](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.1.0) (1 day ago)
-- [sous-chefs/nagios @ 12.1.0](https://github.com/sous-chefs/nagios/releases/tag/12.1.0) (2 days ago)
+- [sous-chefs/php @ 10.1.1](https://github.com/sous-chefs/php/releases/tag/10.1.1) (1 day ago)
+- [sous-chefs/cinc-omnibus @ 1.1.20](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.20) (2 days ago)
+- [sous-chefs/yum-remi-chef @ 7.1.0](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.1.0) (2 days ago)
+- [sous-chefs/nagios @ 12.1.0](https://github.com/sous-chefs/nagios/releases/tag/12.1.0) (3 days ago)
 - [sous-chefs/memcached @ 7.0.26](https://github.com/sous-chefs/memcached/releases/tag/7.0.26) (1 week ago)
 
 #### ⭐ Recent Stars
@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[cdnninja/yoto_api](https://github.com/cdnninja/yoto_api)** - An attempt at a python wrapper for the yoto API (1 month ago)
 
 #### 📄 Latest blog posts
-- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (11 months ago)
+- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (1 year ago)
 - [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (1 year ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (2 years ago)
