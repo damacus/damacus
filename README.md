@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/docker @ 11.5.0](https://github.com/sous-chefs/docker/releases/tag/11.5.0) (today)
 - [sous-chefs/apache2 @ 9.3.4](https://github.com/sous-chefs/apache2/releases/tag/9.3.4) (1 day ago)
 - [sous-chefs/php @ 10.1.1](https://github.com/sous-chefs/php/releases/tag/10.1.1) (2 days ago)
 - [sous-chefs/cinc-omnibus @ 1.1.20](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.20) (3 days ago)
 - [sous-chefs/yum-remi-chef @ 7.1.0](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.1.0) (3 days ago)
-- [sous-chefs/nagios @ 12.1.0](https://github.com/sous-chefs/nagios/releases/tag/12.1.0) (4 days ago)
 
 #### ⭐ Recent Stars
 
