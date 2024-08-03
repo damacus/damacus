@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/apache2 @ 9.3.4](https://github.com/sous-chefs/apache2/releases/tag/9.3.4) (today)
-- [sous-chefs/php @ 10.1.1](https://github.com/sous-chefs/php/releases/tag/10.1.1) (1 day ago)
-- [sous-chefs/cinc-omnibus @ 1.1.20](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.20) (2 days ago)
-- [sous-chefs/yum-remi-chef @ 7.1.0](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.1.0) (2 days ago)
-- [sous-chefs/nagios @ 12.1.0](https://github.com/sous-chefs/nagios/releases/tag/12.1.0) (3 days ago)
+- [sous-chefs/apache2 @ 9.3.4](https://github.com/sous-chefs/apache2/releases/tag/9.3.4) (1 day ago)
+- [sous-chefs/php @ 10.1.1](https://github.com/sous-chefs/php/releases/tag/10.1.1) (2 days ago)
+- [sous-chefs/cinc-omnibus @ 1.1.20](https://github.com/sous-chefs/cinc-omnibus/releases/tag/1.1.20) (3 days ago)
+- [sous-chefs/yum-remi-chef @ 7.1.0](https://github.com/sous-chefs/yum-remi-chef/releases/tag/7.1.0) (3 days ago)
+- [sous-chefs/nagios @ 12.1.0](https://github.com/sous-chefs/nagios/releases/tag/12.1.0) (4 days ago)
 
 #### ⭐ Recent Stars
 
@@ -26,8 +26,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (1 month ago)
 - **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (1 month ago)
 - **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (1 month ago)
-- **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (1 month ago)
-- **[cdnninja/yoto_api](https://github.com/cdnninja/yoto_api)** - An attempt at a python wrapper for the yoto API (1 month ago)
+- **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (2 months ago)
+- **[cdnninja/yoto_api](https://github.com/cdnninja/yoto_api)** - An attempt at a python wrapper for the yoto API (2 months ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (1 year ago)
