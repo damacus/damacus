@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [allenporter/flux-local @ 5.5.1](https://github.com/allenporter/flux-local/releases/tag/5.5.1) (3 days ago)
+- [allenporter/flux-local @ 5.5.1](https://github.com/allenporter/flux-local/releases/tag/5.5.1) (4 days ago)
 - [sous-chefs/docker @ 11.5.0](https://github.com/sous-chefs/docker/releases/tag/11.5.0) (1 week ago)
 - [sous-chefs/apache2 @ 9.3.4](https://github.com/sous-chefs/apache2/releases/tag/9.3.4) (1 week ago)
 - [sous-chefs/php @ 10.1.1](https://github.com/sous-chefs/php/releases/tag/10.1.1) (1 week ago)
@@ -25,7 +25,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 - **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (1 month ago)
 - **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (1 month ago)
-- **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (1 month ago)
+- **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (2 months ago)
 - **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (2 months ago)
 - **[cdnninja/yoto_api](https://github.com/cdnninja/yoto_api)** - An attempt at a python wrapper for the yoto API (2 months ago)
 
