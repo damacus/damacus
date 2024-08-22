@@ -18,7 +18,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - [allenporter/flux-local @ 5.5.1](https://github.com/allenporter/flux-local/releases/tag/5.5.1) (2 weeks ago)
 - [sous-chefs/docker @ 11.5.0](https://github.com/sous-chefs/docker/releases/tag/11.5.0) (2 weeks ago)
 - [sous-chefs/apache2 @ 9.3.4](https://github.com/sous-chefs/apache2/releases/tag/9.3.4) (2 weeks ago)
-- [sous-chefs/php @ 10.1.1](https://github.com/sous-chefs/php/releases/tag/10.1.1) (2 weeks ago)
+- [sous-chefs/php @ 10.1.1](https://github.com/sous-chefs/php/releases/tag/10.1.1) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
