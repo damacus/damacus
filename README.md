@@ -23,11 +23,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
+- **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster (1 day ago)
 - **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (2 months ago)
 - **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (2 months ago)
 - **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (2 months ago)
 - **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (2 months ago)
-- **[cdnninja/yoto_api](https://github.com/cdnninja/yoto_api)** - An attempt at a python wrapper for the yoto API (2 months ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (1 year ago)
