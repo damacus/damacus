@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/selinux @ 6.2.1](https://github.com/sous-chefs/selinux/releases/tag/6.2.1) (1 week ago)
+- [sous-chefs/selinux @ 6.2.1](https://github.com/sous-chefs/selinux/releases/tag/6.2.1) (2 weeks ago)
 - [allenporter/flux-local @ 5.5.1](https://github.com/allenporter/flux-local/releases/tag/5.5.1) (2 weeks ago)
 - [sous-chefs/docker @ 11.5.0](https://github.com/sous-chefs/docker/releases/tag/11.5.0) (3 weeks ago)
 - [sous-chefs/apache2 @ 9.3.4](https://github.com/sous-chefs/apache2/releases/tag/9.3.4) (3 weeks ago)
@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster (1 day ago)
+- **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster (2 days ago)
 - **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (2 months ago)
 - **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (2 months ago)
 - **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (2 months ago)
