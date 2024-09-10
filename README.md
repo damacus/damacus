@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/lvm @ 6.2.0](https://github.com/sous-chefs/lvm/releases/tag/6.2.0) (4 days ago)
-- [test-kitchen/test-kitchen @ v3.7.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.7.0) (1 week ago)
-- [sous-chefs/selinux @ 6.2.1](https://github.com/sous-chefs/selinux/releases/tag/6.2.1) (3 weeks ago)
+- [sous-chefs/lvm @ 6.2.0](https://github.com/sous-chefs/lvm/releases/tag/6.2.0) (5 days ago)
+- [test-kitchen/test-kitchen @ v3.7.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.7.0) (2 weeks ago)
+- [sous-chefs/selinux @ 6.2.1](https://github.com/sous-chefs/selinux/releases/tag/6.2.1) (4 weeks ago)
 - [allenporter/flux-local @ 5.5.1](https://github.com/allenporter/flux-local/releases/tag/5.5.1) (1 month ago)
 - [sous-chefs/docker @ 11.5.0](https://github.com/sous-chefs/docker/releases/tag/11.5.0) (1 month ago)
 
@@ -26,7 +26,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster (2 weeks ago)
 - **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (2 months ago)
 - **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (2 months ago)
-- **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (2 months ago)
+- **[SparksD2145/flux-infra](https://github.com/SparksD2145/flux-infra)** - FluxCD Infrastructure desired state configuration for K8s (3 months ago)
 - **[cdnninja/yoto_ha](https://github.com/cdnninja/yoto_ha)** - Home Assistant Integration for Yoto (3 months ago)
 
 #### 📄 Latest blog posts
