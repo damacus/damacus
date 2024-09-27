@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/grafana @ 10.8.0](https://github.com/sous-chefs/grafana/releases/tag/10.8.0) (today)
 - [sous-chefs/lvm @ 6.2.0](https://github.com/sous-chefs/lvm/releases/tag/6.2.0) (3 weeks ago)
 - [test-kitchen/test-kitchen @ v3.7.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.7.0) (1 month ago)
 - [sous-chefs/selinux @ 6.2.1](https://github.com/sous-chefs/selinux/releases/tag/6.2.1) (1 month ago)
 - [allenporter/flux-local @ 5.5.1](https://github.com/allenporter/flux-local/releases/tag/5.5.1) (1 month ago)
-- [sous-chefs/docker @ 11.5.0](https://github.com/sous-chefs/docker/releases/tag/11.5.0) (1 month ago)
 
 #### ⭐ Recent Stars
 
