@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [allenporter/flux-local @ 6.0.0](https://github.com/allenporter/flux-local/releases/tag/6.0.0) (4 days ago)
-- [sous-chefs/docker @ 11.5.1](https://github.com/sous-chefs/docker/releases/tag/11.5.1) (5 days ago)
-- [sous-chefs/chef-splunk @ 9.2.23](https://github.com/sous-chefs/chef-splunk/releases/tag/9.2.23) (5 days ago)
-- [sous-chefs/nfs @ 5.1.5](https://github.com/sous-chefs/nfs/releases/tag/5.1.5) (5 days ago)
-- [sous-chefs/postgresql @ 11.11.2](https://github.com/sous-chefs/postgresql/releases/tag/11.11.2) (5 days ago)
+- [allenporter/flux-local @ 6.0.0](https://github.com/allenporter/flux-local/releases/tag/6.0.0) (5 days ago)
+- [sous-chefs/docker @ 11.5.1](https://github.com/sous-chefs/docker/releases/tag/11.5.1) (6 days ago)
+- [sous-chefs/chef-splunk @ 9.2.23](https://github.com/sous-chefs/chef-splunk/releases/tag/9.2.23) (6 days ago)
+- [sous-chefs/nfs @ 5.1.5](https://github.com/sous-chefs/nfs/releases/tag/5.1.5) (6 days ago)
+- [sous-chefs/postgresql @ 11.11.2](https://github.com/sous-chefs/postgresql/releases/tag/11.11.2) (6 days ago)
 
 #### ⭐ Recent Stars
 
