@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/filesystem @ 4.1.0](https://github.com/sous-chefs/filesystem/releases/tag/4.1.0) (1 day ago)
-- [sous-chefs/haproxy @ 12.4.0](https://github.com/sous-chefs/haproxy/releases/tag/12.4.0) (1 day ago)
-- [sous-chefs/yum @ 7.4.20](https://github.com/sous-chefs/yum/releases/tag/7.4.20) (3 days ago)
-- [sous-chefs/firewall @ 6.3.9](https://github.com/sous-chefs/firewall/releases/tag/6.3.9) (5 days ago)
-- [sous-chefs/java @ 12.1.1](https://github.com/sous-chefs/java/releases/tag/12.1.1) (5 days ago)
+- [sous-chefs/filesystem @ 4.1.0](https://github.com/sous-chefs/filesystem/releases/tag/4.1.0) (2 days ago)
+- [sous-chefs/haproxy @ 12.4.0](https://github.com/sous-chefs/haproxy/releases/tag/12.4.0) (2 days ago)
+- [sous-chefs/yum @ 7.4.20](https://github.com/sous-chefs/yum/releases/tag/7.4.20) (4 days ago)
+- [sous-chefs/firewall @ 6.3.9](https://github.com/sous-chefs/firewall/releases/tag/6.3.9) (6 days ago)
+- [sous-chefs/java @ 12.1.1](https://github.com/sous-chefs/java/releases/tag/12.1.1) (6 days ago)
 
 #### ⭐ Recent Stars
 
