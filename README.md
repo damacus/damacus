@@ -5,11 +5,11 @@
 I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 👨‍💻 Repositories I created recently
+- **[damacus/dotfiles.nix](https://github.com/damacus/dotfiles.nix)**
 - **[damacus/renovate-config](https://github.com/damacus/renovate-config)**
 - **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster
 - **[damacus/terraform-kubernetes-k3s-upgrade-controller](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller)** - Terraform Module for installing the k3s system upgrade controller
 - **[damacus/terraform-helm-release](https://github.com/damacus/terraform-helm-release)** - Terraform Module for configuring a Helm Release
-- **[damacus/homebrew-brewfile](https://github.com/damacus/homebrew-brewfile)** - Brewfiles
 
 #### 🚀 Latest releases I've contributed to
 
