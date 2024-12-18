@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/rsyslog @ 11.0.0](https://github.com/sous-chefs/rsyslog/releases/tag/11.0.0) (today)
+- [sous-chefs/isc_kea @ 1.7.1](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.1) (today)
 - [sous-chefs/filesystem @ 4.2.0](https://github.com/sous-chefs/filesystem/releases/tag/4.2.0) (3 days ago)
 - [mealie-recipes/mealie @ v2.4.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.4.0) (4 days ago)
-- [sous-chefs/rsyslog @ 10.0.0](https://github.com/sous-chefs/rsyslog/releases/tag/10.0.0) (6 days ago)
 - [sous-chefs/docker @ 11.8.4](https://github.com/sous-chefs/docker/releases/tag/11.8.4) (1 week ago)
-- [sous-chefs/haproxy @ 12.4.0](https://github.com/sous-chefs/haproxy/releases/tag/12.4.0) (1 week ago)
 
 #### ⭐ Recent Stars
 
