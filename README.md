@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [allenporter/flux-local @ 6.1.0](https://github.com/allenporter/flux-local/releases/tag/6.1.0) (2 days ago)
-- [sous-chefs/isc_kea @ 1.7.3](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.3) (5 days ago)
+- [allenporter/flux-local @ 6.1.0](https://github.com/allenporter/flux-local/releases/tag/6.1.0) (3 days ago)
+- [sous-chefs/isc_kea @ 1.7.3](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.3) (6 days ago)
 - [mealie-recipes/mealie @ v2.4.1](https://github.com/mealie-recipes/mealie/releases/tag/v2.4.1) (1 week ago)
 - [sous-chefs/rsyslog @ 11.0.0](https://github.com/sous-chefs/rsyslog/releases/tag/11.0.0) (1 week ago)
 - [sous-chefs/filesystem @ 4.2.0](https://github.com/sous-chefs/filesystem/releases/tag/4.2.0) (1 week ago)
@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[bo0tzz/kube](https://github.com/bo0tzz/kube)** - Kubernetes manifests for deployment to my home cluster (1 month ago)
+- **[bo0tzz/kube](https://github.com/bo0tzz/kube)** - Kubernetes manifests for deployment to my home cluster (2 months ago)
 - **[mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)** - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (2 months ago)
 - **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster (4 months ago)
 - **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (6 months ago)
