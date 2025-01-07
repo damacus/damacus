@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/logrotate @ 3.0.28](https://github.com/sous-chefs/logrotate/releases/tag/3.0.28) (today)
-- [allenporter/flux-local @ 7.0.0](https://github.com/allenporter/flux-local/releases/tag/7.0.0) (6 days ago)
+- [sous-chefs/logrotate @ 3.0.28](https://github.com/sous-chefs/logrotate/releases/tag/3.0.28) (1 day ago)
+- [allenporter/flux-local @ 7.0.0](https://github.com/allenporter/flux-local/releases/tag/7.0.0) (1 week ago)
 - [sous-chefs/postgresql @ 12.0.3](https://github.com/sous-chefs/postgresql/releases/tag/12.0.3) (1 week ago)
 - [sous-chefs/isc_kea @ 1.7.3](https://github.com/sous-chefs/isc_kea/releases/tag/1.7.3) (2 weeks ago)
 - [mealie-recipes/mealie @ v2.4.1](https://github.com/mealie-recipes/mealie/releases/tag/v2.4.1) (2 weeks ago)
