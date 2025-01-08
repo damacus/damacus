@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/nginx @ 12.2.12](https://github.com/sous-chefs/nginx/releases/tag/12.2.12) (today)
-- [mealie-recipes/mealie @ v2.4.2](https://github.com/mealie-recipes/mealie/releases/tag/v2.4.2) (today)
-- [sous-chefs/logrotate @ 3.0.28](https://github.com/sous-chefs/logrotate/releases/tag/3.0.28) (1 day ago)
+- [sous-chefs/nginx @ 12.2.13](https://github.com/sous-chefs/nginx/releases/tag/12.2.13) (1 day ago)
+- [mealie-recipes/mealie @ v2.4.2](https://github.com/mealie-recipes/mealie/releases/tag/v2.4.2) (1 day ago)
+- [sous-chefs/logrotate @ 3.0.28](https://github.com/sous-chefs/logrotate/releases/tag/3.0.28) (2 days ago)
 - [allenporter/flux-local @ 7.0.0](https://github.com/allenporter/flux-local/releases/tag/7.0.0) (1 week ago)
 - [sous-chefs/postgresql @ 12.0.3](https://github.com/sous-chefs/postgresql/releases/tag/12.0.3) (1 week ago)
 
