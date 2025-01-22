@@ -25,8 +25,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 - **[bo0tzz/kube](https://github.com/bo0tzz/kube)** - Kubernetes manifests for deployment to my home cluster (2 months ago)
 - **[mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)** - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (3 months ago)
-- **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster Home Edition (4 months ago)
-- **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (6 months ago)
+- **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster Home Edition (5 months ago)
+- **[szinn/k8s-homelab](https://github.com/szinn/k8s-homelab)** - My home operations repository using k8s/gitops (7 months ago)
 - **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (7 months ago)
 
 #### 📄 Latest blog posts
