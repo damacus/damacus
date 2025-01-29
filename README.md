@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [mealie-recipes/mealie @ v2.5.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.5.0) (6 days ago)
+- [mealie-recipes/mealie @ v2.5.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.5.0) (1 week ago)
 - [sous-chefs/chef-ruby-lvm-attrib @ v0.4.1](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.4.1) (2 weeks ago)
 - [sous-chefs/nginx @ 12.2.13](https://github.com/sous-chefs/nginx/releases/tag/12.2.13) (3 weeks ago)
 - [sous-chefs/logrotate @ 3.0.28](https://github.com/sous-chefs/logrotate/releases/tag/3.0.28) (3 weeks ago)
@@ -30,6 +30,6 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook)** - External-DNS Webhook to manage UniFi DNS Records (7 months ago)
 
 #### 📄 Latest blog posts
-- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (1 year ago)
+- [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (2 years ago)
 - [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) (2 years ago)
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) (2 years ago)
