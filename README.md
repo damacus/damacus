@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [mealie-recipes/mealie @ v2.6.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.6.0) (4 days ago)
+- [mealie-recipes/mealie @ v2.6.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.6.0) (5 days ago)
 - [sous-chefs/docker @ 11.9.2](https://github.com/sous-chefs/docker/releases/tag/11.9.2) (1 week ago)
 - [sous-chefs/chef-ruby-lvm-attrib @ v0.4.1](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.4.1) (4 weeks ago)
 - [sous-chefs/nginx @ 12.2.13](https://github.com/sous-chefs/nginx/releases/tag/12.2.13) (1 month ago)
