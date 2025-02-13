@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/ntp @ 5.2.4](https://github.com/sous-chefs/ntp/releases/tag/5.2.4) (today)
-- [sous-chefs/logrotate @ 3.0.29](https://github.com/sous-chefs/logrotate/releases/tag/3.0.29) (today)
+- [sous-chefs/ntp @ 5.2.4](https://github.com/sous-chefs/ntp/releases/tag/5.2.4) (1 day ago)
+- [sous-chefs/logrotate @ 3.0.29](https://github.com/sous-chefs/logrotate/releases/tag/3.0.29) (1 day ago)
 - [mealie-recipes/mealie @ v2.6.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.6.0) (1 week ago)
 - [sous-chefs/docker @ 11.9.2](https://github.com/sous-chefs/docker/releases/tag/11.9.2) (1 week ago)
 - [sous-chefs/chef-ruby-lvm-attrib @ v0.4.1](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.4.1) (1 month ago)
