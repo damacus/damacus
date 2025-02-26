@@ -14,10 +14,10 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/lvm @ 6.2.2](https://github.com/sous-chefs/lvm/releases/tag/6.2.2) (4 days ago)
+- [sous-chefs/lvm @ 6.2.2](https://github.com/sous-chefs/lvm/releases/tag/6.2.2) (5 days ago)
 - [sous-chefs/chef-ruby-lvm-attrib @ v0.4.2](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.4.2) (1 week ago)
-- [sous-chefs/logrotate @ 3.0.29](https://github.com/sous-chefs/logrotate/releases/tag/3.0.29) (1 week ago)
-- [mealie-recipes/mealie @ v2.6.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.6.0) (2 weeks ago)
+- [sous-chefs/logrotate @ 3.0.29](https://github.com/sous-chefs/logrotate/releases/tag/3.0.29) (2 weeks ago)
+- [mealie-recipes/mealie @ v2.6.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.6.0) (3 weeks ago)
 - [sous-chefs/docker @ 11.9.2](https://github.com/sous-chefs/docker/releases/tag/11.9.2) (3 weeks ago)
 
 #### ⭐ Recent Stars
