@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [allenporter/flux-local @ 7.1.0](https://github.com/allenporter/flux-local/releases/tag/7.1.0) (today)
-- [mealie-recipes/mealie @ v2.7.1](https://github.com/mealie-recipes/mealie/releases/tag/v2.7.1) (3 days ago)
+- [test-kitchen/kitchen-azurerm @ v1.13.2](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.2) (1 day ago)
+- [allenporter/flux-local @ 7.1.0](https://github.com/allenporter/flux-local/releases/tag/7.1.0) (1 day ago)
+- [mealie-recipes/mealie @ v2.7.1](https://github.com/mealie-recipes/mealie/releases/tag/v2.7.1) (4 days ago)
 - [sous-chefs/lvm @ 6.2.2](https://github.com/sous-chefs/lvm/releases/tag/6.2.2) (1 week ago)
 - [sous-chefs/chef-ruby-lvm-attrib @ v0.4.2](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.4.2) (2 weeks ago)
-- [sous-chefs/logrotate @ 3.0.29](https://github.com/sous-chefs/logrotate/releases/tag/3.0.29) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
