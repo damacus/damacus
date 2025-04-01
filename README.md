@@ -16,7 +16,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 - [allenporter/flux-local @ 7.3.0](https://github.com/allenporter/flux-local/releases/tag/7.3.0) (1 week ago)
 - [sous-chefs/filesystem @ 4.2.2](https://github.com/sous-chefs/filesystem/releases/tag/4.2.2) (1 week ago)
-- [mealie-recipes/mealie @ v2.8.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.8.0) (1 week ago)
+- [mealie-recipes/mealie @ v2.8.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.8.0) (2 weeks ago)
 - [sous-chefs/jenkins @ 9.6.0](https://github.com/sous-chefs/jenkins/releases/tag/9.6.0) (2 weeks ago)
 - [test-kitchen/kitchen-azurerm @ v1.13.2](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.2) (4 weeks ago)
 
