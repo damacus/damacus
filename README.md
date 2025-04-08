@@ -5,20 +5,20 @@
 I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 👨‍💻 Repositories I created recently
+- **[damacus/robovac](https://github.com/damacus/robovac)** - Add a Eufy RoboVac easily to Home Assistant
 - **[damacus/dotfiles](https://github.com/damacus/dotfiles)** - Dotfile managed by chezmoi
 - **[damacus/dotfiles.nix](https://github.com/damacus/dotfiles.nix)**
 - **[damacus/renovate-config](https://github.com/damacus/renovate-config)**
 - **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster Home Edition
-- **[damacus/terraform-kubernetes-k3s-upgrade-controller](https://github.com/damacus/terraform-kubernetes-k3s-upgrade-controller)** - Terraform Module for installing the k3s system upgrade controller
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [damacus/robovac @ v1.0.1](https://github.com/damacus/robovac/releases/tag/v1.0.1) (today)
 - [sous-chefs/nginx @ 12.3.0](https://github.com/sous-chefs/nginx/releases/tag/12.3.0) (1 week ago)
 - [allenporter/flux-local @ 7.3.0](https://github.com/allenporter/flux-local/releases/tag/7.3.0) (2 weeks ago)
 - [sous-chefs/filesystem @ 4.2.2](https://github.com/sous-chefs/filesystem/releases/tag/4.2.2) (2 weeks ago)
 - [mealie-recipes/mealie @ v2.8.0](https://github.com/mealie-recipes/mealie/releases/tag/v2.8.0) (3 weeks ago)
-- [sous-chefs/jenkins @ 9.6.0](https://github.com/sous-chefs/jenkins/releases/tag/9.6.0) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
