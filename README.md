@@ -5,11 +5,11 @@
 I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 👨‍💻 Repositories I created recently
+- **[damacus/github-cookstyle-runner](https://github.com/damacus/github-cookstyle-runner)** - A kubernetes application to automatically run cookstyle against repos found by a github topic
 - **[damacus/robovac](https://github.com/damacus/robovac)** - Control your Eufy RoboVac from Home Assistant
 - **[damacus/dotfiles](https://github.com/damacus/dotfiles)** - Dotfile managed by chezmoi
 - **[damacus/dotfiles.nix](https://github.com/damacus/dotfiles.nix)**
 - **[damacus/renovate-config](https://github.com/damacus/renovate-config)**
-- **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster Home Edition
 
 #### 🚀 Latest releases I've contributed to
 
