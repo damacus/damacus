@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/apt @ 7.6.0](https://github.com/sous-chefs/apt/releases/tag/7.6.0) (6 days ago)
+- [sous-chefs/apt @ 7.6.0](https://github.com/sous-chefs/apt/releases/tag/7.6.0) (1 week ago)
 - [damacus/robovac @ v1.0.2](https://github.com/damacus/robovac/releases/tag/v1.0.2) (1 week ago)
 - [sous-chefs/nginx @ 12.3.0](https://github.com/sous-chefs/nginx/releases/tag/12.3.0) (2 weeks ago)
 - [allenporter/flux-local @ 7.3.0](https://github.com/allenporter/flux-local/releases/tag/7.3.0) (1 month ago)
