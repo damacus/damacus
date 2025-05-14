@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/etcd @ 9.2.0](https://github.com/sous-chefs/etcd/releases/tag/9.2.0) (today)
 - [damacus/robovac @ v1.2.3](https://github.com/damacus/robovac/releases/tag/v1.2.3) (1 day ago)
 - [allenporter/flux-local @ 7.5.0](https://github.com/allenporter/flux-local/releases/tag/7.5.0) (1 week ago)
 - [sous-chefs/apt @ 7.6.0](https://github.com/sous-chefs/apt/releases/tag/7.6.0) (1 month ago)
 - [sous-chefs/nginx @ 12.3.0](https://github.com/sous-chefs/nginx/releases/tag/12.3.0) (1 month ago)
-- [sous-chefs/filesystem @ 4.2.2](https://github.com/sous-chefs/filesystem/releases/tag/4.2.2) (1 month ago)
 
 #### ⭐ Recent Stars
 
