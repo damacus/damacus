@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/etcd @ 9.2.0](https://github.com/sous-chefs/etcd/releases/tag/9.2.0) (2 days ago)
-- [damacus/robovac @ v1.2.3](https://github.com/damacus/robovac/releases/tag/v1.2.3) (3 days ago)
-- [allenporter/flux-local @ 7.5.0](https://github.com/allenporter/flux-local/releases/tag/7.5.0) (1 week ago)
+- [sous-chefs/etcd @ 9.2.0](https://github.com/sous-chefs/etcd/releases/tag/9.2.0) (3 days ago)
+- [damacus/robovac @ v1.2.3](https://github.com/damacus/robovac/releases/tag/v1.2.3) (4 days ago)
+- [allenporter/flux-local @ 7.5.0](https://github.com/allenporter/flux-local/releases/tag/7.5.0) (2 weeks ago)
 - [sous-chefs/apt @ 7.6.0](https://github.com/sous-chefs/apt/releases/tag/7.6.0) (1 month ago)
 - [sous-chefs/nginx @ 12.3.0](https://github.com/sous-chefs/nginx/releases/tag/12.3.0) (1 month ago)
 
 #### ⭐ Recent Stars
 
 
-- **[rubyconfig/config](https://github.com/rubyconfig/config)** - Easiest way to add multi-environment yaml settings to Rails, Sinatra, Padrino and other Ruby projects. (1 day ago)
+- **[rubyconfig/config](https://github.com/rubyconfig/config)** - Easiest way to add multi-environment yaml settings to Rails, Sinatra, Padrino and other Ruby projects. (2 days ago)
 - **[bo0tzz/kube](https://github.com/bo0tzz/kube)** - Kubernetes manifests for deployment to my home cluster (6 months ago)
 - **[mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)** - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (6 months ago)
 - **[damacus/home-ops](https://github.com/damacus/home-ops)** - Kubernetes Cluster Home Edition (8 months ago)
