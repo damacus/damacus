@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [allenporter/flux-local @ 7.5.2](https://github.com/allenporter/flux-local/releases/tag/7.5.2) (2 days ago)
+- [allenporter/flux-local @ 7.5.3](https://github.com/allenporter/flux-local/releases/tag/7.5.3) (today)
 - [damacus/robovac @ v1.2.4](https://github.com/damacus/robovac/releases/tag/v1.2.4) (6 days ago)
 - [sous-chefs/postgresql @ 12.1.0](https://github.com/sous-chefs/postgresql/releases/tag/12.1.0) (1 week ago)
 - [sous-chefs/apt @ 7.6.0](https://github.com/sous-chefs/apt/releases/tag/7.6.0) (1 month ago)
