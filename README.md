@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [allenporter/flux-local @ 7.5.6](https://github.com/allenporter/flux-local/releases/tag/7.5.6) (today)
-- [test-kitchen/kitchen-ec2 @ v3.20.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.20.0) (2 days ago)
+- [allenporter/flux-local @ 7.5.6](https://github.com/allenporter/flux-local/releases/tag/7.5.6) (1 day ago)
+- [test-kitchen/kitchen-ec2 @ v3.20.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.20.0) (3 days ago)
 - [sous-chefs/nodejs @ 10.2.1](https://github.com/sous-chefs/nodejs/releases/tag/10.2.1) (1 week ago)
 - [damacus/robovac @ v1.2.4](https://github.com/damacus/robovac/releases/tag/v1.2.4) (4 weeks ago)
 - [sous-chefs/postgresql @ 12.1.0](https://github.com/sous-chefs/postgresql/releases/tag/12.1.0) (1 month ago)
@@ -23,11 +23,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (5 days ago)
-- **[maxim/tiny_mcp](https://github.com/maxim/tiny_mcp)** - Make local MCP tools in Ruby and easily serve them (2 weeks ago)
+- **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (6 days ago)
+- **[maxim/tiny_mcp](https://github.com/maxim/tiny_mcp)** - Make local MCP tools in Ruby and easily serve them (3 weeks ago)
 - **[rubyconfig/config](https://github.com/rubyconfig/config)** - Easiest way to add multi-environment yaml settings to Rails, Sinatra, Padrino and other Ruby projects. (1 month ago)
 - **[bo0tzz/kube](https://github.com/bo0tzz/kube)** - Kubernetes manifests for deployment to my home cluster (7 months ago)
-- **[mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)** - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (7 months ago)
+- **[mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)** - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (8 months ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (2 years ago)
