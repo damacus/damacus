@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [allenporter/flux-local @ 7.5.6](https://github.com/allenporter/flux-local/releases/tag/7.5.6) (3 days ago)
-- [test-kitchen/kitchen-ec2 @ v3.20.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.20.0) (5 days ago)
-- [sous-chefs/nodejs @ 10.2.1](https://github.com/sous-chefs/nodejs/releases/tag/10.2.1) (1 week ago)
+- [allenporter/flux-local @ 7.5.6](https://github.com/allenporter/flux-local/releases/tag/7.5.6) (4 days ago)
+- [test-kitchen/kitchen-ec2 @ v3.20.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.20.0) (6 days ago)
+- [sous-chefs/nodejs @ 10.2.1](https://github.com/sous-chefs/nodejs/releases/tag/10.2.1) (2 weeks ago)
 - [damacus/robovac @ v1.2.4](https://github.com/damacus/robovac/releases/tag/v1.2.4) (1 month ago)
 - [sous-chefs/postgresql @ 12.1.0](https://github.com/sous-chefs/postgresql/releases/tag/12.1.0) (1 month ago)
 
