@@ -24,7 +24,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 
 - **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (2 weeks ago)
-- **[maxim/tiny_mcp](https://github.com/maxim/tiny_mcp)** - Make local MCP tools in Ruby and easily serve them (4 weeks ago)
+- **[maxim/tiny_mcp](https://github.com/maxim/tiny_mcp)** - Make local MCP tools in Ruby and easily serve them (1 month ago)
 - **[rubyconfig/config](https://github.com/rubyconfig/config)** - Easiest way to add multi-environment yaml settings to Rails, Sinatra, Padrino and other Ruby projects. (1 month ago)
 - **[bo0tzz/kube](https://github.com/bo0tzz/kube)** - Kubernetes manifests for deployment to my home cluster (8 months ago)
 - **[mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)** - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (8 months ago)
