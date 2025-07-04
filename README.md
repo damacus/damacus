@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/robovac @ v1.3.0](https://github.com/damacus/robovac/releases/tag/v1.3.0) (1 day ago)
+- [test-kitchen/test-kitchen @ v3.7.2](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.7.2) (1 day ago)
+- [damacus/robovac @ v1.3.0](https://github.com/damacus/robovac/releases/tag/v1.3.0) (2 days ago)
 - [allenporter/flux-local @ 7.5.6](https://github.com/allenporter/flux-local/releases/tag/7.5.6) (2 weeks ago)
 - [test-kitchen/kitchen-ec2 @ v3.20.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.20.0) (2 weeks ago)
 - [sous-chefs/nodejs @ 10.2.1](https://github.com/sous-chefs/nodejs/releases/tag/10.2.1) (3 weeks ago)
-- [sous-chefs/postgresql @ 12.1.0](https://github.com/sous-chefs/postgresql/releases/tag/12.1.0) (1 month ago)
 
 #### ⭐ Recent Stars
 
 
-- **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (2 weeks ago)
+- **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (3 weeks ago)
 - **[maxim/tiny_mcp](https://github.com/maxim/tiny_mcp)** - Make local MCP tools in Ruby and easily serve them (1 month ago)
 - **[rubyconfig/config](https://github.com/rubyconfig/config)** - Easiest way to add multi-environment yaml settings to Rails, Sinatra, Padrino and other Ruby projects. (1 month ago)
 - **[bo0tzz/kube](https://github.com/bo0tzz/kube)** - Kubernetes manifests for deployment to my home cluster (8 months ago)
