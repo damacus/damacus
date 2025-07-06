@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/test-kitchen @ v3.7.2](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.7.2) (2 days ago)
-- [damacus/robovac @ v1.3.0](https://github.com/damacus/robovac/releases/tag/v1.3.0) (3 days ago)
+- [damacus/robovac @ v1.3.1](https://github.com/damacus/robovac/releases/tag/v1.3.1) (1 day ago)
+- [test-kitchen/test-kitchen @ v3.7.2](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.7.2) (3 days ago)
 - [allenporter/flux-local @ 7.5.6](https://github.com/allenporter/flux-local/releases/tag/7.5.6) (2 weeks ago)
 - [test-kitchen/kitchen-ec2 @ v3.20.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.20.0) (2 weeks ago)
-- [sous-chefs/nodejs @ 10.2.1](https://github.com/sous-chefs/nodejs/releases/tag/10.2.1) (3 weeks ago)
+- [sous-chefs/nodejs @ 10.2.1](https://github.com/sous-chefs/nodejs/releases/tag/10.2.1) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
