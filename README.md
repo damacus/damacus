@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [test-kitchen/test-kitchen @ v3.8.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.8.0) (today)
 - [mealie-recipes/mealie @ v3.0.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.0.0) (1 day ago)
 - [damacus/robovac @ v1.3.1](https://github.com/damacus/robovac/releases/tag/v1.3.1) (1 week ago)
-- [test-kitchen/test-kitchen @ v3.7.2](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.7.2) (1 week ago)
 - [allenporter/flux-local @ 7.5.6](https://github.com/allenporter/flux-local/releases/tag/7.5.6) (3 weeks ago)
 - [test-kitchen/kitchen-ec2 @ v3.20.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.20.0) (3 weeks ago)
 
