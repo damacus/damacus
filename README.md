@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/java @ 13.0.0](https://github.com/sous-chefs/java/releases/tag/13.0.0) (1 day ago)
+- [sous-chefs/java @ 13.2.0](https://github.com/sous-chefs/java/releases/tag/13.2.0) (today)
 - [mealie-recipes/mealie @ v3.0.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.0.1) (1 day ago)
 - [test-kitchen/test-kitchen @ v3.8.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.8.0) (2 days ago)
 - [damacus/robovac @ v1.3.1](https://github.com/damacus/robovac/releases/tag/v1.3.1) (1 week ago)
