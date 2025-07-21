@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [mealie-recipes/mealie @ v3.0.2](https://github.com/mealie-recipes/mealie/releases/tag/v3.0.2) (today)
 - [sous-chefs/postgresql @ 12.3.1](https://github.com/sous-chefs/postgresql/releases/tag/12.3.1) (4 days ago)
 - [sous-chefs/java @ 14.0.0](https://github.com/sous-chefs/java/releases/tag/14.0.0) (5 days ago)
-- [mealie-recipes/mealie @ v3.0.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.0.1) (1 week ago)
 - [test-kitchen/test-kitchen @ v3.8.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.8.0) (1 week ago)
 - [damacus/robovac @ v1.3.1](https://github.com/damacus/robovac/releases/tag/v1.3.1) (2 weeks ago)
 
