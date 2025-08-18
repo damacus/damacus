@@ -24,7 +24,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 
 - **[danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster)** - Dan&#39;s Homelab Kubernetes Cluster - Operated through Kustomize &amp; ArgoCD (1 week ago)
-- **[crmne/ruby_llm](https://github.com/crmne/ruby_llm)** - Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama &amp; compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming &amp; Rails integration. (1 month ago)
+- **[crmne/ruby_llm](https://github.com/crmne/ruby_llm)** - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama &amp; OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming &amp; Rails integration. (1 month ago)
 - **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (2 months ago)
 - **[maxim/tiny_mcp](https://github.com/maxim/tiny_mcp)** - Make local MCP tools in Ruby and easily serve them (2 months ago)
 - **[rubyconfig/config](https://github.com/rubyconfig/config)** - Easiest way to add multi-environment yaml settings to Rails, Sinatra, Padrino and other Ruby projects. (3 months ago)
