@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [mealie-recipes/mealie @ 3.1.0](https://github.com/mealie-recipes/mealie/releases/tag/3.1.0) (today)
-- [test-kitchen/kitchen-dokken @ v2.21.0](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.0) (3 days ago)
-- [test-kitchen/kitchen-azurerm @ v1.13.3](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.3) (4 days ago)
+- [mealie-recipes/mealie @ v3.1.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.1.1) (1 day ago)
+- [test-kitchen/kitchen-dokken @ v2.21.0](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.0) (4 days ago)
+- [test-kitchen/kitchen-azurerm @ v1.13.3](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.3) (5 days ago)
 - [sous-chefs/postgresql @ 12.3.2](https://github.com/sous-chefs/postgresql/releases/tag/12.3.2) (1 week ago)
 - [test-kitchen/test-kitchen @ v3.8.1](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.8.1) (3 weeks ago)
 
