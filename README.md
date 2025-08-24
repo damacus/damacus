@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [mealie-recipes/mealie @ v3.1.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.1.1) (4 days ago)
+- [mealie-recipes/mealie @ v3.1.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.1.1) (5 days ago)
 - [test-kitchen/kitchen-dokken @ v2.21.0](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.0) (1 week ago)
 - [test-kitchen/kitchen-azurerm @ v1.13.3](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.3) (1 week ago)
 - [sous-chefs/postgresql @ 12.3.2](https://github.com/sous-chefs/postgresql/releases/tag/12.3.2) (2 weeks ago)
@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster)** - Dan&#39;s Homelab Kubernetes Cluster - Operated through Kustomize &amp; ArgoCD (1 week ago)
+- **[danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster)** - Dan&#39;s Homelab Kubernetes Cluster - Operated through Kustomize &amp; ArgoCD (2 weeks ago)
 - **[crmne/ruby_llm](https://github.com/crmne/ruby_llm)** - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama &amp; OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming &amp; Rails integration. (1 month ago)
 - **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (2 months ago)
 - **[maxim/tiny_mcp](https://github.com/maxim/tiny_mcp)** - Make local MCP tools in Ruby and easily serve them (2 months ago)
