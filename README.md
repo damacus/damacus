@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.1](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.1) (today)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.2](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.2) (today)
 - [damacus/robovac @ v1.3.2](https://github.com/damacus/robovac/releases/tag/v1.3.2) (1 week ago)
 - [mealie-recipes/mealie @ v3.1.2](https://github.com/mealie-recipes/mealie/releases/tag/v3.1.2) (1 week ago)
 - [test-kitchen/kitchen-dokken @ v2.21.0](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.0) (2 weeks ago)
