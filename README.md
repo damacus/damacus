@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/haproxy @ 12.4.1](https://github.com/sous-chefs/haproxy/releases/tag/12.4.1) (1 day ago)
-- [sous-chefs/jenkins @ 9.6.1](https://github.com/sous-chefs/jenkins/releases/tag/9.6.1) (1 day ago)
-- [sous-chefs/java @ 14.0.1](https://github.com/sous-chefs/java/releases/tag/14.0.1) (1 day ago)
-- [sous-chefs/logrotate @ 3.0.30](https://github.com/sous-chefs/logrotate/releases/tag/3.0.30) (1 day ago)
-- [sous-chefs/php @ 10.2.5](https://github.com/sous-chefs/php/releases/tag/10.2.5) (1 day ago)
+- [test-kitchen/test-kitchen @ v3.9.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.9.0) (1 day ago)
+- [sous-chefs/haproxy @ 12.4.1](https://github.com/sous-chefs/haproxy/releases/tag/12.4.1) (2 days ago)
+- [sous-chefs/jenkins @ 9.6.1](https://github.com/sous-chefs/jenkins/releases/tag/9.6.1) (2 days ago)
+- [sous-chefs/java @ 14.0.1](https://github.com/sous-chefs/java/releases/tag/14.0.1) (2 days ago)
+- [sous-chefs/logrotate @ 3.0.30](https://github.com/sous-chefs/logrotate/releases/tag/3.0.30) (2 days ago)
 
 #### ⭐ Recent Stars
 
