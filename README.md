@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-ec2 @ v3.21.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.21.0) (today)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.3](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.3) (1 day ago)
-- [test-kitchen/test-kitchen @ v3.9.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.9.0) (4 days ago)
-- [sous-chefs/haproxy @ 12.4.1](https://github.com/sous-chefs/haproxy/releases/tag/12.4.1) (5 days ago)
-- [sous-chefs/jenkins @ 9.6.1](https://github.com/sous-chefs/jenkins/releases/tag/9.6.1) (5 days ago)
+- [test-kitchen/kitchen-ec2 @ v3.21.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.21.0) (1 day ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.3](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.3) (2 days ago)
+- [test-kitchen/test-kitchen @ v3.9.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.9.0) (5 days ago)
+- [sous-chefs/haproxy @ 12.4.1](https://github.com/sous-chefs/haproxy/releases/tag/12.4.1) (6 days ago)
+- [sous-chefs/jenkins @ 9.6.1](https://github.com/sous-chefs/jenkins/releases/tag/9.6.1) (6 days ago)
 
 #### ⭐ Recent Stars
 
