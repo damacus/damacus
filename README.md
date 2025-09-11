@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/haproxy @ v12.4.2](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.2) (today)
-- [sous-chefs/.github @ 4.0.0](https://github.com/sous-chefs/.github/releases/tag/4.0.0) (today)
-- [test-kitchen/kitchen-ec2 @ v3.21.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.21.0) (1 day ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.3](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.3) (2 days ago)
-- [test-kitchen/test-kitchen @ v3.9.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.9.0) (5 days ago)
+- [sous-chefs/haproxy @ v12.4.2](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.2) (1 day ago)
+- [sous-chefs/.github @ 4.0.0](https://github.com/sous-chefs/.github/releases/tag/4.0.0) (1 day ago)
+- [test-kitchen/kitchen-ec2 @ v3.21.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.21.0) (2 days ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.3](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.3) (3 days ago)
+- [test-kitchen/test-kitchen @ v3.9.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.9.0) (6 days ago)
 
 #### ⭐ Recent Stars
 
@@ -26,7 +26,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[mcfio/home-cluster](https://github.com/mcfio/home-cluster)** - Kubernetes cluster managed by Flux and using git as a &#34;single source of truth.&#34; (2 weeks ago)
 - **[danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster)** - Dan&#39;s Homelab Kubernetes Cluster - Operated through Kustomize &amp; ArgoCD (1 month ago)
 - **[crmne/ruby_llm](https://github.com/crmne/ruby_llm)** - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack &amp; OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming &amp; Rails integration. (2 months ago)
-- **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (2 months ago)
+- **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (3 months ago)
 - **[maxim/tiny_mcp](https://github.com/maxim/tiny_mcp)** - Make local MCP tools in Ruby and easily serve them (3 months ago)
 
 #### 📄 Latest blog posts
