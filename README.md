@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/haproxy @ v12.4.2](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.2) (1 day ago)
+- [sous-chefs/haproxy @ v12.4.7](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.7) (today)
 - [sous-chefs/.github @ 4.0.0](https://github.com/sous-chefs/.github/releases/tag/4.0.0) (1 day ago)
 - [test-kitchen/kitchen-ec2 @ v3.21.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.21.0) (2 days ago)
 - [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.3](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.3) (3 days ago)
