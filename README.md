@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [mealie-recipes/mealie @ v3.2.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.2.0) (2 days ago)
+- [mealie-recipes/mealie @ v3.2.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.2.1) (today)
 - [sous-chefs/haproxy @ v12.4.9](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.9) (3 days ago)
 - [sous-chefs/.github @ 4.0.0](https://github.com/sous-chefs/.github/releases/tag/4.0.0) (5 days ago)
 - [test-kitchen/kitchen-ec2 @ v3.21.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.21.0) (6 days ago)
