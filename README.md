@@ -14,10 +14,10 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/postgresql @ 12.3.4](https://github.com/sous-chefs/postgresql/releases/tag/12.3.4) (2 days ago)
-- [sous-chefs/.github @ v4.0.1](https://github.com/sous-chefs/.github/releases/tag/v4.0.1) (6 days ago)
-- [sous-chefs/haproxy @ v12.4.11](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.11) (6 days ago)
-- [mealie-recipes/mealie @ v3.2.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.2.1) (6 days ago)
+- [sous-chefs/postgresql @ 12.3.4](https://github.com/sous-chefs/postgresql/releases/tag/12.3.4) (3 days ago)
+- [sous-chefs/.github @ v4.0.1](https://github.com/sous-chefs/.github/releases/tag/v4.0.1) (1 week ago)
+- [sous-chefs/haproxy @ v12.4.11](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.11) (1 week ago)
+- [mealie-recipes/mealie @ v3.2.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.2.1) (1 week ago)
 - [test-kitchen/kitchen-ec2 @ v3.21.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.21.0) (1 week ago)
 
 #### ⭐ Recent Stars
