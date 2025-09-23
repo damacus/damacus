@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-vagrant @ v2.1.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.1.2) (today)
-- [sous-chefs/postgresql @ 12.3.4](https://github.com/sous-chefs/postgresql/releases/tag/12.3.4) (3 days ago)
+- [test-kitchen/kitchen-vagrant @ v2.1.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.1.2) (1 day ago)
+- [sous-chefs/postgresql @ 12.3.4](https://github.com/sous-chefs/postgresql/releases/tag/12.3.4) (4 days ago)
 - [sous-chefs/.github @ v4.0.1](https://github.com/sous-chefs/.github/releases/tag/v4.0.1) (1 week ago)
 - [sous-chefs/haproxy @ v12.4.11](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.11) (1 week ago)
 - [mealie-recipes/mealie @ v3.2.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.2.1) (1 week ago)
@@ -23,7 +23,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[mcfio/home-cluster](https://github.com/mcfio/home-cluster)** - Kubernetes cluster managed by Flux and using git as a &#34;single source of truth.&#34; (3 weeks ago)
+- **[mcfio/home-cluster](https://github.com/mcfio/home-cluster)** - Kubernetes cluster managed by Flux and using git as a &#34;single source of truth.&#34; (4 weeks ago)
 - **[danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster)** - Dan&#39;s Homelab Kubernetes Cluster - Operated through Kustomize &amp; ArgoCD (1 month ago)
 - **[crmne/ruby_llm](https://github.com/crmne/ruby_llm)** - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack &amp; OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming &amp; Rails integration. (2 months ago)
 - **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (3 months ago)
