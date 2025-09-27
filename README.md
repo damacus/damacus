@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.4](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.4) (2 days ago)
-- [test-kitchen/kitchen-vagrant @ v2.1.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.1.2) (4 days ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.4](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.4) (3 days ago)
+- [test-kitchen/kitchen-vagrant @ v2.1.2](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.1.2) (5 days ago)
 - [sous-chefs/postgresql @ 12.3.4](https://github.com/sous-chefs/postgresql/releases/tag/12.3.4) (1 week ago)
 - [sous-chefs/.github @ v4.0.1](https://github.com/sous-chefs/.github/releases/tag/v4.0.1) (1 week ago)
 - [sous-chefs/haproxy @ v12.4.11](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.11) (1 week ago)
