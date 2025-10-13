@@ -14,20 +14,20 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/.github @ 5.0.2](https://github.com/sous-chefs/.github/releases/tag/5.0.2) (today)
+- [sous-chefs/apache2 @ v9.3.8](https://github.com/sous-chefs/apache2/releases/tag/v9.3.8) (today)
 - [mealie-recipes/mealie @ v3.3.2](https://github.com/mealie-recipes/mealie/releases/tag/v3.3.2) (3 days ago)
 - [damacus/github-cookstyle-runner @ github-cookstyle-runner/v0.1.1](https://github.com/damacus/github-cookstyle-runner/releases/tag/github-cookstyle-runner/v0.1.1) (4 days ago)
 - [sous-chefs/docker @ 11.10.1](https://github.com/sous-chefs/docker/releases/tag/11.10.1) (1 week ago)
-- [test-kitchen/kitchen-vagrant @ v2.1.3](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.1.3) (2 weeks ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.4](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.4) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 
+- **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (today)
 - **[mcfio/home-cluster](https://github.com/mcfio/home-cluster)** - Kubernetes cluster managed by Flux and using git as a &#34;single source of truth.&#34; (1 month ago)
 - **[danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster)** - Dan&#39;s Homelab Kubernetes Cluster - Operated through Kustomize &amp; ArgoCD (2 months ago)
 - **[crmne/ruby_llm](https://github.com/crmne/ruby_llm)** - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack &amp; OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming &amp; Rails integration. (3 months ago)
 - **[pawurb/smart_init](https://github.com/pawurb/smart_init)** - A simple gem for eliminating Ruby initializers boilerplate code, and providing unified service objects API (4 months ago)
-- **[maxim/tiny_mcp](https://github.com/maxim/tiny_mcp)** - Make local MCP tools in Ruby and easily serve them (4 months ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (2 years ago)
