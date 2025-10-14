@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/aws @ v9.2.3](https://github.com/sous-chefs/aws/releases/tag/v9.2.3) (today)
+- [sous-chefs/aptly @ v3.2.4](https://github.com/sous-chefs/aptly/releases/tag/v3.2.4) (today)
+- [sous-chefs/apache2 @ v9.3.9](https://github.com/sous-chefs/apache2/releases/tag/v9.3.9) (today)
+- [sous-chefs/.github @ 5.0.3](https://github.com/sous-chefs/.github/releases/tag/5.0.3) (today)
 - [damacus/robovac @ v1.3.4](https://github.com/damacus/robovac/releases/tag/v1.3.4) (1 day ago)
-- [damacus/github-cookstyle-runner @ github-cookstyle-runner/v0.1.2](https://github.com/damacus/github-cookstyle-runner/releases/tag/github-cookstyle-runner/v0.1.2) (1 day ago)
-- [sous-chefs/.github @ 5.0.2](https://github.com/sous-chefs/.github/releases/tag/5.0.2) (1 day ago)
-- [sous-chefs/apache2 @ v9.3.8](https://github.com/sous-chefs/apache2/releases/tag/v9.3.8) (1 day ago)
-- [mealie-recipes/mealie @ v3.3.2](https://github.com/mealie-recipes/mealie/releases/tag/v3.3.2) (4 days ago)
 
 #### ⭐ Recent Stars
 
