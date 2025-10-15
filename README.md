@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/atom @ v1.1.0](https://github.com/sous-chefs/atom/releases/tag/v1.1.0) (today)
+- [sous-chefs/autofs @ v3.1.0](https://github.com/sous-chefs/autofs/releases/tag/v3.1.0) (today)
+- [sous-chefs/apt @ v7.7.0](https://github.com/sous-chefs/apt/releases/tag/v7.7.0) (today)
 - [sous-chefs/aws @ v9.2.3](https://github.com/sous-chefs/aws/releases/tag/v9.2.3) (1 day ago)
 - [sous-chefs/aptly @ v3.2.4](https://github.com/sous-chefs/aptly/releases/tag/v3.2.4) (1 day ago)
-- [sous-chefs/apache2 @ v9.3.9](https://github.com/sous-chefs/apache2/releases/tag/v9.3.9) (1 day ago)
-- [sous-chefs/.github @ 5.0.3](https://github.com/sous-chefs/.github/releases/tag/5.0.3) (1 day ago)
-- [damacus/robovac @ v1.3.4](https://github.com/damacus/robovac/releases/tag/v1.3.4) (2 days ago)
 
 #### ⭐ Recent Stars
 
