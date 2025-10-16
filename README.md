@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/rundeck @ v8.1.11](https://github.com/sous-chefs/rundeck/releases/tag/v8.1.11) (today)
-- [sous-chefs/etcd @ v11.0.2](https://github.com/sous-chefs/etcd/releases/tag/v11.0.2) (1 day ago)
-- [sous-chefs/emacs @ v0.11.12](https://github.com/sous-chefs/emacs/releases/tag/v0.11.12) (1 day ago)
-- [sous-chefs/elasticsearch @ v5.1.19](https://github.com/sous-chefs/elasticsearch/releases/tag/v5.1.19) (1 day ago)
-- [sous-chefs/elixir @ v3.0.15](https://github.com/sous-chefs/elixir/releases/tag/v3.0.15) (1 day ago)
+- [sous-chefs/haproxy @ v12.4.12](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.12) (today)
+- [sous-chefs/.github @ 5.0.4](https://github.com/sous-chefs/.github/releases/tag/5.0.4) (today)
+- [sous-chefs/fail2ban @ v7.1.2](https://github.com/sous-chefs/fail2ban/releases/tag/v7.1.2) (today)
+- [sous-chefs/powershell @ v6.4.21](https://github.com/sous-chefs/powershell/releases/tag/v6.4.21) (today)
+- [sous-chefs/ufw @ v4.0.10](https://github.com/sous-chefs/ufw/releases/tag/v4.0.10) (today)
 
 #### ⭐ Recent Stars
 
