@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/robovac @ v1.5.0](https://github.com/damacus/robovac/releases/tag/v1.5.0) (4 days ago)
-- [sous-chefs/gpg @ v2.1.1](https://github.com/sous-chefs/gpg/releases/tag/v2.1.1) (6 days ago)
-- [sous-chefs/.github @ 5.0.5](https://github.com/sous-chefs/.github/releases/tag/5.0.5) (6 days ago)
+- [damacus/robovac @ v1.5.0](https://github.com/damacus/robovac/releases/tag/v1.5.0) (5 days ago)
+- [sous-chefs/gpg @ v2.1.1](https://github.com/sous-chefs/gpg/releases/tag/v2.1.1) (1 week ago)
+- [sous-chefs/.github @ 5.0.5](https://github.com/sous-chefs/.github/releases/tag/5.0.5) (1 week ago)
 - [test-kitchen/test-kitchen @ v3.9.1](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.9.1) (1 week ago)
 - [sous-chefs/haproxy @ v12.4.12](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.12) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (6 days ago)
-- **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (1 week ago)
+- **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (1 week ago)
+- **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (2 weeks ago)
 - **[mcfio/home-cluster](https://github.com/mcfio/home-cluster)** - Kubernetes cluster managed by Flux and using git as a &#34;single source of truth.&#34; (2 months ago)
 - **[danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster)** - Dan&#39;s Homelab Kubernetes Cluster - Operated through Kustomize &amp; ArgoCD (2 months ago)
 - **[crmne/ruby_llm](https://github.com/crmne/ruby_llm)** - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack &amp; OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming &amp; Rails integration. (3 months ago)
