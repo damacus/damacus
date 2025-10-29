@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/yum-elrepo @ v2.4.0](https://github.com/sous-chefs/yum-elrepo/releases/tag/v2.4.0) (today)
 - [damacus/robovac @ v1.5.0](https://github.com/damacus/robovac/releases/tag/v1.5.0) (1 week ago)
 - [sous-chefs/gpg @ v2.1.1](https://github.com/sous-chefs/gpg/releases/tag/v2.1.1) (1 week ago)
 - [sous-chefs/.github @ 5.0.5](https://github.com/sous-chefs/.github/releases/tag/5.0.5) (1 week ago)
 - [test-kitchen/test-kitchen @ v3.9.1](https://github.com/test-kitchen/test-kitchen/releases/tag/v3.9.1) (1 week ago)
-- [sous-chefs/haproxy @ v12.4.12](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.12) (1 week ago)
 
 #### ⭐ Recent Stars
 
