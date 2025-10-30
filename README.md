@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/yum-elrepo @ v2.4.0](https://github.com/sous-chefs/yum-elrepo/releases/tag/v2.4.0) (today)
+- [sous-chefs/yum-elrepo @ v2.4.0](https://github.com/sous-chefs/yum-elrepo/releases/tag/v2.4.0) (1 day ago)
 - [damacus/robovac @ v1.5.0](https://github.com/damacus/robovac/releases/tag/v1.5.0) (1 week ago)
 - [sous-chefs/gpg @ v2.1.1](https://github.com/sous-chefs/gpg/releases/tag/v2.1.1) (1 week ago)
 - [sous-chefs/.github @ 5.0.5](https://github.com/sous-chefs/.github/releases/tag/5.0.5) (1 week ago)
