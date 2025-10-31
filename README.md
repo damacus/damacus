@@ -6,7 +6,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 👨‍💻 Repositories I created recently
 - **[damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer)**
-- **[damacus/github-cookstyle-runner](https://github.com/damacus/github-cookstyle-runner)** - A kubernetes application to automatically run cookstyle against repos found by a github topic
+- **[damacus/github-cookstyle-runner](https://github.com/damacus/github-cookstyle-runner)** - Run cookstyle against an organisation and open pull requests with the fixes.
 - **[damacus/robovac](https://github.com/damacus/robovac)** - Control your Eufy RoboVac from Home Assistant
 - **[damacus/dotfiles](https://github.com/damacus/dotfiles)** - Dotfile managed by chezmoi
 - **[damacus/dotfiles.nix](https://github.com/damacus/dotfiles.nix)**
