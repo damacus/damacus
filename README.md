@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/fileutils @ v2.1.18](https://github.com/sous-chefs/fileutils/releases/tag/v2.1.18) (1 day ago)
-- [sous-chefs/cinc-omnibus @ v1.2.6](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v1.2.6) (1 day ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.5](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.5) (1 day ago)
-- [sous-chefs/yum-elrepo @ v2.4.0](https://github.com/sous-chefs/yum-elrepo/releases/tag/v2.4.0) (2 days ago)
-- [damacus/robovac @ v1.5.0](https://github.com/damacus/robovac/releases/tag/v1.5.0) (1 week ago)
+- [mealie-recipes/mealie @ v3.4.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.4.0) (1 day ago)
+- [sous-chefs/fileutils @ v2.1.18](https://github.com/sous-chefs/fileutils/releases/tag/v2.1.18) (2 days ago)
+- [sous-chefs/cinc-omnibus @ v1.2.6](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v1.2.6) (2 days ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.5](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.5) (2 days ago)
+- [sous-chefs/yum-elrepo @ v2.4.0](https://github.com/sous-chefs/yum-elrepo/releases/tag/v2.4.0) (3 days ago)
 
 #### ⭐ Recent Stars
 
