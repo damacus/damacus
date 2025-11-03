@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [mealie-recipes/mealie @ v3.4.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.4.0) (2 days ago)
-- [sous-chefs/fileutils @ v2.1.18](https://github.com/sous-chefs/fileutils/releases/tag/v2.1.18) (3 days ago)
-- [sous-chefs/cinc-omnibus @ v1.2.6](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v1.2.6) (3 days ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.5](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.5) (3 days ago)
-- [sous-chefs/yum-elrepo @ v2.4.0](https://github.com/sous-chefs/yum-elrepo/releases/tag/v2.4.0) (4 days ago)
+- [mealie-recipes/mealie @ v3.4.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.4.0) (3 days ago)
+- [sous-chefs/fileutils @ v2.1.18](https://github.com/sous-chefs/fileutils/releases/tag/v2.1.18) (4 days ago)
+- [sous-chefs/cinc-omnibus @ v1.2.6](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v1.2.6) (4 days ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.5](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.5) (4 days ago)
+- [sous-chefs/yum-elrepo @ v2.4.0](https://github.com/sous-chefs/yum-elrepo/releases/tag/v2.4.0) (5 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (1 week ago)
-- **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (2 weeks ago)
+- **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (2 weeks ago)
+- **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (3 weeks ago)
 - **[mcfio/home-cluster](https://github.com/mcfio/home-cluster)** - Kubernetes cluster managed by Flux and using git as a &#34;single source of truth.&#34; (2 months ago)
 - **[danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster)** - Dan&#39;s Homelab Kubernetes Cluster - Operated through Kustomize &amp; ArgoCD (2 months ago)
 - **[crmne/ruby_llm](https://github.com/crmne/ruby_llm)** - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack &amp; OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming &amp; Rails integration. (3 months ago)
