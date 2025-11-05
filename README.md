@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/terraform-module-github-repository @ v0.1.0](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.1.0) (1 day ago)
-- [mealie-recipes/mealie @ v3.4.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.4.0) (4 days ago)
-- [sous-chefs/fileutils @ v2.1.18](https://github.com/sous-chefs/fileutils/releases/tag/v2.1.18) (5 days ago)
-- [sous-chefs/cinc-omnibus @ v1.2.6](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v1.2.6) (5 days ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.5](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.5) (5 days ago)
+- [damacus/terraform-module-github-repository @ v0.1.0](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.1.0) (2 days ago)
+- [mealie-recipes/mealie @ v3.4.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.4.0) (5 days ago)
+- [sous-chefs/fileutils @ v2.1.18](https://github.com/sous-chefs/fileutils/releases/tag/v2.1.18) (6 days ago)
+- [sous-chefs/cinc-omnibus @ v1.2.6](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v1.2.6) (6 days ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.5](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.5) (6 days ago)
 
 #### ⭐ Recent Stars
 
