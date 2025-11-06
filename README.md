@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-dokken @ v2.21.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.1) (today)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.6](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.6) (today)
-- [damacus/terraform-module-github-repository @ v0.1.0](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.1.0) (2 days ago)
-- [mealie-recipes/mealie @ v3.4.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.4.0) (5 days ago)
-- [sous-chefs/fileutils @ v2.1.18](https://github.com/sous-chefs/fileutils/releases/tag/v2.1.18) (6 days ago)
+- [test-kitchen/kitchen-dokken @ v2.21.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.1) (1 day ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.6](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.6) (1 day ago)
+- [damacus/terraform-module-github-repository @ v0.1.0](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.1.0) (3 days ago)
+- [mealie-recipes/mealie @ v3.4.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.4.0) (6 days ago)
+- [sous-chefs/fileutils @ v2.1.18](https://github.com/sous-chefs/fileutils/releases/tag/v2.1.18) (1 week ago)
 
 #### ⭐ Recent Stars
 
