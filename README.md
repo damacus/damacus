@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [test-kitchen/kitchen-dokken @ v2.21.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.1) (4 days ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.6](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.6) (4 days ago)
-- [damacus/terraform-module-github-repository @ v0.1.0](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.1.0) (6 days ago)
-- [mealie-recipes/mealie @ v3.4.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.4.0) (1 week ago)
-- [sous-chefs/fileutils @ v2.1.18](https://github.com/sous-chefs/fileutils/releases/tag/v2.1.18) (1 week ago)
+- [test-kitchen/.github @ v0.2.4](https://github.com/test-kitchen/.github/releases/tag/v0.2.4) (1 day ago)
+- [test-kitchen/kitchen-vagrant @ v2.2.0](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.2.0) (1 day ago)
+- [test-kitchen/kitchen-dokken @ v2.21.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.1) (5 days ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.6](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.6) (5 days ago)
+- [damacus/terraform-module-github-repository @ v0.1.0](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.1.0) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (2 weeks ago)
-- **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (3 weeks ago)
+- **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (3 weeks ago)
+- **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (4 weeks ago)
 - **[mcfio/home-cluster](https://github.com/mcfio/home-cluster)** - Kubernetes cluster managed by Flux and using git as a &#34;single source of truth.&#34; (2 months ago)
 - **[danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster)** - Dan&#39;s Homelab Kubernetes Cluster - Operated through Kustomize &amp; ArgoCD (3 months ago)
 - **[crmne/ruby_llm](https://github.com/crmne/ruby_llm)** - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack &amp; OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming &amp; Rails integration. (4 months ago)
