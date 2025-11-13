@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/.github @ 5.0.6](https://github.com/sous-chefs/.github/releases/tag/5.0.6) (today)
+- [sous-chefs/openvpn @ v7.0.27](https://github.com/sous-chefs/openvpn/releases/tag/v7.0.27) (today)
 - [test-kitchen/kitchen-dokken @ v2.21.2](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.2) (2 days ago)
 - [test-kitchen/.github @ v0.2.4](https://github.com/test-kitchen/.github/releases/tag/v0.2.4) (4 days ago)
 - [test-kitchen/kitchen-vagrant @ v2.2.0](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.2.0) (4 days ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.6](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.6) (1 week ago)
-- [damacus/terraform-module-github-repository @ v0.1.0](https://github.com/damacus/terraform-module-github-repository/releases/tag/v0.1.0) (1 week ago)
 
 #### ⭐ Recent Stars
 
