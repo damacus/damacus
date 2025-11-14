@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/.github @ 5.0.6](https://github.com/sous-chefs/.github/releases/tag/5.0.6) (today)
-- [sous-chefs/openvpn @ v7.0.27](https://github.com/sous-chefs/openvpn/releases/tag/v7.0.27) (today)
-- [test-kitchen/kitchen-dokken @ v2.21.2](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.2) (2 days ago)
-- [test-kitchen/.github @ v0.2.4](https://github.com/test-kitchen/.github/releases/tag/v0.2.4) (4 days ago)
-- [test-kitchen/kitchen-vagrant @ v2.2.0](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.2.0) (4 days ago)
+- [sous-chefs/.github @ 5.0.6](https://github.com/sous-chefs/.github/releases/tag/5.0.6) (1 day ago)
+- [sous-chefs/openvpn @ v7.0.27](https://github.com/sous-chefs/openvpn/releases/tag/v7.0.27) (1 day ago)
+- [test-kitchen/kitchen-dokken @ v2.21.2](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.2) (3 days ago)
+- [test-kitchen/.github @ v0.2.4](https://github.com/test-kitchen/.github/releases/tag/v0.2.4) (5 days ago)
+- [test-kitchen/kitchen-vagrant @ v2.2.0](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.2.0) (5 days ago)
 
 #### ⭐ Recent Stars
 
