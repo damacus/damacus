@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [mealie-recipes/mealie @ v3.5.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.5.0) (4 days ago)
-- [sous-chefs/.github @ 5.0.6](https://github.com/sous-chefs/.github/releases/tag/5.0.6) (5 days ago)
-- [sous-chefs/openvpn @ v7.0.27](https://github.com/sous-chefs/openvpn/releases/tag/v7.0.27) (5 days ago)
+- [mealie-recipes/mealie @ v3.5.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.5.0) (5 days ago)
+- [sous-chefs/.github @ 5.0.6](https://github.com/sous-chefs/.github/releases/tag/5.0.6) (6 days ago)
+- [sous-chefs/openvpn @ v7.0.27](https://github.com/sous-chefs/openvpn/releases/tag/v7.0.27) (6 days ago)
 - [test-kitchen/kitchen-dokken @ v2.21.2](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.2) (1 week ago)
 - [test-kitchen/.github @ v0.2.4](https://github.com/test-kitchen/.github/releases/tag/v0.2.4) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
-- **[shantur/CodeNomad](https://github.com/shantur/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (3 days ago)
-- **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (4 weeks ago)
+- **[shantur/CodeNomad](https://github.com/shantur/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (4 days ago)
+- **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (1 month ago)
 - **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (1 month ago)
 - **[mcfio/home-cluster](https://github.com/mcfio/home-cluster)** - Kubernetes cluster managed by Flux and using git as a &#34;single source of truth.&#34; (2 months ago)
 - **[danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster)** - Dan&#39;s Homelab Kubernetes Cluster - Operated through Kustomize &amp; ArgoCD (3 months ago)
