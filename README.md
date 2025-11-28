@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/etcd @ v11.1.0](https://github.com/sous-chefs/etcd/releases/tag/v11.1.0) (1 day ago)
-- [sous-chefs/rsyslog @ v11.1.0](https://github.com/sous-chefs/rsyslog/releases/tag/v11.1.0) (2 days ago)
-- [damacus/ironbuckets @ v1.0.0](https://github.com/damacus/ironbuckets/releases/tag/v1.0.0) (2 days ago)
-- [sous-chefs/.github @ 5.0.8](https://github.com/sous-chefs/.github/releases/tag/5.0.8) (2 days ago)
-- [sous-chefs/chef-ruby-lvm-attrib @ v0.5.0](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.5.0) (3 days ago)
+- [sous-chefs/etcd @ v11.1.0](https://github.com/sous-chefs/etcd/releases/tag/v11.1.0) (2 days ago)
+- [sous-chefs/rsyslog @ v11.1.0](https://github.com/sous-chefs/rsyslog/releases/tag/v11.1.0) (3 days ago)
+- [damacus/ironbuckets @ v1.0.0](https://github.com/damacus/ironbuckets/releases/tag/v1.0.0) (3 days ago)
+- [sous-chefs/.github @ 5.0.8](https://github.com/sous-chefs/.github/releases/tag/5.0.8) (3 days ago)
+- [sous-chefs/chef-ruby-lvm-attrib @ v0.5.0](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.5.0) (4 days ago)
 
 #### ⭐ Recent Stars
 
