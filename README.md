@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [mealie-recipes/mealie @ v3.6.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.6.0) (today)
-- [sous-chefs/etcd @ v11.1.0](https://github.com/sous-chefs/etcd/releases/tag/v11.1.0) (6 days ago)
+- [mealie-recipes/mealie @ v3.6.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.6.1) (1 day ago)
+- [sous-chefs/etcd @ v11.1.0](https://github.com/sous-chefs/etcd/releases/tag/v11.1.0) (1 week ago)
 - [sous-chefs/rsyslog @ v11.1.0](https://github.com/sous-chefs/rsyslog/releases/tag/v11.1.0) (1 week ago)
 - [damacus/ironbuckets @ v1.0.0](https://github.com/damacus/ironbuckets/releases/tag/v1.0.0) (1 week ago)
 - [sous-chefs/.github @ 5.0.8](https://github.com/sous-chefs/.github/releases/tag/5.0.8) (1 week ago)
