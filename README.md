@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/lvm @ v6.2.5](https://github.com/sous-chefs/lvm/releases/tag/v6.2.5) (2 days ago)
-- [damacus/github-cookstyle-runner @ github-cookstyle-runner/v0.1.3](https://github.com/damacus/github-cookstyle-runner/releases/tag/github-cookstyle-runner/v0.1.3) (3 days ago)
-- [sous-chefs/etcd @ v11.1.1](https://github.com/sous-chefs/etcd/releases/tag/v11.1.1) (3 days ago)
-- [mealie-recipes/mealie @ v3.6.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.6.1) (4 days ago)
-- [sous-chefs/rsyslog @ v11.1.0](https://github.com/sous-chefs/rsyslog/releases/tag/v11.1.0) (1 week ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.8](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.8) (1 day ago)
+- [sous-chefs/lvm @ v6.2.5](https://github.com/sous-chefs/lvm/releases/tag/v6.2.5) (3 days ago)
+- [damacus/github-cookstyle-runner @ github-cookstyle-runner/v0.1.3](https://github.com/damacus/github-cookstyle-runner/releases/tag/github-cookstyle-runner/v0.1.3) (4 days ago)
+- [sous-chefs/etcd @ v11.1.1](https://github.com/sous-chefs/etcd/releases/tag/v11.1.1) (4 days ago)
+- [mealie-recipes/mealie @ v3.6.1](https://github.com/mealie-recipes/mealie/releases/tag/v3.6.1) (5 days ago)
 
 #### ⭐ Recent Stars
 
