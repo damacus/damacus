@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.8](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.8) (5 days ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.8](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.8) (6 days ago)
 - [sous-chefs/lvm @ v6.2.5](https://github.com/sous-chefs/lvm/releases/tag/v6.2.5) (1 week ago)
 - [damacus/github-cookstyle-runner @ github-cookstyle-runner/v0.1.3](https://github.com/damacus/github-cookstyle-runner/releases/tag/github-cookstyle-runner/v0.1.3) (1 week ago)
 - [sous-chefs/etcd @ v11.1.1](https://github.com/sous-chefs/etcd/releases/tag/v11.1.1) (1 week ago)
@@ -23,10 +23,10 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (1 day ago)
+- **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (2 days ago)
 - **[NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (3 weeks ago)
 - **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (1 month ago)
-- **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (1 month ago)
+- **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (2 months ago)
 - **[mcfio/home-cluster](https://github.com/mcfio/home-cluster)** - Kubernetes cluster managed by Flux and using git as a &#34;single source of truth.&#34; (3 months ago)
 
 #### 📄 Latest blog posts
