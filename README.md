@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/postgresql @ v13.0.2](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.2) (today)
+- [test-kitchen/kitchen-dokken @ v2.22.0](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.22.0) (today)
 - [damacus/clone-org-repos @ v0.0.3](https://github.com/damacus/clone-org-repos/releases/tag/v0.0.3) (1 day ago)
-- [sous-chefs/postgresql @ v13.0.1](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.1) (1 day ago)
-- [test-kitchen/kitchen-dokken @ v2.21.4](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.21.4) (1 day ago)
 - [damacus/ironbuckets @ v1.1.0](https://github.com/damacus/ironbuckets/releases/tag/v1.1.0) (1 day ago)
 - [mealie-recipes/mealie @ v3.7.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.7.0) (3 days ago)
 
