@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/postgresql @ v13.0.2](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.2) (today)
-- [test-kitchen/kitchen-dokken @ v2.22.0](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.22.0) (today)
-- [damacus/clone-org-repos @ v0.0.3](https://github.com/damacus/clone-org-repos/releases/tag/v0.0.3) (1 day ago)
-- [damacus/ironbuckets @ v1.1.0](https://github.com/damacus/ironbuckets/releases/tag/v1.1.0) (1 day ago)
-- [mealie-recipes/mealie @ v3.7.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.7.0) (3 days ago)
+- [sous-chefs/etcd @ v11.2.0](https://github.com/sous-chefs/etcd/releases/tag/v11.2.0) (1 day ago)
+- [sous-chefs/postgresql @ v13.0.2](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.2) (1 day ago)
+- [test-kitchen/kitchen-dokken @ v2.22.0](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.22.0) (1 day ago)
+- [damacus/clone-org-repos @ v0.0.3](https://github.com/damacus/clone-org-repos/releases/tag/v0.0.3) (2 days ago)
+- [damacus/ironbuckets @ v1.1.0](https://github.com/damacus/ironbuckets/releases/tag/v1.1.0) (2 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (6 days ago)
+- **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (1 week ago)
 - **[NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (1 month ago)
 - **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (1 month ago)
 - **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (2 months ago)
