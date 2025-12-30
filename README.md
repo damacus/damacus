@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [mealie-recipes/mealie @ v3.9.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.9.0) (1 day ago)
 - [damacus/github-cookstyle-runner @ github-cookstyle-runner/v0.1.4](https://github.com/damacus/github-cookstyle-runner/releases/tag/github-cookstyle-runner/v0.1.4) (1 week ago)
-- [mealie-recipes/mealie @ v3.8.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.8.0) (1 week ago)
 - [sous-chefs/yum-mysql-community @ v5.5.3](https://github.com/sous-chefs/yum-mysql-community/releases/tag/v5.5.3) (1 week ago)
-- [sous-chefs/etcd @ v11.2.0](https://github.com/sous-chefs/etcd/releases/tag/v11.2.0) (1 week ago)
-- [sous-chefs/postgresql @ v13.0.2](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.2) (1 week ago)
+- [sous-chefs/etcd @ v11.2.0](https://github.com/sous-chefs/etcd/releases/tag/v11.2.0) (2 weeks ago)
+- [sous-chefs/postgresql @ v13.0.2](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
