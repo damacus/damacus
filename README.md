@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.9](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.9) (1 day ago)
-- [sous-chefs/cinc-omnibus @ v1.3.0](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v1.3.0) (1 day ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.9](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.9) (2 days ago)
+- [sous-chefs/cinc-omnibus @ v1.3.0](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v1.3.0) (2 days ago)
 - [damacus/github-cookstyle-runner @ github-cookstyle-runner/v0.1.4](https://github.com/damacus/github-cookstyle-runner/releases/tag/github-cookstyle-runner/v0.1.4) (2 weeks ago)
 - [sous-chefs/yum-mysql-community @ v5.5.3](https://github.com/sous-chefs/yum-mysql-community/releases/tag/v5.5.3) (2 weeks ago)
-- [sous-chefs/etcd @ v11.2.0](https://github.com/sous-chefs/etcd/releases/tag/v11.2.0) (2 weeks ago)
+- [sous-chefs/etcd @ v11.2.0](https://github.com/sous-chefs/etcd/releases/tag/v11.2.0) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
