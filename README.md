@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/robovac @ v2.0.0-beta.1](https://github.com/damacus/robovac/releases/tag/v2.0.0-beta.1) (today)
+- [damacus/robovac @ v2.0.1-beta.1](https://github.com/damacus/robovac/releases/tag/v2.0.1-beta.1) (today)
 - [damacus/unifi-release-announcer @ unifi-release-announcer-v0.1.9](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.1.9) (2 days ago)
 - [sous-chefs/cinc-omnibus @ v1.3.0](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v1.3.0) (2 days ago)
 - [damacus/github-cookstyle-runner @ github-cookstyle-runner/v0.1.4](https://github.com/damacus/github-cookstyle-runner/releases/tag/github-cookstyle-runner/v0.1.4) (2 weeks ago)
