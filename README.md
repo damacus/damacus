@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/jenkins @ v10.0.0](https://github.com/sous-chefs/jenkins/releases/tag/v10.0.0) (today)
 - [damacus/ironbuckets @ v1.2.0](https://github.com/damacus/ironbuckets/releases/tag/v1.2.0) (3 days ago)
 - [sous-chefs/docker @ v11.10.3](https://github.com/sous-chefs/docker/releases/tag/v11.10.3) (6 days ago)
 - [sous-chefs/consul @ v5.7.0](https://github.com/sous-chefs/consul/releases/tag/v5.7.0) (1 week ago)
 - [sous-chefs/isc_kea @ v1.9.6](https://github.com/sous-chefs/isc_kea/releases/tag/v1.9.6) (1 week ago)
-- [sous-chefs/control_groups @ v0.2.16](https://github.com/sous-chefs/control_groups/releases/tag/v0.2.16) (1 week ago)
 
 #### ⭐ Recent Stars
 
