@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/jenkins @ v10.0.0](https://github.com/sous-chefs/jenkins/releases/tag/v10.0.0) (today)
-- [damacus/ironbuckets @ v1.2.0](https://github.com/damacus/ironbuckets/releases/tag/v1.2.0) (3 days ago)
-- [sous-chefs/docker @ v11.10.3](https://github.com/sous-chefs/docker/releases/tag/v11.10.3) (6 days ago)
+- [sous-chefs/jenkins @ v10.0.0](https://github.com/sous-chefs/jenkins/releases/tag/v10.0.0) (1 day ago)
+- [damacus/ironbuckets @ v1.2.0](https://github.com/damacus/ironbuckets/releases/tag/v1.2.0) (4 days ago)
+- [sous-chefs/docker @ v11.10.3](https://github.com/sous-chefs/docker/releases/tag/v11.10.3) (1 week ago)
 - [sous-chefs/consul @ v5.7.0](https://github.com/sous-chefs/consul/releases/tag/v5.7.0) (1 week ago)
 - [sous-chefs/isc_kea @ v1.9.6](https://github.com/sous-chefs/isc_kea/releases/tag/v1.9.6) (1 week ago)
 
@@ -24,7 +24,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 
 - **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (1 month ago)
-- **[NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (1 month ago)
+- **[NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (2 months ago)
 - **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (2 months ago)
 - **[ratatui/ratatui](https://github.com/ratatui/ratatui)** - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (3 months ago)
 - **[mcfio/home-cluster](https://github.com/mcfio/home-cluster)** - Kubernetes cluster managed by Flux and using git as a &#34;single source of truth.&#34; (4 months ago)
