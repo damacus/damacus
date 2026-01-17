@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/apparmor @ apparmor-v4.1.15](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v4.1.15) (1 day ago)
-- [sous-chefs/apache2 @ v9.3.10](https://github.com/sous-chefs/apache2/releases/tag/v9.3.10) (2 days ago)
-- [sous-chefs/sql_server @ v8.0.7](https://github.com/sous-chefs/sql_server/releases/tag/v8.0.7) (2 days ago)
-- [sous-chefs/confluence @ v3.0.0](https://github.com/sous-chefs/confluence/releases/tag/v3.0.0) (2 days ago)
-- [sous-chefs/jenkins @ v10.0.0](https://github.com/sous-chefs/jenkins/releases/tag/v10.0.0) (3 days ago)
+- [sous-chefs/apparmor @ apparmor-v4.1.15](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v4.1.15) (2 days ago)
+- [sous-chefs/apache2 @ v9.3.10](https://github.com/sous-chefs/apache2/releases/tag/v9.3.10) (3 days ago)
+- [sous-chefs/sql_server @ v8.0.7](https://github.com/sous-chefs/sql_server/releases/tag/v8.0.7) (3 days ago)
+- [sous-chefs/confluence @ v3.0.0](https://github.com/sous-chefs/confluence/releases/tag/v3.0.0) (3 days ago)
+- [sous-chefs/jenkins @ v10.0.0](https://github.com/sous-chefs/jenkins/releases/tag/v10.0.0) (4 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (1 day ago)
+- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (2 days ago)
 - **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (1 month ago)
 - **[NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (2 months ago)
 - **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (2 months ago)
