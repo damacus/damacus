@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/ironbuckets @ v1.2.1](https://github.com/damacus/ironbuckets/releases/tag/v1.2.1) (today)
-- [sous-chefs/yum-mysql-community @ v5.6.0](https://github.com/sous-chefs/yum-mysql-community/releases/tag/v5.6.0) (1 day ago)
-- [sous-chefs/apparmor @ apparmor-v4.1.15](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v4.1.15) (4 days ago)
-- [sous-chefs/apache2 @ v9.3.10](https://github.com/sous-chefs/apache2/releases/tag/v9.3.10) (5 days ago)
-- [sous-chefs/sql_server @ v8.0.7](https://github.com/sous-chefs/sql_server/releases/tag/v8.0.7) (5 days ago)
+- [damacus/ironbuckets @ v1.2.1](https://github.com/damacus/ironbuckets/releases/tag/v1.2.1) (1 day ago)
+- [sous-chefs/yum-mysql-community @ v5.6.0](https://github.com/sous-chefs/yum-mysql-community/releases/tag/v5.6.0) (2 days ago)
+- [sous-chefs/apparmor @ apparmor-v4.1.15](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v4.1.15) (5 days ago)
+- [sous-chefs/apache2 @ v9.3.10](https://github.com/sous-chefs/apache2/releases/tag/v9.3.10) (6 days ago)
+- [sous-chefs/sql_server @ v8.0.7](https://github.com/sous-chefs/sql_server/releases/tag/v8.0.7) (6 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (4 days ago)
+- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (5 days ago)
 - **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (1 month ago)
 - **[NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (2 months ago)
 - **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (3 months ago)
