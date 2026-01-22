@@ -5,20 +5,20 @@
 I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 👨‍💻 Repositories I created recently
+- **[damacus/zitadel-tui](https://github.com/damacus/zitadel-tui)**
 - **[damacus/ironbuckets](https://github.com/damacus/ironbuckets)** - A modern webUI for managing MinIO clusters
 - **[damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer)**
 - **[damacus/med-tracker](https://github.com/damacus/med-tracker)**
 - **[damacus/github-cookstyle-runner](https://github.com/damacus/github-cookstyle-runner)** - Run cookstyle against an organisation and open pull requests with the fixes.
-- **[damacus/robovac](https://github.com/damacus/robovac)** - Control your Eufy RoboVac from Home Assistant
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [damacus/zitadel-tui @ v1.0.0](https://github.com/damacus/zitadel-tui/releases/tag/v1.0.0) (today)
 - [damacus/ironbuckets @ v1.2.1](https://github.com/damacus/ironbuckets/releases/tag/v1.2.1) (3 days ago)
 - [sous-chefs/yum-mysql-community @ v5.6.0](https://github.com/sous-chefs/yum-mysql-community/releases/tag/v5.6.0) (4 days ago)
 - [sous-chefs/apparmor @ apparmor-v4.1.15](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v4.1.15) (1 week ago)
 - [sous-chefs/apache2 @ v9.3.10](https://github.com/sous-chefs/apache2/releases/tag/v9.3.10) (1 week ago)
-- [sous-chefs/sql_server @ v8.0.7](https://github.com/sous-chefs/sql_server/releases/tag/v8.0.7) (1 week ago)
 
 #### ⭐ Recent Stars
 
