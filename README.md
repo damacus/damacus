@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/zitadel-tui @ v1.0.0](https://github.com/damacus/zitadel-tui/releases/tag/v1.0.0) (today)
+- [test-kitchen/kitchen-ec2 @ v3.22.0](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.22.0) (today)
+- [damacus/zitadel-tui @ v1.0.1](https://github.com/damacus/zitadel-tui/releases/tag/v1.0.1) (today)
+- [test-kitchen/test-kitchen @ v4.0.0](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.0.0) (today)
 - [damacus/ironbuckets @ v1.2.1](https://github.com/damacus/ironbuckets/releases/tag/v1.2.1) (3 days ago)
 - [sous-chefs/yum-mysql-community @ v5.6.0](https://github.com/sous-chefs/yum-mysql-community/releases/tag/v5.6.0) (4 days ago)
-- [sous-chefs/apparmor @ apparmor-v4.1.15](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v4.1.15) (1 week ago)
-- [sous-chefs/apache2 @ v9.3.10](https://github.com/sous-chefs/apache2/releases/tag/v9.3.10) (1 week ago)
 
 #### ⭐ Recent Stars
 
