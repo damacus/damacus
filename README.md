@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/haproxy @ v12.4.13](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.13) (1 day ago)
-- [test-kitchen/kitchen-azurerm @ v1.13.5](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.5) (5 days ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.0](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.0) (5 days ago)
-- [test-kitchen/kitchen-docker @ v3.2.1](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.1) (6 days ago)
-- [test-kitchen/kitchen-dokken @ v2.22.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.22.1) (6 days ago)
+- [sous-chefs/haproxy @ v12.4.13](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.13) (2 days ago)
+- [test-kitchen/kitchen-azurerm @ v1.13.5](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.5) (6 days ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.0](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.0) (6 days ago)
+- [test-kitchen/kitchen-docker @ v3.2.1](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.1) (1 week ago)
+- [test-kitchen/kitchen-dokken @ v2.22.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.22.1) (1 week ago)
 
 #### ⭐ Recent Stars
 
 
 - **[mjehrhart/viewu](https://github.com/mjehrhart/viewu)** - The Viewu App is a compact, user-friendly iOS application designed to integrate seamlessly with Frigate NVR systems. (1 week ago)
-- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (1 week ago)
+- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (2 weeks ago)
 - **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (1 month ago)
 - **[NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (2 months ago)
 - **[neilberkman/clippy](https://github.com/neilberkman/clippy)** - Unified clipboard tool for macOS that intelligently handles both text and file copying (3 months ago)
