@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/haproxy @ v12.4.13](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.13) (2 days ago)
-- [test-kitchen/kitchen-azurerm @ v1.13.5](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.5) (6 days ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.0](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.0) (6 days ago)
+- [sous-chefs/haproxy @ v12.4.13](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.13) (3 days ago)
+- [test-kitchen/kitchen-azurerm @ v1.13.5](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.5) (1 week ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.0](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.0) (1 week ago)
 - [test-kitchen/kitchen-docker @ v3.2.1](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.1) (1 week ago)
 - [test-kitchen/kitchen-dokken @ v2.22.1](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.22.1) (1 week ago)
 
