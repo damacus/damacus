@@ -23,8 +23,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[el-feo/ai-context](https://github.com/el-feo/ai-context)** - A collection of Claude Code plugins. (2 days ago)
-- **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. (3 days ago)
+- **[el-feo/ai-context](https://github.com/el-feo/ai-context)** - A collection of Claude Code plugins. (3 days ago)
+- **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. (4 days ago)
 - **[mjehrhart/viewu](https://github.com/mjehrhart/viewu)** - The Viewu App is a compact, user-friendly iOS application designed to integrate seamlessly with Frigate NVR systems. (2 weeks ago)
 - **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (2 weeks ago)
 - **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (1 month ago)
