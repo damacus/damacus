@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/chef-ruby-lvm-attrib @ v0.6.0](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.0) (1 day ago)
-- [sous-chefs/rvm @ v2.0.10](https://github.com/sous-chefs/rvm/releases/tag/v2.0.10) (1 day ago)
-- [damacus/gitlab-runner-tui @ v0.2.0](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.2.0) (6 days ago)
+- [sous-chefs/chef-ruby-lvm-attrib @ v0.6.0](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.0) (2 days ago)
+- [sous-chefs/rvm @ v2.0.10](https://github.com/sous-chefs/rvm/releases/tag/v2.0.10) (2 days ago)
+- [damacus/gitlab-runner-tui @ v0.2.0](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.2.0) (1 week ago)
 - [sous-chefs/haproxy @ v12.4.13](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.13) (2 weeks ago)
 - [test-kitchen/kitchen-azurerm @ v1.13.5](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.5) (2 weeks ago)
 
