@@ -5,20 +5,20 @@
 I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 👨‍💻 Repositories I created recently
+- **[damacus/mcp-paperless-ngx](https://github.com/damacus/mcp-paperless-ngx)**
 - **[damacus/trv-scheduler-card](https://github.com/damacus/trv-scheduler-card)**
 - **[damacus/agent-skills](https://github.com/damacus/agent-skills)**
 - **[damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui)** - A TUI for diagnosing GitLab Runner issues
 - **[damacus/home-pager](https://github.com/damacus/home-pager)** - Kubernetes application dashboard that displays apps from Ingress annotations
-- **[damacus/coffee-pulse](https://github.com/damacus/coffee-pulse)** - Coffee Timer APp
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [damacus/robovac @ v2.1.0-beta.1](https://github.com/damacus/robovac/releases/tag/v2.1.0-beta.1) (today)
 - [damacus/gitlab-runner-tui @ v0.1.4](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.4) (1 day ago)
 - [sous-chefs/chef-ruby-lvm-attrib @ v0.6.0](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.0) (3 days ago)
 - [sous-chefs/rvm @ v2.0.10](https://github.com/sous-chefs/rvm/releases/tag/v2.0.10) (3 days ago)
 - [sous-chefs/haproxy @ v12.4.13](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.13) (2 weeks ago)
-- [test-kitchen/kitchen-azurerm @ v1.13.5](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.5) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
