@@ -14,9 +14,9 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/gitlab-runner-tui @ v0.1.4](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.4) (today)
-- [sous-chefs/chef-ruby-lvm-attrib @ v0.6.0](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.0) (2 days ago)
-- [sous-chefs/rvm @ v2.0.10](https://github.com/sous-chefs/rvm/releases/tag/v2.0.10) (2 days ago)
+- [damacus/gitlab-runner-tui @ v0.1.4](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.4) (1 day ago)
+- [sous-chefs/chef-ruby-lvm-attrib @ v0.6.0](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.0) (3 days ago)
+- [sous-chefs/rvm @ v2.0.10](https://github.com/sous-chefs/rvm/releases/tag/v2.0.10) (3 days ago)
 - [sous-chefs/haproxy @ v12.4.13](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.13) (2 weeks ago)
 - [test-kitchen/kitchen-azurerm @ v1.13.5](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.5) (2 weeks ago)
 
@@ -25,7 +25,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 
 - **[el-feo/ai-context](https://github.com/el-feo/ai-context)** - A collection of Claude Code plugins. (1 week ago)
 - **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. (1 week ago)
-- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (3 weeks ago)
+- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (4 weeks ago)
 - **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (2 months ago)
 - **[NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (2 months ago)
 
