@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [test-kitchen/kitchen-dokken @ v2.22.2](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.22.2) (today)
 - [damacus/robovac @ v2.1.0-beta.1](https://github.com/damacus/robovac/releases/tag/v2.1.0-beta.1) (1 day ago)
 - [damacus/gitlab-runner-tui @ v0.1.4](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.4) (2 days ago)
 - [sous-chefs/chef-ruby-lvm-attrib @ v0.6.0](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.0) (4 days ago)
 - [sous-chefs/rvm @ v2.0.10](https://github.com/sous-chefs/rvm/releases/tag/v2.0.10) (4 days ago)
-- [sous-chefs/haproxy @ v12.4.13](https://github.com/sous-chefs/haproxy/releases/tag/v12.4.13) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
