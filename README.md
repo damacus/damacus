@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.1](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.1) (today)
 - [damacus/ironbuckets @ v1.3.0](https://github.com/damacus/ironbuckets/releases/tag/v1.3.0) (2 days ago)
 - [damacus/clone-org-repos @ v0.0.4](https://github.com/damacus/clone-org-repos/releases/tag/v0.0.4) (2 days ago)
 - [test-kitchen/kitchen-dokken @ v2.22.2](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.22.2) (2 days ago)
 - [damacus/robovac @ v2.1.0-beta.1](https://github.com/damacus/robovac/releases/tag/v2.1.0-beta.1) (3 days ago)
-- [damacus/gitlab-runner-tui @ v0.1.4](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.4) (4 days ago)
 
 #### ⭐ Recent Stars
 
