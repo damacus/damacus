@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [damacus/med-tracker @ med-tracker/v0.2.6](https://github.com/damacus/med-tracker/releases/tag/med-tracker/v0.2.6) (today)
 - [actionshub/chef-install @ 5.0.0](https://github.com/actionshub/chef-install/releases/tag/5.0.0) (1 day ago)
 - [damacus/robovac @ v2.2.0-beta.1](https://github.com/damacus/robovac/releases/tag/v2.2.0-beta.1) (2 days ago)
 - [damacus/gitlab-runner-tui @ v0.1.5](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.5) (2 days ago)
 - [damacus/github-cookstyle-runner @ github-cookstyle-runner/v0.1.6](https://github.com/damacus/github-cookstyle-runner/releases/tag/github-cookstyle-runner/v0.1.6) (3 days ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.1](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.1) (4 days ago)
 
 #### ⭐ Recent Stars
 
