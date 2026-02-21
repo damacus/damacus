@@ -14,17 +14,17 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/med-tracker @ v0.3.1](https://github.com/damacus/med-tracker/releases/tag/v0.3.1) (today)
-- [test-kitchen/kitchen-azurerm @ v1.13.6](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.6) (1 day ago)
-- [actionshub/chef-install @ 5.0.0](https://github.com/actionshub/chef-install/releases/tag/5.0.0) (2 days ago)
-- [damacus/robovac @ v2.2.0-beta.1](https://github.com/damacus/robovac/releases/tag/v2.2.0-beta.1) (3 days ago)
-- [damacus/gitlab-runner-tui @ v0.1.5](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.5) (3 days ago)
+- [damacus/med-tracker @ v0.3.2](https://github.com/damacus/med-tracker/releases/tag/v0.3.2) (1 day ago)
+- [actionshub/chef-install @ 5.0.2](https://github.com/actionshub/chef-install/releases/tag/5.0.2) (1 day ago)
+- [test-kitchen/kitchen-azurerm @ v1.13.6](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.6) (2 days ago)
+- [damacus/robovac @ v2.2.0-beta.1](https://github.com/damacus/robovac/releases/tag/v2.2.0-beta.1) (4 days ago)
+- [damacus/gitlab-runner-tui @ v0.1.5](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.5) (4 days ago)
 
 #### ⭐ Recent Stars
 
 
 - **[el-feo/ai-context](https://github.com/el-feo/ai-context)** - A collection of Claude Code plugins. (2 weeks ago)
-- **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. (2 weeks ago)
+- **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. (3 weeks ago)
 - **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (1 month ago)
 - **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (2 months ago)
 - **[NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (3 months ago)
