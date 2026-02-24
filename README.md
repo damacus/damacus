@@ -5,11 +5,11 @@
 I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 👨‍💻 Repositories I created recently
-- **[damacus/mcp-freeagent](https://github.com/damacus/mcp-freeagent)**
 - **[damacus/mcp-paperless-ngx](https://github.com/damacus/mcp-paperless-ngx)**
 - **[damacus/trv-scheduler-card](https://github.com/damacus/trv-scheduler-card)**
 - **[damacus/agent-skills](https://github.com/damacus/agent-skills)**
 - **[damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui)** - A TUI for diagnosing GitLab Runner issues
+- **[damacus/home-pager](https://github.com/damacus/home-pager)** - Kubernetes application dashboard that displays apps from Ingress annotations
 
 #### 🚀 Latest releases I've contributed to
 
