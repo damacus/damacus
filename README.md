@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/med-tracker @ v0.3.12](https://github.com/damacus/med-tracker/releases/tag/v0.3.12) (1 day ago)
+- [damacus/med-tracker @ v0.3.13](https://github.com/damacus/med-tracker/releases/tag/v0.3.13) (today)
 - [actionshub/chef-install @ 5.0.2](https://github.com/actionshub/chef-install/releases/tag/5.0.2) (1 week ago)
 - [test-kitchen/kitchen-azurerm @ v1.13.6](https://github.com/test-kitchen/kitchen-azurerm/releases/tag/v1.13.6) (1 week ago)
 - [damacus/robovac @ v2.2.0-beta.1](https://github.com/damacus/robovac/releases/tag/v2.2.0-beta.1) (1 week ago)
