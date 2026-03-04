@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [damacus/med-tracker @ v0.3.17](https://github.com/damacus/med-tracker/releases/tag/v0.3.17) (today)
 - [sous-chefs/docker @ v11.10.4](https://github.com/sous-chefs/docker/releases/tag/v11.10.4) (1 day ago)
-- [damacus/med-tracker @ v0.3.16](https://github.com/damacus/med-tracker/releases/tag/v0.3.16) (1 day ago)
 - [damacus/gitlab-runner-tui @ v0.1.7](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.7) (1 day ago)
 - [damacus/robovac @ v2.2.1-beta.1](https://github.com/damacus/robovac/releases/tag/v2.2.1-beta.1) (1 day ago)
 - [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.2](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.2) (1 day ago)
