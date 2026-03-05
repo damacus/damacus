@@ -5,20 +5,20 @@
 I'm [Dan](https://medium.com/@dan.m.webb)
 
 #### 👨‍💻 Repositories I created recently
+- **[damacus/trv-scheduler-appdaemon](https://github.com/damacus/trv-scheduler-appdaemon)** - AppDaemon backend for the TRV Heating Scheduler Card
 - **[damacus/mcp-paperless-ngx](https://github.com/damacus/mcp-paperless-ngx)**
 - **[damacus/trv-scheduler-card](https://github.com/damacus/trv-scheduler-card)**
 - **[damacus/agent-skills](https://github.com/damacus/agent-skills)**
 - **[damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui)** - A TUI for diagnosing GitLab Runner issues
-- **[damacus/home-pager](https://github.com/damacus/home-pager)** - Kubernetes application dashboard that displays apps from Ingress annotations
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/med-tracker @ v0.3.19](https://github.com/damacus/med-tracker/releases/tag/v0.3.19) (today)
-- [sous-chefs/docker @ v11.10.4](https://github.com/sous-chefs/docker/releases/tag/v11.10.4) (1 day ago)
-- [damacus/gitlab-runner-tui @ v0.1.7](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.7) (1 day ago)
-- [damacus/robovac @ v2.2.1-beta.1](https://github.com/damacus/robovac/releases/tag/v2.2.1-beta.1) (1 day ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.2](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.2) (1 day ago)
+- [actionshub/publish-gem-to-rubygems @ v2.0.6](https://github.com/actionshub/publish-gem-to-rubygems/releases/tag/v2.0.6) (today)
+- [damacus/med-tracker @ v0.3.19](https://github.com/damacus/med-tracker/releases/tag/v0.3.19) (1 day ago)
+- [sous-chefs/docker @ v11.10.4](https://github.com/sous-chefs/docker/releases/tag/v11.10.4) (2 days ago)
+- [damacus/gitlab-runner-tui @ v0.1.7](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.7) (2 days ago)
+- [damacus/robovac @ v2.2.1-beta.1](https://github.com/damacus/robovac/releases/tag/v2.2.1-beta.1) (2 days ago)
 
 #### ⭐ Recent Stars
 
