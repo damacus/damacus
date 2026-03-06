@@ -14,7 +14,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/med-tracker @ v0.3.22](https://github.com/damacus/med-tracker/releases/tag/v0.3.22) (today)
+- [damacus/med-tracker @ v0.3.23](https://github.com/damacus/med-tracker/releases/tag/v0.3.23) (today)
 - [actionshub/publish-gem-to-rubygems @ v2.0.6](https://github.com/actionshub/publish-gem-to-rubygems/releases/tag/v2.0.6) (1 day ago)
 - [sous-chefs/docker @ v11.10.4](https://github.com/sous-chefs/docker/releases/tag/v11.10.4) (3 days ago)
 - [damacus/gitlab-runner-tui @ v0.1.7](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.7) (3 days ago)
