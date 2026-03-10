@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/med-tracker @ v0.3.29](https://github.com/damacus/med-tracker/releases/tag/v0.3.29) (today)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.3](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.3) (2 days ago)
-- [actionshub/publish-gem-to-rubygems @ v2.0.6](https://github.com/actionshub/publish-gem-to-rubygems/releases/tag/v2.0.6) (4 days ago)
-- [sous-chefs/docker @ v11.10.4](https://github.com/sous-chefs/docker/releases/tag/v11.10.4) (6 days ago)
-- [damacus/gitlab-runner-tui @ v0.1.7](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.7) (6 days ago)
+- [damacus/med-tracker @ v0.3.29](https://github.com/damacus/med-tracker/releases/tag/v0.3.29) (1 day ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.3](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.3) (3 days ago)
+- [actionshub/publish-gem-to-rubygems @ v2.0.6](https://github.com/actionshub/publish-gem-to-rubygems/releases/tag/v2.0.6) (5 days ago)
+- [sous-chefs/docker @ v11.10.4](https://github.com/sous-chefs/docker/releases/tag/v11.10.4) (1 week ago)
+- [damacus/gitlab-runner-tui @ v0.1.7](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.7) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -26,7 +26,7 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 - **[el-feo/ai-context](https://github.com/el-feo/ai-context)** - A collection of Claude Code plugins. (1 month ago)
 - **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. (1 month ago)
 - **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (1 month ago)
-- **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (2 months ago)
+- **[michalfita/packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross)** - Forked &#43; enhanced Packer plugin to build ARM images (3 months ago)
 - **[NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)** - CodeNomad: The command center that puts AI coding on steroids. (3 months ago)
 
 #### 📄 Latest blog posts
