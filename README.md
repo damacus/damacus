@@ -14,8 +14,8 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/med-tracker @ v0.3.32](https://github.com/damacus/med-tracker/releases/tag/v0.3.32) (today)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.4](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.4) (today)
+- [damacus/med-tracker @ v0.3.32](https://github.com/damacus/med-tracker/releases/tag/v0.3.32) (1 day ago)
+- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.4](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.4) (1 day ago)
 - [actionshub/publish-gem-to-rubygems @ v2.0.6](https://github.com/actionshub/publish-gem-to-rubygems/releases/tag/v2.0.6) (1 week ago)
 - [sous-chefs/docker @ v11.10.4](https://github.com/sous-chefs/docker/releases/tag/v11.10.4) (1 week ago)
 - [damacus/gitlab-runner-tui @ v0.1.7](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.7) (1 week ago)
@@ -23,11 +23,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### ⭐ Recent Stars
 
 
-- **[amogower/freeagent-cli](https://github.com/amogower/freeagent-cli)** (2 days ago)
-- **[julianfbeck/paperless-cli](https://github.com/julianfbeck/paperless-cli)** - 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ (2 days ago)
+- **[setdef/RatatuiRuby](https://github.com/setdef/RatatuiRuby)** - 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. (1 day ago)
+- **[amogower/freeagent-cli](https://github.com/amogower/freeagent-cli)** (3 days ago)
+- **[julianfbeck/paperless-cli](https://github.com/julianfbeck/paperless-cli)** - 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ (3 days ago)
 - **[el-feo/ai-context](https://github.com/el-feo/ai-context)** - A collection of Claude Code plugins. (1 month ago)
 - **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. (1 month ago)
-- **[gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor)** - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (1 month ago)
 
 #### 📄 Latest blog posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) (2 years ago)
