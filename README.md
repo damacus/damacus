@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/apparmor @ apparmor-v5.0.0](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.0) (today)
+- [damacus/check-chef-metadata-action @ v1.0.0](https://github.com/damacus/check-chef-metadata-action/releases/tag/v1.0.0) (today)
 - [sous-chefs/elasticsearch @ v6.0.0](https://github.com/sous-chefs/elasticsearch/releases/tag/v6.0.0) (1 day ago)
 - [test-kitchen/kitchen-ec2 @ v3.22.2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.22.2) (1 day ago)
 - [sous-chefs/yum-almalinux @ v2.0.0](https://github.com/sous-chefs/yum-almalinux/releases/tag/v2.0.0) (1 day ago)
-- [damacus/med-tracker @ v0.3.32](https://github.com/damacus/med-tracker/releases/tag/v0.3.32) (3 days ago)
-- [damacus/unifi-release-announcer @ unifi-release-announcer-v0.2.4](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.4) (3 days ago)
 
 #### ⭐ Recent Stars
 
