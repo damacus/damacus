@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [damacus/gitlab-runner-tui @ v0.1.8](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.8) (today)
 - [damacus/check-chef-metadata-action @ v3.0.0](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.0) (1 day ago)
 - [sous-chefs/apparmor @ apparmor-v5.0.0](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.0) (1 day ago)
 - [sous-chefs/elasticsearch @ v6.0.0](https://github.com/sous-chefs/elasticsearch/releases/tag/v6.0.0) (2 days ago)
 - [test-kitchen/kitchen-ec2 @ v3.22.2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.22.2) (2 days ago)
-- [sous-chefs/yum-almalinux @ v2.0.0](https://github.com/sous-chefs/yum-almalinux/releases/tag/v2.0.0) (2 days ago)
 
 #### ⭐ Recent Stars
 
