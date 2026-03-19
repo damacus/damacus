@@ -14,18 +14,18 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [damacus/gitlab-runner-tui @ v0.1.8](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.8) (today)
-- [damacus/check-chef-metadata-action @ v3.0.0](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.0) (1 day ago)
-- [sous-chefs/apparmor @ apparmor-v5.0.0](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.0) (1 day ago)
-- [sous-chefs/elasticsearch @ v6.0.0](https://github.com/sous-chefs/elasticsearch/releases/tag/v6.0.0) (2 days ago)
-- [test-kitchen/kitchen-ec2 @ v3.22.2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.22.2) (2 days ago)
+- [damacus/gitlab-runner-tui @ v0.1.8](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.8) (1 day ago)
+- [damacus/check-chef-metadata-action @ v3.0.0](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.0) (2 days ago)
+- [sous-chefs/apparmor @ apparmor-v5.0.0](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.0) (2 days ago)
+- [sous-chefs/elasticsearch @ v6.0.0](https://github.com/sous-chefs/elasticsearch/releases/tag/v6.0.0) (3 days ago)
+- [test-kitchen/kitchen-ec2 @ v3.22.2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.22.2) (3 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[setdef/RatatuiRuby](https://github.com/setdef/RatatuiRuby)** - 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. (4 days ago)
-- **[amogower/freeagent-cli](https://github.com/amogower/freeagent-cli)** (6 days ago)
-- **[julianfbeck/paperless-cli](https://github.com/julianfbeck/paperless-cli)** - 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ (6 days ago)
+- **[setdef/RatatuiRuby](https://github.com/setdef/RatatuiRuby)** - 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. (5 days ago)
+- **[amogower/freeagent-cli](https://github.com/amogower/freeagent-cli)** (1 week ago)
+- **[julianfbeck/paperless-cli](https://github.com/julianfbeck/paperless-cli)** - 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ (1 week ago)
 - **[el-feo/ai-context](https://github.com/el-feo/ai-context)** - A collection of Claude Code plugins. (1 month ago)
 - **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. (1 month ago)
 
