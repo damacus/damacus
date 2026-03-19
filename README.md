@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/keepalived @ v6.1.0](https://github.com/sous-chefs/keepalived/releases/tag/v6.1.0) (today)
+- [sous-chefs/stunnel @ v6.0.0](https://github.com/sous-chefs/stunnel/releases/tag/v6.0.0) (today)
+- [sous-chefs/consul @ v6.0.0](https://github.com/sous-chefs/consul/releases/tag/v6.0.0) (today)
 - [sous-chefs/ruby_rbenv @ v6.0.0](https://github.com/sous-chefs/ruby_rbenv/releases/tag/v6.0.0) (today)
 - [sous-chefs/autofs @ v3.1.1](https://github.com/sous-chefs/autofs/releases/tag/v3.1.1) (today)
-- [damacus/gitlab-runner-tui @ v0.1.8](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.8) (1 day ago)
-- [damacus/check-chef-metadata-action @ v3.0.0](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.0) (2 days ago)
-- [sous-chefs/apparmor @ apparmor-v5.0.0](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.0) (2 days ago)
 
 #### ⭐ Recent Stars
 
