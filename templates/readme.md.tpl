@@ -1,29 +1,53 @@
+<div align="center">
 
+## Hi there, I'm Dan 👋
 
-### Hi there 👋
+*Infrastructure Engineer · Open Source Contributor · Home Automation Enthusiast*
 
-I'm [Dan](https://medium.com/@dan.m.webb)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dan.m.webb)
 
-#### 👨‍💻 Repositories I created recently
+</div>
 
+---
+
+### 👨‍💻 Recently Created Repositories
+
+| Repository | Description |
+|:-----------|:------------|
 {{- range recentRepos 5 }}
-- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
+| [**{{ .Name }}**]({{ .URL }}) | {{ with .Description }}{{ . }}{{ else }}*—*{{ end }} |
 {{- end }}
 
-#### 🚀 Latest releases I've contributed to
+---
 
-{{ range recentReleases 5 }}
-- [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
+### 🚀 Latest Releases
+
+| Project | Release | When |
+|:--------|:-------:|-----:|
+{{- range recentReleases 5 }}
+| [{{ .Name }}]({{ .LastRelease.URL }}) | `{{ .LastRelease.TagName }}` | *{{ humanize .LastRelease.PublishedAt }}* |
 {{- end }}
 
-#### ⭐ Recent Stars
+---
 
-{{ range recentStars 5 }}
-- **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
+### ⭐ Recent Stars
+
+| Repository | Description | Starred |
+|:-----------|:------------|--------:|
+{{- range recentStars 5 }}
+| [**{{ .Repo.Name }}**]({{ .Repo.URL }}) | {{ with .Repo.Description }}{{ . }}{{ else }}*—*{{ end }} | *{{ humanize .StarredAt }}* |
 {{- end }}
 
-#### 📄 Latest blog posts
+---
+
+### 📄 Latest Blog Posts
 
 {{- range rss "https://medium.com/feed/@dan.m.webb" 3 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+- [{{ .Title }}]({{ .URL }}) — *{{ humanize .PublishedAt }}*
 {{- end }}
+
+---
+
+<div align="center">
+  <sub>Updated automatically every 6 hours · Powered by <a href="https://github.com/muesli/readme-scribe">readme-scribe</a> 🤖</sub>
+</div>
