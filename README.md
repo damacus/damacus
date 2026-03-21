@@ -14,11 +14,11 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
+- [sous-chefs/elasticsearch @ v6.0.1](https://github.com/sous-chefs/elasticsearch/releases/tag/v6.0.1) (today)
+- [damacus/med-tracker @ v0.3.33](https://github.com/damacus/med-tracker/releases/tag/v0.3.33) (today)
 - [sous-chefs/confluence @ v4.0.0](https://github.com/sous-chefs/confluence/releases/tag/v4.0.0) (1 day ago)
 - [sous-chefs/keepalived @ v6.1.0](https://github.com/sous-chefs/keepalived/releases/tag/v6.1.0) (2 days ago)
 - [sous-chefs/stunnel @ v6.0.0](https://github.com/sous-chefs/stunnel/releases/tag/v6.0.0) (2 days ago)
-- [sous-chefs/consul @ v6.0.0](https://github.com/sous-chefs/consul/releases/tag/v6.0.0) (2 days ago)
-- [sous-chefs/ruby_rbenv @ v6.0.0](https://github.com/sous-chefs/ruby_rbenv/releases/tag/v6.0.0) (2 days ago)
 
 #### ⭐ Recent Stars
 
