@@ -14,16 +14,16 @@ I'm [Dan](https://medium.com/@dan.m.webb)
 #### 🚀 Latest releases I've contributed to
 
 
-- [sous-chefs/confluence @ v4.0.0](https://github.com/sous-chefs/confluence/releases/tag/v4.0.0) (today)
-- [sous-chefs/keepalived @ v6.1.0](https://github.com/sous-chefs/keepalived/releases/tag/v6.1.0) (1 day ago)
-- [sous-chefs/stunnel @ v6.0.0](https://github.com/sous-chefs/stunnel/releases/tag/v6.0.0) (1 day ago)
-- [sous-chefs/consul @ v6.0.0](https://github.com/sous-chefs/consul/releases/tag/v6.0.0) (1 day ago)
-- [sous-chefs/ruby_rbenv @ v6.0.0](https://github.com/sous-chefs/ruby_rbenv/releases/tag/v6.0.0) (1 day ago)
+- [sous-chefs/confluence @ v4.0.0](https://github.com/sous-chefs/confluence/releases/tag/v4.0.0) (1 day ago)
+- [sous-chefs/keepalived @ v6.1.0](https://github.com/sous-chefs/keepalived/releases/tag/v6.1.0) (2 days ago)
+- [sous-chefs/stunnel @ v6.0.0](https://github.com/sous-chefs/stunnel/releases/tag/v6.0.0) (2 days ago)
+- [sous-chefs/consul @ v6.0.0](https://github.com/sous-chefs/consul/releases/tag/v6.0.0) (2 days ago)
+- [sous-chefs/ruby_rbenv @ v6.0.0](https://github.com/sous-chefs/ruby_rbenv/releases/tag/v6.0.0) (2 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[setdef/RatatuiRuby](https://github.com/setdef/RatatuiRuby)** - 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. (6 days ago)
+- **[setdef/RatatuiRuby](https://github.com/setdef/RatatuiRuby)** - 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. (1 week ago)
 - **[amogower/freeagent-cli](https://github.com/amogower/freeagent-cli)** (1 week ago)
 - **[julianfbeck/paperless-cli](https://github.com/julianfbeck/paperless-cli)** - 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ (1 week ago)
 - **[el-feo/ai-context](https://github.com/el-feo/ai-context)** - A collection of Claude Code plugins. (1 month ago)
