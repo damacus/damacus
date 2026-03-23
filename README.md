@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.1) | `v3.0.1` | *today* |
 | [sous-chefs/apache2](https://github.com/sous-chefs/apache2/releases/tag/v9.3.11) | `v9.3.11` | *1 day ago* |
 | [sous-chefs/elasticsearch](https://github.com/sous-chefs/elasticsearch/releases/tag/v6.0.1) | `v6.0.1` | *2 days ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.33) | `v0.3.33` | *2 days ago* |
 | [sous-chefs/confluence](https://github.com/sous-chefs/confluence/releases/tag/v4.0.0) | `v4.0.0` | *3 days ago* |
-| [sous-chefs/keepalived](https://github.com/sous-chefs/keepalived/releases/tag/v6.1.0) | `v6.1.0` | *4 days ago* |
 
 ---
 
