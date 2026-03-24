@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.9) | `v0.1.9` | *today* |
 | [sous-chefs/control_groups](https://github.com/sous-chefs/control_groups/releases/tag/v0.3.0) | `v0.3.0` | *today* |
 | [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.3.0-beta.1) | `v2.3.0-beta.1` | *today* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.34) | `v0.3.34` | *1 day ago* |
 | [damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.1) | `v3.0.1` | *1 day ago* |
-| [sous-chefs/apache2](https://github.com/sous-chefs/apache2/releases/tag/v9.3.11) | `v9.3.11` | *2 days ago* |
 
 ---
 
