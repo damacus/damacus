@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.5) | `unifi-release-announcer-v0.2.5` | *today* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.9) | `v0.1.9` | *1 day ago* |
-| [sous-chefs/control_groups](https://github.com/sous-chefs/control_groups/releases/tag/v0.3.0) | `v0.3.0` | *1 day ago* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.3.0-beta.1) | `v2.3.0-beta.1` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.34) | `v0.3.34` | *2 days ago* |
+| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.5) | `unifi-release-announcer-v0.2.5` | *1 day ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.9) | `v0.1.9` | *2 days ago* |
+| [sous-chefs/control_groups](https://github.com/sous-chefs/control_groups/releases/tag/v0.3.0) | `v0.3.0` | *2 days ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.3.0-beta.1) | `v2.3.0-beta.1` | *2 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.34) | `v0.3.34` | *3 days ago* |
 
 ---
 
@@ -38,10 +38,10 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 day ago* |
+| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *2 days ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *1 week ago* |
-| [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *1 week ago* |
-| [**julianfbeck/paperless-cli**](https://github.com/julianfbeck/paperless-cli) | 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ | *1 week ago* |
+| [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *2 weeks ago* |
+| [**julianfbeck/paperless-cli**](https://github.com/julianfbeck/paperless-cli) | 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ | *2 weeks ago* |
 | [**el-feo/ai-context**](https://github.com/el-feo/ai-context) | A collection of Claude Code plugins. | *1 month ago* |
 
 ---
