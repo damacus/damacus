@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.3.0) | `v0.3.0` | *1 day ago* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.4.0) | `v0.4.0` | *today* |
 | [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.1) | `v0.1.1` | *1 day ago* |
 | [sous-chefs/chrony](https://github.com/sous-chefs/chrony/releases/tag/v2.0.0) | `v2.0.0` | *1 day ago* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.5) | `unifi-release-announcer-v0.2.5` | *2 days ago* |
