@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.4.0) | `v0.4.0` | *1 day ago* |
-| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.1) | `v0.1.1` | *2 days ago* |
-| [sous-chefs/chrony](https://github.com/sous-chefs/chrony/releases/tag/v2.0.0) | `v2.0.0` | *2 days ago* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.5) | `unifi-release-announcer-v0.2.5` | *3 days ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.9) | `v0.1.9` | *4 days ago* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.4.0) | `v0.4.0` | *2 days ago* |
+| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.1) | `v0.1.1` | *3 days ago* |
+| [sous-chefs/chrony](https://github.com/sous-chefs/chrony/releases/tag/v2.0.0) | `v2.0.0` | *3 days ago* |
+| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.5) | `unifi-release-announcer-v0.2.5` | *4 days ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.9) | `v0.1.9` | *5 days ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *4 days ago* |
+| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *5 days ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *2 weeks ago* |
 | [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *2 weeks ago* |
 | [**julianfbeck/paperless-cli**](https://github.com/julianfbeck/paperless-cli) | 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ | *2 weeks ago* |
