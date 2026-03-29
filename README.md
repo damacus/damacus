@@ -26,10 +26,10 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.6) | `unifi-release-announcer-v0.2.6` | *today* |
 | [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.4.0) | `v0.4.0` | *2 days ago* |
 | [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.1) | `v0.1.1` | *3 days ago* |
 | [sous-chefs/chrony](https://github.com/sous-chefs/chrony/releases/tag/v2.0.0) | `v2.0.0` | *3 days ago* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.5) | `unifi-release-announcer-v0.2.5` | *4 days ago* |
 | [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.9) | `v0.1.9` | *5 days ago* |
 
 ---
