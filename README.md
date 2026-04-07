@@ -26,8 +26,8 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.2) | `v0.1.2` | *4 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.35) | `v0.3.35` | *5 days ago* |
+| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.2) | `v0.1.2` | *5 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.35) | `v0.3.35` | *6 days ago* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.7) | `unifi-release-announcer-v0.2.7` | *1 week ago* |
 | [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.4.0) | `v0.4.0` | *1 week ago* |
 | [sous-chefs/chrony](https://github.com/sous-chefs/chrony/releases/tag/v2.0.0) | `v2.0.0` | *1 week ago* |
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 week ago* |
+| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *2 weeks ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *3 weeks ago* |
 | [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *3 weeks ago* |
 | [**julianfbeck/paperless-cli**](https://github.com/julianfbeck/paperless-cli) | 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ | *3 weeks ago* |
