@@ -26,8 +26,8 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/xinetd](https://github.com/sous-chefs/xinetd/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
-| [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.4) | `v13.0.4` | *4 days ago* |
+| [sous-chefs/xinetd](https://github.com/sous-chefs/xinetd/releases/tag/v3.0.0) | `v3.0.0` | *2 days ago* |
+| [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.4) | `v13.0.4` | *5 days ago* |
 | [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.2) | `v0.1.2` | *1 week ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.35) | `v0.3.35` | *1 week ago* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.7) | `unifi-release-announcer-v0.2.7` | *1 week ago* |
