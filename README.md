@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/certificate](https://github.com/sous-chefs/certificate/releases/tag/certificate-v3.0.0) | `certificate-v3.0.0` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.36) | `v0.3.36` | *today* |
 | [sous-chefs/xinetd](https://github.com/sous-chefs/xinetd/releases/tag/v3.0.0) | `v3.0.0` | *3 days ago* |
 | [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.4) | `v13.0.4` | *6 days ago* |
 | [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.2) | `v0.1.2` | *1 week ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.35) | `v0.3.35` | *1 week ago* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.7) | `unifi-release-announcer-v0.2.7` | *2 weeks ago* |
 
 ---
 
