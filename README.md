@@ -26,10 +26,10 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/resolver](https://github.com/sous-chefs/resolver/releases/tag/v4.3.0) | `v4.3.0` | *today* |
-| [sous-chefs/certificate](https://github.com/sous-chefs/certificate/releases/tag/certificate-v3.0.0) | `certificate-v3.0.0` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.36) | `v0.3.36` | *1 day ago* |
-| [sous-chefs/xinetd](https://github.com/sous-chefs/xinetd/releases/tag/v3.0.0) | `v3.0.0` | *4 days ago* |
+| [sous-chefs/resolver](https://github.com/sous-chefs/resolver/releases/tag/v4.3.0) | `v4.3.0` | *1 day ago* |
+| [sous-chefs/certificate](https://github.com/sous-chefs/certificate/releases/tag/certificate-v3.0.0) | `certificate-v3.0.0` | *2 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.36) | `v0.3.36` | *2 days ago* |
+| [sous-chefs/xinetd](https://github.com/sous-chefs/xinetd/releases/tag/v3.0.0) | `v3.0.0` | *5 days ago* |
 | [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.4) | `v13.0.4` | *1 week ago* |
 
 ---
