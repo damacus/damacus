@@ -14,7 +14,7 @@
 
 | Repository | Description |
 |:-----------|:------------|
-| [**damacus/adr-manager**](https://github.com/damacus/adr-manager) | WebUI for manager ADRs |
+| [**damacus/adr-manager**](https://github.com/damacus/adr-manager) | WebUI for managing ADRs |
 | [**damacus/paperless-cli**](https://github.com/damacus/paperless-cli) | CLI for interacting with Paperless |
 | [**damacus/freeagent-cli**](https://github.com/damacus/freeagent-cli) | FreeAgent CLI |
 | [**damacus/trv-scheduler-appdaemon**](https://github.com/damacus/trv-scheduler-appdaemon) | AppDaemon backend for the TRV Heating Scheduler Card |
