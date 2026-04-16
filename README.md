@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/isc_kea](https://github.com/sous-chefs/isc_kea/releases/tag/v1.9.7) | `v1.9.7` | *today* |
-| [sous-chefs/samba](https://github.com/sous-chefs/samba/releases/tag/v2.0.15) | `v2.0.15` | *today* |
-| [sous-chefs/resolver](https://github.com/sous-chefs/resolver/releases/tag/v4.3.0) | `v4.3.0` | *1 day ago* |
-| [sous-chefs/certificate](https://github.com/sous-chefs/certificate/releases/tag/certificate-v3.0.0) | `certificate-v3.0.0` | *2 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.36) | `v0.3.36` | *2 days ago* |
+| [sous-chefs/grafana](https://github.com/sous-chefs/grafana/releases/tag/grafana-v10.9.0) | `grafana-v10.9.0` | *1 day ago* |
+| [sous-chefs/isc_kea](https://github.com/sous-chefs/isc_kea/releases/tag/v1.9.7) | `v1.9.7` | *1 day ago* |
+| [sous-chefs/samba](https://github.com/sous-chefs/samba/releases/tag/v2.0.15) | `v2.0.15` | *1 day ago* |
+| [sous-chefs/resolver](https://github.com/sous-chefs/resolver/releases/tag/v4.3.0) | `v4.3.0` | *2 days ago* |
+| [sous-chefs/certificate](https://github.com/sous-chefs/certificate/releases/tag/certificate-v3.0.0) | `certificate-v3.0.0` | *3 days ago* |
 
 ---
 
