@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/aws](https://github.com/sous-chefs/aws/releases/tag/v9.3.1) | `v9.3.1` | *1 day ago* |
-| [sous-chefs/grafana](https://github.com/sous-chefs/grafana/releases/tag/grafana-v10.9.0) | `grafana-v10.9.0` | *2 days ago* |
-| [sous-chefs/isc_kea](https://github.com/sous-chefs/isc_kea/releases/tag/v1.9.7) | `v1.9.7` | *2 days ago* |
-| [sous-chefs/samba](https://github.com/sous-chefs/samba/releases/tag/v2.0.15) | `v2.0.15` | *2 days ago* |
-| [sous-chefs/resolver](https://github.com/sous-chefs/resolver/releases/tag/v4.3.0) | `v4.3.0` | *3 days ago* |
+| [sous-chefs/aws](https://github.com/sous-chefs/aws/releases/tag/v9.3.1) | `v9.3.1` | *2 days ago* |
+| [sous-chefs/grafana](https://github.com/sous-chefs/grafana/releases/tag/grafana-v10.9.0) | `grafana-v10.9.0` | *3 days ago* |
+| [sous-chefs/isc_kea](https://github.com/sous-chefs/isc_kea/releases/tag/v1.9.7) | `v1.9.7` | *3 days ago* |
+| [sous-chefs/samba](https://github.com/sous-chefs/samba/releases/tag/v2.0.15) | `v2.0.15` | *3 days ago* |
+| [sous-chefs/resolver](https://github.com/sous-chefs/resolver/releases/tag/v4.3.0) | `v4.3.0` | *4 days ago* |
 
 ---
 
@@ -48,7 +48,7 @@
 
 ### 📄 Latest Blog Posts
 - [Prepping Nodes for Downloading Large Images and Reducing Downtime in Kubernetes](https://medium.com/@dan.m.webb/prepping-nodes-for-downloading-large-images-and-reducing-downtime-in-kubernetes-551ead53f0?source=rss-bbba9c670f6e------2) — *2 years ago*
-- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) — *2 years ago*
+- [Todays Helm Chart — NFD](https://medium.com/@dan.m.webb/todays-helm-chart-nfd-efe64f156edd?source=rss-bbba9c670f6e------2) — *3 years ago*
 - [Node Affinity Rules With Terraform](https://awstip.com/node-affinity-rules-with-terraform-a0766e0bb1da?source=rss-bbba9c670f6e------2) — *3 years ago*
 
 ---
