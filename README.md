@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/openssh](https://github.com/sous-chefs/openssh/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [sous-chefs/line](https://github.com/sous-chefs/line/releases/tag/v4.6.0) | `v4.6.0` | *today* |
-| [sous-chefs/aws](https://github.com/sous-chefs/aws/releases/tag/v9.3.1) | `v9.3.1` | *4 days ago* |
-| [sous-chefs/grafana](https://github.com/sous-chefs/grafana/releases/tag/grafana-v10.9.0) | `grafana-v10.9.0` | *5 days ago* |
-| [sous-chefs/isc_kea](https://github.com/sous-chefs/isc_kea/releases/tag/v1.9.7) | `v1.9.7` | *5 days ago* |
+| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.0) | `v7.0.0` | *today* |
+| [sous-chefs/ossec](https://github.com/sous-chefs/ossec/releases/tag/v3.0.0) | `v3.0.0` | *today* |
+| [sous-chefs/maven](https://github.com/sous-chefs/maven/releases/tag/v7.0.1) | `v7.0.1` | *today* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/6.0.0) | `6.0.0` | *today* |
+| [sous-chefs/ntp](https://github.com/sous-chefs/ntp/releases/tag/v7.0.1) | `v7.0.1` | *today* |
 
 ---
 
