@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.0) | `v7.0.0` | *today* |
-| [sous-chefs/ossec](https://github.com/sous-chefs/ossec/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [sous-chefs/maven](https://github.com/sous-chefs/maven/releases/tag/v7.0.1) | `v7.0.1` | *today* |
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/6.0.0) | `6.0.0` | *today* |
-| [sous-chefs/ntp](https://github.com/sous-chefs/ntp/releases/tag/v7.0.1) | `v7.0.1` | *today* |
+| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
+| [sous-chefs/ossec](https://github.com/sous-chefs/ossec/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
+| [sous-chefs/maven](https://github.com/sous-chefs/maven/releases/tag/v7.0.1) | `v7.0.1` | *1 day ago* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/6.0.0) | `6.0.0` | *1 day ago* |
+| [sous-chefs/ntp](https://github.com/sous-chefs/ntp/releases/tag/v7.0.1) | `v7.0.1` | *1 day ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *3 weeks ago* |
+| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *4 weeks ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *1 month ago* |
 | [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *1 month ago* |
 | [**julianfbeck/paperless-cli**](https://github.com/julianfbeck/paperless-cli) | 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ | *1 month ago* |
