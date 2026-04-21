@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/aws](https://github.com/sous-chefs/aws/releases/tag/v9.3.2) | `v9.3.2` | *today* |
 | [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
 | [sous-chefs/ossec](https://github.com/sous-chefs/ossec/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
 | [sous-chefs/maven](https://github.com/sous-chefs/maven/releases/tag/v7.0.1) | `v7.0.1` | *1 day ago* |
 | [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/6.0.0) | `6.0.0` | *1 day ago* |
-| [sous-chefs/ntp](https://github.com/sous-chefs/ntp/releases/tag/v7.0.1) | `v7.0.1` | *1 day ago* |
 
 ---
 
