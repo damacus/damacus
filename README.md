@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/dpkg_autostart](https://github.com/sous-chefs/dpkg_autostart/releases/tag/v1.0.0) | `v1.0.0` | *1 day ago* |
-| [sous-chefs/aws](https://github.com/sous-chefs/aws/releases/tag/v9.3.2) | `v9.3.2` | *1 day ago* |
-| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.0) | `v7.0.0` | *2 days ago* |
-| [sous-chefs/ossec](https://github.com/sous-chefs/ossec/releases/tag/v3.0.0) | `v3.0.0` | *2 days ago* |
-| [sous-chefs/maven](https://github.com/sous-chefs/maven/releases/tag/v7.0.1) | `v7.0.1` | *2 days ago* |
+| [sous-chefs/docker-engine](https://github.com/sous-chefs/docker-engine/releases/tag/v1.0.0) | `v1.0.0` | *today* |
+| [sous-chefs/dnsmasq](https://github.com/sous-chefs/dnsmasq/releases/tag/v2.0.0) | `v2.0.0` | *today* |
+| [sous-chefs/cpu](https://github.com/sous-chefs/cpu/releases/tag/v4.0.0) | `v4.0.0` | *today* |
+| [sous-chefs/deb_pkg_unautostart](https://github.com/sous-chefs/deb_pkg_unautostart/releases/tag/v3.0.0) | `v3.0.0` | *today* |
+| [sous-chefs/beyondcompare](https://github.com/sous-chefs/beyondcompare/releases/tag/beyondcompare-v3.0.0) | `beyondcompare-v3.0.0` | *today* |
 
 ---
 
