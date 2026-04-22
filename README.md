@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/drbd](https://github.com/sous-chefs/drbd/releases/tag/v3.0.17) | `v3.0.17` | *today* |
+| [sous-chefs/daemontools](https://github.com/sous-chefs/daemontools/releases/tag/v2.0.0) | `v2.0.0` | *today* |
+| [sous-chefs/elixir](https://github.com/sous-chefs/elixir/releases/tag/v4.0.0) | `v4.0.0` | *today* |
 | [sous-chefs/docker-engine](https://github.com/sous-chefs/docker-engine/releases/tag/v1.0.0) | `v1.0.0` | *today* |
 | [sous-chefs/dnsmasq](https://github.com/sous-chefs/dnsmasq/releases/tag/v2.0.0) | `v2.0.0` | *today* |
-| [sous-chefs/cpu](https://github.com/sous-chefs/cpu/releases/tag/v4.0.0) | `v4.0.0` | *today* |
-| [sous-chefs/deb_pkg_unautostart](https://github.com/sous-chefs/deb_pkg_unautostart/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [sous-chefs/beyondcompare](https://github.com/sous-chefs/beyondcompare/releases/tag/beyondcompare-v3.0.0) | `beyondcompare-v3.0.0` | *today* |
 
 ---
 
