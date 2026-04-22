@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/aws](https://github.com/sous-chefs/aws/releases/tag/v9.3.2) | `v9.3.2` | *today* |
-| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
-| [sous-chefs/ossec](https://github.com/sous-chefs/ossec/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
-| [sous-chefs/maven](https://github.com/sous-chefs/maven/releases/tag/v7.0.1) | `v7.0.1` | *1 day ago* |
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/6.0.0) | `6.0.0` | *1 day ago* |
+| [sous-chefs/dpkg_autostart](https://github.com/sous-chefs/dpkg_autostart/releases/tag/v1.0.0) | `v1.0.0` | *1 day ago* |
+| [sous-chefs/aws](https://github.com/sous-chefs/aws/releases/tag/v9.3.2) | `v9.3.2` | *1 day ago* |
+| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.0) | `v7.0.0` | *2 days ago* |
+| [sous-chefs/ossec](https://github.com/sous-chefs/ossec/releases/tag/v3.0.0) | `v3.0.0` | *2 days ago* |
+| [sous-chefs/maven](https://github.com/sous-chefs/maven/releases/tag/v7.0.1) | `v7.0.1` | *2 days ago* |
 
 ---
 
