@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/drbd](https://github.com/sous-chefs/drbd/releases/tag/v3.0.17) | `v3.0.17` | *today* |
-| [sous-chefs/daemontools](https://github.com/sous-chefs/daemontools/releases/tag/v2.0.0) | `v2.0.0` | *today* |
-| [sous-chefs/elixir](https://github.com/sous-chefs/elixir/releases/tag/v4.0.0) | `v4.0.0` | *today* |
-| [sous-chefs/docker-engine](https://github.com/sous-chefs/docker-engine/releases/tag/v1.0.0) | `v1.0.0` | *today* |
-| [sous-chefs/dnsmasq](https://github.com/sous-chefs/dnsmasq/releases/tag/v2.0.0) | `v2.0.0` | *today* |
+| [sous-chefs/drbd](https://github.com/sous-chefs/drbd/releases/tag/v3.0.17) | `v3.0.17` | *1 day ago* |
+| [sous-chefs/daemontools](https://github.com/sous-chefs/daemontools/releases/tag/v2.0.0) | `v2.0.0` | *1 day ago* |
+| [sous-chefs/elixir](https://github.com/sous-chefs/elixir/releases/tag/v4.0.0) | `v4.0.0` | *1 day ago* |
+| [sous-chefs/docker-engine](https://github.com/sous-chefs/docker-engine/releases/tag/v1.0.0) | `v1.0.0` | *1 day ago* |
+| [sous-chefs/dnsmasq](https://github.com/sous-chefs/dnsmasq/releases/tag/v2.0.0) | `v2.0.0` | *1 day ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *4 weeks ago* |
+| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 month ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *1 month ago* |
 | [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *1 month ago* |
 | [**julianfbeck/paperless-cli**](https://github.com/julianfbeck/paperless-cli) | 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ | *1 month ago* |
