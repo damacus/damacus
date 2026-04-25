@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.10) | `v0.1.10` | *1 day ago* |
-| [sous-chefs/drbd](https://github.com/sous-chefs/drbd/releases/tag/v3.0.17) | `v3.0.17` | *2 days ago* |
-| [sous-chefs/daemontools](https://github.com/sous-chefs/daemontools/releases/tag/v2.0.0) | `v2.0.0` | *2 days ago* |
-| [sous-chefs/elixir](https://github.com/sous-chefs/elixir/releases/tag/v4.0.0) | `v4.0.0` | *2 days ago* |
-| [sous-chefs/docker-engine](https://github.com/sous-chefs/docker-engine/releases/tag/v1.0.0) | `v1.0.0` | *2 days ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.10) | `v0.1.10` | *2 days ago* |
+| [sous-chefs/drbd](https://github.com/sous-chefs/drbd/releases/tag/v3.0.17) | `v3.0.17` | *3 days ago* |
+| [sous-chefs/daemontools](https://github.com/sous-chefs/daemontools/releases/tag/v2.0.0) | `v2.0.0` | *3 days ago* |
+| [sous-chefs/elixir](https://github.com/sous-chefs/elixir/releases/tag/v4.0.0) | `v4.0.0` | *3 days ago* |
+| [sous-chefs/docker-engine](https://github.com/sous-chefs/docker-engine/releases/tag/v1.0.0) | `v1.0.0` | *3 days ago* |
 
 ---
 
