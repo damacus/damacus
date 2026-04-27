@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.38) | `v0.3.38` | *1 day ago* |
-| [sous-chefs/filesystem](https://github.com/sous-chefs/filesystem/releases/tag/v6.0.0) | `v6.0.0` | *1 day ago* |
-| [sous-chefs/firefox](https://github.com/sous-chefs/firefox/releases/tag/v6.1.15) | `v6.1.15` | *2 days ago* |
-| [sous-chefs/fail2ban](https://github.com/sous-chefs/fail2ban/releases/tag/v8.0.0) | `v8.0.0` | *2 days ago* |
-| [sous-chefs/erlang](https://github.com/sous-chefs/erlang/releases/tag/v9.0.0) | `v9.0.0` | *2 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.39) | `v0.3.39` | *today* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.0) | `v0.5.0` | *today* |
+| [sous-chefs/emacs](https://github.com/sous-chefs/emacs/releases/tag/v1.0.0) | `v1.0.0` | *today* |
+| [sous-chefs/firefox](https://github.com/sous-chefs/firefox/releases/tag/v8.0.0) | `v8.0.0` | *today* |
+| [sous-chefs/drbd](https://github.com/sous-chefs/drbd/releases/tag/v5.0.0) | `v5.0.0` | *today* |
 
 ---
 
