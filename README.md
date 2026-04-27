@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/firefox](https://github.com/sous-chefs/firefox/releases/tag/v6.1.15) | `v6.1.15` | *1 day ago* |
-| [sous-chefs/filesystem](https://github.com/sous-chefs/filesystem/releases/tag/v4.2.5) | `v4.2.5` | *1 day ago* |
-| [sous-chefs/fail2ban](https://github.com/sous-chefs/fail2ban/releases/tag/v8.0.0) | `v8.0.0` | *1 day ago* |
-| [sous-chefs/erlang](https://github.com/sous-chefs/erlang/releases/tag/v9.0.0) | `v9.0.0` | *1 day ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.10) | `v0.1.10` | *3 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.38) | `v0.3.38` | *1 day ago* |
+| [sous-chefs/filesystem](https://github.com/sous-chefs/filesystem/releases/tag/v6.0.0) | `v6.0.0` | *1 day ago* |
+| [sous-chefs/firefox](https://github.com/sous-chefs/firefox/releases/tag/v6.1.15) | `v6.1.15` | *2 days ago* |
+| [sous-chefs/fail2ban](https://github.com/sous-chefs/fail2ban/releases/tag/v8.0.0) | `v8.0.0` | *2 days ago* |
+| [sous-chefs/erlang](https://github.com/sous-chefs/erlang/releases/tag/v9.0.0) | `v9.0.0` | *2 days ago* |
 
 ---
 
