@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.4) | `v0.1.4` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.39) | `v0.3.39` | *today* |
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.0) | `v0.5.0` | *today* |
-| [sous-chefs/emacs](https://github.com/sous-chefs/emacs/releases/tag/v1.0.0) | `v1.0.0` | *today* |
-| [sous-chefs/firefox](https://github.com/sous-chefs/firefox/releases/tag/v8.0.0) | `v8.0.0` | *today* |
+| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.6) | `v0.1.6` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.39) | `v0.3.39` | *1 day ago* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.0) | `v0.5.0` | *1 day ago* |
+| [sous-chefs/emacs](https://github.com/sous-chefs/emacs/releases/tag/v1.0.0) | `v1.0.0` | *1 day ago* |
+| [sous-chefs/firefox](https://github.com/sous-chefs/firefox/releases/tag/v8.0.0) | `v8.0.0` | *1 day ago* |
 
 ---
 
