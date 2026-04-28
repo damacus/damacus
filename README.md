@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/jenkins](https://github.com/sous-chefs/jenkins/releases/tag/v11.0.0) | `v11.0.0` | *today* |
+| [sous-chefs/jenkins](https://github.com/sous-chefs/jenkins/releases/tag/v11.0.1) | `v11.0.1` | *today* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.8) | `unifi-release-announcer-v0.2.8` | *today* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.40) | `v0.3.40` | *today* |
 | [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.6) | `v0.1.6` | *1 day ago* |
