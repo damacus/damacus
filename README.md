@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.42) | `v0.3.42` | *today* |
+| [sous-chefs/mcelog](https://github.com/sous-chefs/mcelog/releases/tag/v3.0.0) | `v3.0.0` | *today* |
 | [test-kitchen/kitchen-ec2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.22.3) | `v3.22.3` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.41) | `v0.3.41` | *1 day ago* |
 | [sous-chefs/jenkins](https://github.com/sous-chefs/jenkins/releases/tag/v11.0.1) | `v11.0.1` | *1 day ago* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.8) | `unifi-release-announcer-v0.2.8` | *1 day ago* |
-| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.6) | `v0.1.6` | *2 days ago* |
 
 ---
 
