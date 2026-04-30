@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.44) | `v0.3.44` | *1 day ago* |
-| [sous-chefs/mcelog](https://github.com/sous-chefs/mcelog/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
-| [test-kitchen/kitchen-ec2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.22.3) | `v3.22.3` | *2 days ago* |
-| [sous-chefs/jenkins](https://github.com/sous-chefs/jenkins/releases/tag/v11.0.1) | `v11.0.1` | *2 days ago* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.8) | `unifi-release-announcer-v0.2.8` | *2 days ago* |
+| [sous-chefs/sc-mongodb](https://github.com/sous-chefs/sc-mongodb/releases/tag/v6.0.0) | `v6.0.0` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.46) | `v0.3.46` | *today* |
+| [sous-chefs/nexus](https://github.com/sous-chefs/nexus/releases/tag/v5.0.0) | `v5.0.0` | *today* |
+| [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.0) | `v7.0.0` | *today* |
+| [sous-chefs/fastly](https://github.com/sous-chefs/fastly/releases/tag/v0.6.17) | `v0.6.17` | *today* |
 
 ---
 
