@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.1) | `v7.0.1` | *today* |
+| [sous-chefs/nfs](https://github.com/sous-chefs/nfs/releases/tag/v6.0.0) | `v6.0.0` | *today* |
+| [sous-chefs/grafana](https://github.com/sous-chefs/grafana/releases/tag/grafana-v11.0.0) | `grafana-v11.0.0` | *today* |
+| [sous-chefs/fastly](https://github.com/sous-chefs/fastly/releases/tag/v2.0.0) | `v2.0.0` | *today* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.47) | `v0.3.47` | *1 day ago* |
-| [sous-chefs/sc-mongodb](https://github.com/sous-chefs/sc-mongodb/releases/tag/v6.0.0) | `v6.0.0` | *1 day ago* |
-| [sous-chefs/nexus](https://github.com/sous-chefs/nexus/releases/tag/v5.0.0) | `v5.0.0` | *1 day ago* |
-| [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
-| [sous-chefs/fastly](https://github.com/sous-chefs/fastly/releases/tag/v0.6.17) | `v0.6.17` | *1 day ago* |
 
 ---
 
