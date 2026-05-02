@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.1) | `v7.0.1` | *today* |
-| [sous-chefs/nfs](https://github.com/sous-chefs/nfs/releases/tag/v6.0.0) | `v6.0.0` | *today* |
-| [sous-chefs/grafana](https://github.com/sous-chefs/grafana/releases/tag/grafana-v11.0.0) | `grafana-v11.0.0` | *today* |
-| [sous-chefs/fastly](https://github.com/sous-chefs/fastly/releases/tag/v2.0.0) | `v2.0.0` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.47) | `v0.3.47` | *1 day ago* |
+| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.1) | `v7.0.1` | *1 day ago* |
+| [sous-chefs/nfs](https://github.com/sous-chefs/nfs/releases/tag/v6.0.0) | `v6.0.0` | *1 day ago* |
+| [sous-chefs/grafana](https://github.com/sous-chefs/grafana/releases/tag/grafana-v11.0.0) | `grafana-v11.0.0` | *1 day ago* |
+| [sous-chefs/fastly](https://github.com/sous-chefs/fastly/releases/tag/v2.0.0) | `v2.0.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.47) | `v0.3.47` | *2 days ago* |
 
 ---
 
@@ -42,7 +42,7 @@
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *1 month ago* |
 | [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *1 month ago* |
 | [**julianfbeck/paperless-cli**](https://github.com/julianfbeck/paperless-cli) | 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ | *1 month ago* |
-| [**el-feo/ai-context**](https://github.com/el-feo/ai-context) | A collection of Claude Code plugins. | *2 months ago* |
+| [**el-feo/ai-context**](https://github.com/el-feo/ai-context) | A collection of Claude Code plugins. | *3 months ago* |
 
 ---
 
