@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.1) | `v7.0.1` | *3 days ago* |
-| [sous-chefs/nfs](https://github.com/sous-chefs/nfs/releases/tag/v6.0.0) | `v6.0.0` | *3 days ago* |
-| [sous-chefs/grafana](https://github.com/sous-chefs/grafana/releases/tag/grafana-v11.0.0) | `grafana-v11.0.0` | *3 days ago* |
-| [sous-chefs/fastly](https://github.com/sous-chefs/fastly/releases/tag/v2.0.0) | `v2.0.0` | *3 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.47) | `v0.3.47` | *4 days ago* |
+| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.1) | `v7.0.1` | *4 days ago* |
+| [sous-chefs/nfs](https://github.com/sous-chefs/nfs/releases/tag/v6.0.0) | `v6.0.0` | *4 days ago* |
+| [sous-chefs/grafana](https://github.com/sous-chefs/grafana/releases/tag/grafana-v11.0.0) | `grafana-v11.0.0` | *4 days ago* |
+| [sous-chefs/fastly](https://github.com/sous-chefs/fastly/releases/tag/v2.0.0) | `v2.0.0` | *4 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.47) | `v0.3.47` | *5 days ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *2 days ago* |
+| [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *3 days ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 month ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *1 month ago* |
 | [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *1 month ago* |
