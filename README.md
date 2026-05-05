@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/yum-mysql-community](https://github.com/sous-chefs/yum-mysql-community/releases/tag/v6.0.0) | `v6.0.0` | *today* |
+| [sous-chefs/yum-almalinux](https://github.com/sous-chefs/yum-almalinux/releases/tag/v3.0.0) | `v3.0.0` | *today* |
+| [sous-chefs/yum](https://github.com/sous-chefs/yum/releases/tag/v8.0.0) | `v8.0.0` | *today* |
 | [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.0) | `v9.1.0` | *today* |
 | [sous-chefs/yum-percona](https://github.com/sous-chefs/yum-percona/releases/tag/v4.0.0) | `v4.0.0` | *today* |
-| [sous-chefs/yum-fedora](https://github.com/sous-chefs/yum-fedora/releases/tag/v4.0.0) | `v4.0.0` | *today* |
-| [sous-chefs/yum-erlang_solutions](https://github.com/sous-chefs/yum-erlang_solutions/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [sous-chefs/yum-amazon](https://github.com/sous-chefs/yum-amazon/releases/tag/v5.0.0) | `v5.0.0` | *today* |
 
 ---
 
