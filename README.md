@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/powershell](https://github.com/sous-chefs/powershell/releases/tag/v7.0.1) | `v7.0.1` | *4 days ago* |
-| [sous-chefs/nfs](https://github.com/sous-chefs/nfs/releases/tag/v6.0.0) | `v6.0.0` | *4 days ago* |
-| [sous-chefs/grafana](https://github.com/sous-chefs/grafana/releases/tag/grafana-v11.0.0) | `grafana-v11.0.0` | *4 days ago* |
-| [sous-chefs/fastly](https://github.com/sous-chefs/fastly/releases/tag/v2.0.0) | `v2.0.0` | *4 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.47) | `v0.3.47` | *5 days ago* |
+| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.0) | `v9.1.0` | *today* |
+| [sous-chefs/yum-percona](https://github.com/sous-chefs/yum-percona/releases/tag/v4.0.0) | `v4.0.0` | *today* |
+| [sous-chefs/yum-fedora](https://github.com/sous-chefs/yum-fedora/releases/tag/v4.0.0) | `v4.0.0` | *today* |
+| [sous-chefs/yum-erlang_solutions](https://github.com/sous-chefs/yum-erlang_solutions/releases/tag/v3.0.0) | `v3.0.0` | *today* |
+| [sous-chefs/yum-amazon](https://github.com/sous-chefs/yum-amazon/releases/tag/v5.0.0) | `v5.0.0` | *today* |
 
 ---
 
