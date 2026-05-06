@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/yum-mysql-community](https://github.com/sous-chefs/yum-mysql-community/releases/tag/v6.0.0) | `v6.0.0` | *today* |
-| [sous-chefs/yum-almalinux](https://github.com/sous-chefs/yum-almalinux/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [sous-chefs/yum](https://github.com/sous-chefs/yum/releases/tag/v8.0.0) | `v8.0.0` | *today* |
-| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.0) | `v9.1.0` | *today* |
-| [sous-chefs/yum-percona](https://github.com/sous-chefs/yum-percona/releases/tag/v4.0.0) | `v4.0.0` | *today* |
+| [sous-chefs/yum-mysql-community](https://github.com/sous-chefs/yum-mysql-community/releases/tag/v6.0.0) | `v6.0.0` | *1 day ago* |
+| [sous-chefs/yum-almalinux](https://github.com/sous-chefs/yum-almalinux/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
+| [sous-chefs/yum](https://github.com/sous-chefs/yum/releases/tag/v8.0.0) | `v8.0.0` | *1 day ago* |
+| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.0) | `v9.1.0` | *1 day ago* |
+| [sous-chefs/yum-percona](https://github.com/sous-chefs/yum-percona/releases/tag/v4.0.0) | `v4.0.0` | *1 day ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *3 days ago* |
+| [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *4 days ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 month ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *1 month ago* |
 | [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *1 month ago* |
