@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/yum-mysql-community](https://github.com/sous-chefs/yum-mysql-community/releases/tag/v6.0.0) | `v6.0.0` | *1 day ago* |
-| [sous-chefs/yum-almalinux](https://github.com/sous-chefs/yum-almalinux/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
-| [sous-chefs/yum](https://github.com/sous-chefs/yum/releases/tag/v8.0.0) | `v8.0.0` | *1 day ago* |
-| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.0) | `v9.1.0` | *1 day ago* |
-| [sous-chefs/yum-percona](https://github.com/sous-chefs/yum-percona/releases/tag/v4.0.0) | `v4.0.0` | *1 day ago* |
+| [sous-chefs/nscd](https://github.com/sous-chefs/nscd/releases/tag/v7.0.0) | `v7.0.0` | *today* |
+| [sous-chefs/memcached](https://github.com/sous-chefs/memcached/releases/tag/v8.0.0) | `v8.0.0` | *today* |
+| [sous-chefs/tftp](https://github.com/sous-chefs/tftp/releases/tag/v5.0.0) | `v5.0.0` | *today* |
+| [sous-chefs/rsync](https://github.com/sous-chefs/rsync/releases/tag/v5.0.0) | `v5.0.0` | *today* |
+| [sous-chefs/foreman](https://github.com/sous-chefs/foreman/releases/tag/v0.1.13) | `v0.1.13` | *today* |
 
 ---
 
