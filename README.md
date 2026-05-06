@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/ironbuckets](https://github.com/damacus/ironbuckets/releases/tag/v1.4.2) | `v1.4.2` | *today* |
+| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.10) | `unifi-release-announcer-v0.2.10` | *today* |
 | [sous-chefs/nscd](https://github.com/sous-chefs/nscd/releases/tag/v7.0.0) | `v7.0.0` | *today* |
 | [sous-chefs/memcached](https://github.com/sous-chefs/memcached/releases/tag/v8.0.0) | `v8.0.0` | *today* |
 | [sous-chefs/tftp](https://github.com/sous-chefs/tftp/releases/tag/v5.0.0) | `v5.0.0` | *today* |
-| [sous-chefs/rsync](https://github.com/sous-chefs/rsync/releases/tag/v5.0.0) | `v5.0.0` | *today* |
-| [sous-chefs/foreman](https://github.com/sous-chefs/foreman/releases/tag/v0.1.13) | `v0.1.13` | *today* |
 
 ---
 
