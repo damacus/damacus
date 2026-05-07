@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/smartmontools](https://github.com/sous-chefs/smartmontools/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [sous-chefs/locales](https://github.com/sous-chefs/locales/releases/tag/v2.0.0) | `v2.0.0` | *today* |
-| [sous-chefs/htpasswd](https://github.com/sous-chefs/htpasswd/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [sous-chefs/transmission](https://github.com/sous-chefs/transmission/releases/tag/v7.0.0) | `v7.0.0` | *today* |
-| [sous-chefs/tomcat](https://github.com/sous-chefs/tomcat/releases/tag/v6.0.0) | `v6.0.0` | *today* |
+| [sous-chefs/git](https://github.com/sous-chefs/git/releases/tag/v13.0.0) | `v13.0.0` | *today* |
+| [sous-chefs/graphite](https://github.com/sous-chefs/graphite/releases/tag/v3.0.0) | `v3.0.0` | *today* |
+| [sous-chefs/varnish](https://github.com/sous-chefs/varnish/releases/tag/v6.0.0) | `v6.0.0` | *today* |
+| [sous-chefs/nrpe](https://github.com/sous-chefs/nrpe/releases/tag/v5.0.0) | `v5.0.0` | *today* |
+| [sous-chefs/squid](https://github.com/sous-chefs/squid/releases/tag/v6.0.0) | `v6.0.0` | *today* |
 
 ---
 
