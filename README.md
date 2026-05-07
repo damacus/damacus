@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.49) | `v0.3.49` | *1 day ago* |
-| [damacus/ironbuckets](https://github.com/damacus/ironbuckets/releases/tag/v1.4.3) | `v1.4.3` | *1 day ago* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.10) | `unifi-release-announcer-v0.2.10` | *1 day ago* |
-| [sous-chefs/nscd](https://github.com/sous-chefs/nscd/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
-| [sous-chefs/memcached](https://github.com/sous-chefs/memcached/releases/tag/v8.0.0) | `v8.0.0` | *1 day ago* |
+| [sous-chefs/smartmontools](https://github.com/sous-chefs/smartmontools/releases/tag/v3.0.0) | `v3.0.0` | *today* |
+| [sous-chefs/locales](https://github.com/sous-chefs/locales/releases/tag/v2.0.0) | `v2.0.0` | *today* |
+| [sous-chefs/htpasswd](https://github.com/sous-chefs/htpasswd/releases/tag/v3.0.0) | `v3.0.0` | *today* |
+| [sous-chefs/transmission](https://github.com/sous-chefs/transmission/releases/tag/v7.0.0) | `v7.0.0` | *today* |
+| [sous-chefs/tomcat](https://github.com/sous-chefs/tomcat/releases/tag/v6.0.0) | `v6.0.0` | *today* |
 
 ---
 
