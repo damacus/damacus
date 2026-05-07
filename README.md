@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/ironbuckets](https://github.com/damacus/ironbuckets/releases/tag/v1.4.2) | `v1.4.2` | *today* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.10) | `unifi-release-announcer-v0.2.10` | *today* |
-| [sous-chefs/nscd](https://github.com/sous-chefs/nscd/releases/tag/v7.0.0) | `v7.0.0` | *today* |
-| [sous-chefs/memcached](https://github.com/sous-chefs/memcached/releases/tag/v8.0.0) | `v8.0.0` | *today* |
-| [sous-chefs/tftp](https://github.com/sous-chefs/tftp/releases/tag/v5.0.0) | `v5.0.0` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.49) | `v0.3.49` | *1 day ago* |
+| [damacus/ironbuckets](https://github.com/damacus/ironbuckets/releases/tag/v1.4.3) | `v1.4.3` | *1 day ago* |
+| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.10) | `unifi-release-announcer-v0.2.10` | *1 day ago* |
+| [sous-chefs/nscd](https://github.com/sous-chefs/nscd/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
+| [sous-chefs/memcached](https://github.com/sous-chefs/memcached/releases/tag/v8.0.0) | `v8.0.0` | *1 day ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *4 days ago* |
+| [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *5 days ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 month ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *1 month ago* |
 | [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *1 month ago* |
