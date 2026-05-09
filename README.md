@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.0-beta.1) | `v2.4.0-beta.1` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.50) | `v0.3.50` | *today* |
 | [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.1) | `v0.5.1` | *1 day ago* |
 | [sous-chefs/cron](https://github.com/sous-chefs/cron/releases/tag/v8.0.0) | `v8.0.0` | *1 day ago* |
 | [sous-chefs/git](https://github.com/sous-chefs/git/releases/tag/v13.0.0) | `v13.0.0` | *2 days ago* |
-| [sous-chefs/graphite](https://github.com/sous-chefs/graphite/releases/tag/v3.0.0) | `v3.0.0` | *2 days ago* |
-| [sous-chefs/varnish](https://github.com/sous-chefs/varnish/releases/tag/v6.0.0) | `v6.0.0` | *2 days ago* |
 
 ---
 
