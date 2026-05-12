@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/trusted_certificate](https://github.com/sous-chefs/trusted_certificate/releases/tag/v5.0.0) | `v5.0.0` | *today* |
+| [sous-chefs/motd-tail](https://github.com/sous-chefs/motd-tail/releases/tag/v7.0.0) | `v7.0.0` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.56) | `v0.3.56` | *today* |
 | [sous-chefs/atlantis](https://github.com/sous-chefs/atlantis/releases/tag/v4.0.0) | `v4.0.0` | *today* |
 | [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.7) | `v0.1.7` | *today* |
-| [sous-chefs/drbd](https://github.com/sous-chefs/drbd/releases/tag/v6.0.0) | `v6.0.0` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.55) | `v0.3.55` | *today* |
-| [sous-chefs/packagecloud](https://github.com/sous-chefs/packagecloud/releases/tag/v3.0.0) | `v3.0.0` | *today* |
 
 ---
 
