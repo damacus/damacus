@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.53) | `v0.3.53` | *1 day ago* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.0-beta.1) | `v2.4.0-beta.1` | *3 days ago* |
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.1) | `v0.5.1` | *4 days ago* |
-| [sous-chefs/cron](https://github.com/sous-chefs/cron/releases/tag/v8.0.0) | `v8.0.0` | *4 days ago* |
-| [sous-chefs/git](https://github.com/sous-chefs/git/releases/tag/v13.0.0) | `v13.0.0` | *5 days ago* |
+| [sous-chefs/atlantis](https://github.com/sous-chefs/atlantis/releases/tag/v4.0.0) | `v4.0.0` | *today* |
+| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.7) | `v0.1.7` | *today* |
+| [sous-chefs/drbd](https://github.com/sous-chefs/drbd/releases/tag/v6.0.0) | `v6.0.0` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.55) | `v0.3.55` | *today* |
+| [sous-chefs/packagecloud](https://github.com/sous-chefs/packagecloud/releases/tag/v3.0.0) | `v3.0.0` | *today* |
 
 ---
 
