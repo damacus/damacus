@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.52) | `v0.3.52` | *today* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.0-beta.1) | `v2.4.0-beta.1` | *2 days ago* |
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.1) | `v0.5.1` | *3 days ago* |
-| [sous-chefs/cron](https://github.com/sous-chefs/cron/releases/tag/v8.0.0) | `v8.0.0` | *3 days ago* |
-| [sous-chefs/git](https://github.com/sous-chefs/git/releases/tag/v13.0.0) | `v13.0.0` | *4 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.53) | `v0.3.53` | *1 day ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.0-beta.1) | `v2.4.0-beta.1` | *3 days ago* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.1) | `v0.5.1` | *4 days ago* |
+| [sous-chefs/cron](https://github.com/sous-chefs/cron/releases/tag/v8.0.0) | `v8.0.0` | *4 days ago* |
+| [sous-chefs/git](https://github.com/sous-chefs/git/releases/tag/v13.0.0) | `v13.0.0` | *5 days ago* |
 
 ---
 
