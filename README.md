@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/trusted_certificate](https://github.com/sous-chefs/trusted_certificate/releases/tag/v5.0.0) | `v5.0.0` | *today* |
-| [sous-chefs/motd-tail](https://github.com/sous-chefs/motd-tail/releases/tag/v7.0.0) | `v7.0.0` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.56) | `v0.3.56` | *today* |
-| [sous-chefs/atlantis](https://github.com/sous-chefs/atlantis/releases/tag/v4.0.0) | `v4.0.0` | *today* |
-| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.7) | `v0.1.7` | *today* |
+| [sous-chefs/percona](https://github.com/sous-chefs/percona/releases/tag/v5.0.0) | `v5.0.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.57) | `v0.3.57` | *1 day ago* |
+| [sous-chefs/trusted_certificate](https://github.com/sous-chefs/trusted_certificate/releases/tag/v5.0.0) | `v5.0.0` | *1 day ago* |
+| [sous-chefs/motd-tail](https://github.com/sous-chefs/motd-tail/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
+| [sous-chefs/atlantis](https://github.com/sous-chefs/atlantis/releases/tag/v4.0.0) | `v4.0.0` | *1 day ago* |
 
 ---
 
@@ -40,7 +40,7 @@
 |:-----------|:------------|--------:|
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *1 week ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 month ago* |
-| [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *1 month ago* |
+| [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *2 months ago* |
 | [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *2 months ago* |
 | [**julianfbeck/paperless-cli**](https://github.com/julianfbeck/paperless-cli) | 📄 AI Agent-ready CLI for Paperless-ngx document management 🧠✨ | *2 months ago* |
 
