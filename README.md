@@ -14,11 +14,11 @@
 
 | Repository | Description |
 |:-----------|:------------|
+| [**damacus/mealie-cli**](https://github.com/damacus/mealie-cli) | A command line interface for Mealie |
 | [**damacus/adr-manager**](https://github.com/damacus/adr-manager) | WebUI for managing ADRs |
 | [**damacus/paperless-cli**](https://github.com/damacus/paperless-cli) | CLI for interacting with Paperless |
 | [**damacus/freeagent-cli**](https://github.com/damacus/freeagent-cli) | FreeAgent CLI |
 | [**damacus/trv-scheduler-appdaemon**](https://github.com/damacus/trv-scheduler-appdaemon) | AppDaemon backend for the TRV Heating Scheduler Card |
-| [**damacus/mcp-paperless-ngx**](https://github.com/damacus/mcp-paperless-ngx) | *—* |
 
 ---
 
@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/golang](https://github.com/sous-chefs/golang/releases/tag/v6.0.0) | `v6.0.0` | *today* |
+| [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.1) | `v0.1.1` | *today* |
 | [sous-chefs/percona](https://github.com/sous-chefs/percona/releases/tag/v5.0.0) | `v5.0.0` | *1 day ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.57) | `v0.3.57` | *1 day ago* |
 | [sous-chefs/trusted_certificate](https://github.com/sous-chefs/trusted_certificate/releases/tag/v5.0.0) | `v5.0.0` | *1 day ago* |
-| [sous-chefs/motd-tail](https://github.com/sous-chefs/motd-tail/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
-| [sous-chefs/atlantis](https://github.com/sous-chefs/atlantis/releases/tag/v4.0.0) | `v4.0.0` | *1 day ago* |
 
 ---
 
