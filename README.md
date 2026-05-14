@@ -26,8 +26,8 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.59) | `v0.3.59` | *today* |
 | [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.0) | `v2.1.0` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.58) | `v0.3.58` | *1 day ago* |
 | [sous-chefs/network_interfaces](https://github.com/sous-chefs/network_interfaces/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
 | [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.2) | `v0.1.2` | *1 day ago* |
 | [sous-chefs/golang](https://github.com/sous-chefs/golang/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
