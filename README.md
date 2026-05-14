@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/network_interfaces](https://github.com/sous-chefs/network_interfaces/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.2) | `v0.1.2` | *today* |
-| [sous-chefs/golang](https://github.com/sous-chefs/golang/releases/tag/v7.0.0) | `v7.0.0` | *today* |
-| [sous-chefs/perl](https://github.com/sous-chefs/perl/releases/tag/v9.0.0) | `v9.0.0` | *today* |
-| [sous-chefs/sssd_ldap](https://github.com/sous-chefs/sssd_ldap/releases/tag/v6.0.0) | `v6.0.0` | *today* |
+| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.0) | `v2.1.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.58) | `v0.3.58` | *1 day ago* |
+| [sous-chefs/network_interfaces](https://github.com/sous-chefs/network_interfaces/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
+| [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.2) | `v0.1.2` | *1 day ago* |
+| [sous-chefs/golang](https://github.com/sous-chefs/golang/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
 
 ---
 
