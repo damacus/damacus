@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.60) | `v0.3.60` | *today* |
 | [sous-chefs/yum-almalinux](https://github.com/sous-chefs/yum-almalinux/releases/tag/v3.1.0) | `v3.1.0` | *today* |
 | [actionshub/chef-install](https://github.com/actionshub/chef-install/releases/tag/6.0.0) | `6.0.0` | *1 day ago* |
 | [sous-chefs/users](https://github.com/sous-chefs/users/releases/tag/v9.0.0) | `v9.0.0` | *1 day ago* |
 | [sous-chefs/openldap](https://github.com/sous-chefs/openldap/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.59) | `v0.3.59` | *1 day ago* |
 
 ---
 
