@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.60) | `v0.3.60` | *1 day ago* |
-| [sous-chefs/yum-almalinux](https://github.com/sous-chefs/yum-almalinux/releases/tag/v3.1.0) | `v3.1.0` | *1 day ago* |
-| [actionshub/chef-install](https://github.com/actionshub/chef-install/releases/tag/6.0.0) | `6.0.0` | *2 days ago* |
-| [sous-chefs/users](https://github.com/sous-chefs/users/releases/tag/v9.0.0) | `v9.0.0` | *2 days ago* |
-| [sous-chefs/openldap](https://github.com/sous-chefs/openldap/releases/tag/v7.0.0) | `v7.0.0` | *2 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.60) | `v0.3.60` | *2 days ago* |
+| [sous-chefs/yum-almalinux](https://github.com/sous-chefs/yum-almalinux/releases/tag/v3.1.0) | `v3.1.0` | *2 days ago* |
+| [actionshub/chef-install](https://github.com/actionshub/chef-install/releases/tag/6.0.0) | `6.0.0` | *3 days ago* |
+| [sous-chefs/users](https://github.com/sous-chefs/users/releases/tag/v9.0.0) | `v9.0.0` | *3 days ago* |
+| [sous-chefs/openldap](https://github.com/sous-chefs/openldap/releases/tag/v7.0.0) | `v7.0.0` | *3 days ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *2 days ago* |
+| [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *3 days ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *2 weeks ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 month ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *2 months ago* |
