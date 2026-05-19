@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/npm_lazy](https://github.com/sous-chefs/npm_lazy/releases/tag/v4.0.0) | `v4.0.0` | *today* |
 | [sous-chefs/rvm](https://github.com/sous-chefs/rvm/releases/tag/v3.0.0) | `v3.0.0` | *today* |
 | [damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.2) | `v3.0.2` | *2 days ago* |
 | [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.1-beta.1) | `v2.4.1-beta.1` | *2 days ago* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.11) | `unifi-release-announcer-v0.2.11` | *2 days ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.12) | `v0.1.12` | *2 days ago* |
 
 ---
 
@@ -38,11 +38,11 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
+| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | *—* | *today* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *5 days ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *2 weeks ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 month ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *2 months ago* |
-| [**amogower/freeagent-cli**](https://github.com/amogower/freeagent-cli) | *—* | *2 months ago* |
 
 ---
 
