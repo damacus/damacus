@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/rvm](https://github.com/sous-chefs/rvm/releases/tag/v3.0.0) | `v3.0.0` | *today* |
 | [damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.2) | `v3.0.2` | *2 days ago* |
 | [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.1-beta.1) | `v2.4.1-beta.1` | *2 days ago* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.11) | `unifi-release-announcer-v0.2.11` | *2 days ago* |
 | [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.12) | `v0.1.12` | *2 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.60) | `v0.3.60` | *4 days ago* |
 
 ---
 
