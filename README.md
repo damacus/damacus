@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/npm_lazy](https://github.com/sous-chefs/npm_lazy/releases/tag/v4.0.0) | `v4.0.0` | *today* |
-| [sous-chefs/rvm](https://github.com/sous-chefs/rvm/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.2) | `v3.0.2` | *2 days ago* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.1-beta.1) | `v2.4.1-beta.1` | *2 days ago* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.11) | `unifi-release-announcer-v0.2.11` | *2 days ago* |
+| [sous-chefs/reprepro](https://github.com/sous-chefs/reprepro/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
+| [sous-chefs/influxdb](https://github.com/sous-chefs/influxdb/releases/tag/v1.0.0) | `v1.0.0` | *1 day ago* |
+| [sous-chefs/zabbix-agent](https://github.com/sous-chefs/zabbix-agent/releases/tag/v1.0.0) | `v1.0.0` | *1 day ago* |
+| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.0) | `v2.23.0` | *1 day ago* |
+| [sous-chefs/npm_lazy](https://github.com/sous-chefs/npm_lazy/releases/tag/v4.0.0) | `v4.0.0` | *1 day ago* |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | *—* | *today* |
-| [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *5 days ago* |
+| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *1 day ago* |
+| [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *6 days ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *2 weeks ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 month ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *2 months ago* |
