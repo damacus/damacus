@@ -14,11 +14,11 @@
 
 | Repository | Description |
 |:-----------|:------------|
+| [**damacus/skills**](https://github.com/damacus/skills) | Agent skills curated for my workflows |
 | [**damacus/mealie-cli**](https://github.com/damacus/mealie-cli) | A command line interface for Mealie |
 | [**damacus/adr-manager**](https://github.com/damacus/adr-manager) | WebUI for managing ADRs |
 | [**damacus/paperless-cli**](https://github.com/damacus/paperless-cli) | CLI for interacting with Paperless |
 | [**damacus/freeagent-cli**](https://github.com/damacus/freeagent-cli) | FreeAgent CLI |
-| [**damacus/trv-scheduler-appdaemon**](https://github.com/damacus/trv-scheduler-appdaemon) | AppDaemon backend for the TRV Heating Scheduler Card |
 
 ---
 
@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/line](https://github.com/sous-chefs/line/releases/tag/v5.0.0) | `v5.0.0` | *today* |
-| [sous-chefs/vagrant](https://github.com/sous-chefs/vagrant/releases/tag/v5.0.0) | `v5.0.0` | *today* |
-| [sous-chefs/kafka](https://github.com/sous-chefs/kafka/releases/tag/v4.0.0) | `v4.0.0` | *today* |
-| [sous-chefs/reprepro](https://github.com/sous-chefs/reprepro/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
-| [sous-chefs/influxdb](https://github.com/sous-chefs/influxdb/releases/tag/v1.0.0) | `v1.0.0` | *1 day ago* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.2.0) | `v0.2.0` | *today* |
+| [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v13.0.0) | `v13.0.0` | *today* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v2.0.0) | `v2.0.0` | *today* |
+| [sous-chefs/bind](https://github.com/sous-chefs/bind/releases/tag/bind-v4.0.0) | `bind-v4.0.0` | *today* |
+| [sous-chefs/sensors](https://github.com/sous-chefs/sensors/releases/tag/v3.0.0) | `v3.0.0` | *today* |
 
 ---
 
