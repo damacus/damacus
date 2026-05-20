@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/line](https://github.com/sous-chefs/line/releases/tag/v5.0.0) | `v5.0.0` | *today* |
 | [sous-chefs/vagrant](https://github.com/sous-chefs/vagrant/releases/tag/v5.0.0) | `v5.0.0` | *today* |
 | [sous-chefs/kafka](https://github.com/sous-chefs/kafka/releases/tag/v4.0.0) | `v4.0.0` | *today* |
 | [sous-chefs/reprepro](https://github.com/sous-chefs/reprepro/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
 | [sous-chefs/influxdb](https://github.com/sous-chefs/influxdb/releases/tag/v1.0.0) | `v1.0.0` | *1 day ago* |
-| [sous-chefs/zabbix-agent](https://github.com/sous-chefs/zabbix-agent/releases/tag/v1.0.0) | `v1.0.0` | *1 day ago* |
 
 ---
 
