@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/unbound](https://github.com/sous-chefs/unbound/releases/tag/v4.0.0) | `v4.0.0` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.61) | `v0.3.61` | *today* |
 | [sous-chefs/chef-splunk](https://github.com/sous-chefs/chef-splunk/releases/tag/chef-splunk-v10.0.0) | `chef-splunk-v10.0.0` | *1 day ago* |
 | [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.3.0) | `v0.3.0` | *1 day ago* |
 | [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v13.0.0) | `v13.0.0` | *1 day ago* |
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v2.0.0) | `v2.0.0` | *1 day ago* |
-| [sous-chefs/bind](https://github.com/sous-chefs/bind/releases/tag/bind-v4.0.0) | `bind-v4.0.0` | *1 day ago* |
 
 ---
 
