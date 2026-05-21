@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.2.0) | `v0.2.0` | *today* |
-| [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v13.0.0) | `v13.0.0` | *today* |
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v2.0.0) | `v2.0.0` | *today* |
-| [sous-chefs/bind](https://github.com/sous-chefs/bind/releases/tag/bind-v4.0.0) | `bind-v4.0.0` | *today* |
-| [sous-chefs/sensors](https://github.com/sous-chefs/sensors/releases/tag/v3.0.0) | `v3.0.0` | *today* |
+| [sous-chefs/chef-splunk](https://github.com/sous-chefs/chef-splunk/releases/tag/chef-splunk-v10.0.0) | `chef-splunk-v10.0.0` | *1 day ago* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.3.0) | `v0.3.0` | *1 day ago* |
+| [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v13.0.0) | `v13.0.0` | *1 day ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v2.0.0) | `v2.0.0` | *1 day ago* |
+| [sous-chefs/bind](https://github.com/sous-chefs/bind/releases/tag/bind-v4.0.0) | `bind-v4.0.0` | *1 day ago* |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *1 day ago* |
-| [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *6 days ago* |
+| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 days ago* |
+| [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *1 week ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *2 weeks ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 month ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *2 months ago* |
