@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/unbound](https://github.com/sous-chefs/unbound/releases/tag/v4.0.0) | `v4.0.0` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.61) | `v0.3.61` | *today* |
-| [sous-chefs/chef-splunk](https://github.com/sous-chefs/chef-splunk/releases/tag/chef-splunk-v10.0.0) | `chef-splunk-v10.0.0` | *1 day ago* |
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.3.0) | `v0.3.0` | *1 day ago* |
-| [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v13.0.0) | `v13.0.0` | *1 day ago* |
+| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.1) | `v2.23.1` | *1 day ago* |
+| [sous-chefs/unbound](https://github.com/sous-chefs/unbound/releases/tag/v4.0.0) | `v4.0.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.61) | `v0.3.61` | *1 day ago* |
+| [sous-chefs/chef-splunk](https://github.com/sous-chefs/chef-splunk/releases/tag/chef-splunk-v10.0.0) | `chef-splunk-v10.0.0` | *2 days ago* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.3.0) | `v0.3.0` | *2 days ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 days ago* |
+| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *3 days ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *1 week ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *2 weeks ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *1 month ago* |
