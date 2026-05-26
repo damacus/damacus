@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.62) | `v0.3.62` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.63) | `v0.3.63` | *today* |
 | [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.5.0) | `v0.5.0` | *4 days ago* |
 | [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.1) | `v2.23.1` | *5 days ago* |
 | [sous-chefs/unbound](https://github.com/sous-chefs/unbound/releases/tag/v4.0.0) | `v4.0.0` | *5 days ago* |
