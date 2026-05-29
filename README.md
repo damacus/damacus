@@ -26,9 +26,9 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/docker](https://github.com/sous-chefs/docker/releases/tag/v12.0.0) | `v12.0.0` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.63) | `v0.3.63` | *2 days ago* |
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.5.0) | `v0.5.0` | *6 days ago* |
+| [sous-chefs/docker](https://github.com/sous-chefs/docker/releases/tag/v12.0.0) | `v12.0.0` | *2 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.63) | `v0.3.63` | *3 days ago* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.5.0) | `v0.5.0` | *1 week ago* |
 | [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.1) | `v2.23.1` | *1 week ago* |
 | [sous-chefs/unbound](https://github.com/sous-chefs/unbound/releases/tag/v4.0.0) | `v4.0.0` | *1 week ago* |
 
