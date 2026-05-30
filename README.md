@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.2-beta.1) | `v2.4.2-beta.1` | *today* |
 | [sous-chefs/docker](https://github.com/sous-chefs/docker/releases/tag/v12.0.0) | `v12.0.0` | *3 days ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.63) | `v0.3.63` | *4 days ago* |
 | [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.5.0) | `v0.5.0` | *1 week ago* |
 | [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.1) | `v2.23.1` | *1 week ago* |
-| [sous-chefs/unbound](https://github.com/sous-chefs/unbound/releases/tag/v4.0.0) | `v4.0.0` | *1 week ago* |
 
 ---
 
