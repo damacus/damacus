@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.1) | `v0.6.1` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.64) | `v0.3.64` | *today* |
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.6.1) | `v0.6.1` | *today* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.3-beta.1) | `v2.4.3-beta.1` | *2 days ago* |
-| [sous-chefs/docker](https://github.com/sous-chefs/docker/releases/tag/v12.0.0) | `v12.0.0` | *5 days ago* |
+| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.1) | `v0.6.1` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.64) | `v0.3.64` | *1 day ago* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.6.1) | `v0.6.1` | *1 day ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.3-beta.1) | `v2.4.3-beta.1` | *3 days ago* |
+| [sous-chefs/docker](https://github.com/sous-chefs/docker/releases/tag/v12.0.0) | `v12.0.0` | *6 days ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *1 week ago* |
+| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 weeks ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *2 weeks ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *1 month ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *2 months ago* |
