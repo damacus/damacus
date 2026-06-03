@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.1) | `v0.6.1` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.64) | `v0.3.64` | *1 day ago* |
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.6.1) | `v0.6.1` | *1 day ago* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.3-beta.1) | `v2.4.3-beta.1` | *3 days ago* |
-| [sous-chefs/docker](https://github.com/sous-chefs/docker/releases/tag/v12.0.0) | `v12.0.0` | *6 days ago* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/7.0.0) | `7.0.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.65) | `v0.3.65` | *1 day ago* |
+| [sous-chefs/homebrew](https://github.com/sous-chefs/homebrew/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
+| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.1) | `v0.6.1` | *2 days ago* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.6.1) | `v0.6.1` | *2 days ago* |
 
 ---
 
