@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/7.0.0) | `7.0.0` | *2 days ago* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/8.0.0) | `8.0.0` | *today* |
+| [sous-chefs/sc-nxlog](https://github.com/sous-chefs/sc-nxlog/releases/tag/v2.0.0) | `v2.0.0` | *today* |
+| [sous-chefs/nodejs](https://github.com/sous-chefs/nodejs/releases/tag/v11.0.0) | `v11.0.0` | *today* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.65) | `v0.3.65` | *2 days ago* |
 | [sous-chefs/homebrew](https://github.com/sous-chefs/homebrew/releases/tag/v7.0.0) | `v7.0.0` | *2 days ago* |
-| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.1) | `v0.6.1` | *3 days ago* |
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.6.1) | `v0.6.1` | *3 days ago* |
 
 ---
 
