@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/7.0.0) | `7.0.0` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.65) | `v0.3.65` | *1 day ago* |
-| [sous-chefs/homebrew](https://github.com/sous-chefs/homebrew/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
-| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.1) | `v0.6.1` | *2 days ago* |
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.6.1) | `v0.6.1` | *2 days ago* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/7.0.0) | `7.0.0` | *2 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.65) | `v0.3.65` | *2 days ago* |
+| [sous-chefs/homebrew](https://github.com/sous-chefs/homebrew/releases/tag/v7.0.0) | `v7.0.0` | *2 days ago* |
+| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.1) | `v0.6.1` | *3 days ago* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.6.1) | `v0.6.1` | *3 days ago* |
 
 ---
 
@@ -39,7 +39,7 @@
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
 | [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 weeks ago* |
-| [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *2 weeks ago* |
+| [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *3 weeks ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *1 month ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *2 months ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *2 months ago* |
