@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.66) | `v0.3.66` | *today* |
+| [damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.3) | `v3.0.3` | *today* |
 | [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v6.2.6) | `v6.2.6` | *3 days ago* |
 | [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/8.0.0) | `8.0.0` | *4 days ago* |
 | [sous-chefs/sc-nxlog](https://github.com/sous-chefs/sc-nxlog/releases/tag/v2.0.0) | `v2.0.0` | *4 days ago* |
-| [sous-chefs/nodejs](https://github.com/sous-chefs/nodejs/releases/tag/v11.0.0) | `v11.0.0` | *4 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.65) | `v0.3.65` | *6 days ago* |
 
 ---
 
