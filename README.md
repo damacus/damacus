@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.66) | `v0.3.66` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.68) | `v0.3.68` | *today* |
+| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.2) | `v0.6.2` | *today* |
+| [sous-chefs/foreman](https://github.com/sous-chefs/foreman/releases/tag/v2.0.0) | `v2.0.0` | *today* |
 | [damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.3) | `v3.0.3` | *today* |
 | [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v6.2.6) | `v6.2.6` | *3 days ago* |
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/8.0.0) | `8.0.0` | *4 days ago* |
-| [sous-chefs/sc-nxlog](https://github.com/sous-chefs/sc-nxlog/releases/tag/v2.0.0) | `v2.0.0` | *4 days ago* |
 
 ---
 
