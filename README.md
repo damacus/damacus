@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.68) | `v0.3.68` | *today* |
-| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.2) | `v0.6.2` | *today* |
-| [sous-chefs/foreman](https://github.com/sous-chefs/foreman/releases/tag/v2.0.0) | `v2.0.0` | *today* |
-| [damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.3) | `v3.0.3` | *today* |
-| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v6.2.6) | `v6.2.6` | *3 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.68) | `v0.3.68` | *1 day ago* |
+| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.6.2) | `v0.6.2` | *1 day ago* |
+| [sous-chefs/foreman](https://github.com/sous-chefs/foreman/releases/tag/v2.0.0) | `v2.0.0` | *1 day ago* |
+| [damacus/check-chef-metadata-action](https://github.com/damacus/check-chef-metadata-action/releases/tag/v3.0.3) | `v3.0.3` | *1 day ago* |
+| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v6.2.6) | `v6.2.6` | *4 days ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 weeks ago* |
+| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *3 weeks ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *3 weeks ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *1 month ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *2 months ago* |
