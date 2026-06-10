@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.7.0) | `v0.7.0` | *today* |
-| [sous-chefs/install-workstation](https://github.com/sous-chefs/install-workstation/releases/tag/v0.1.0) | `v0.1.0` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.69) | `v0.3.69` | *today* |
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/8.0.1) | `8.0.1` | *today* |
-| [sous-chefs/foreman](https://github.com/sous-chefs/foreman/releases/tag/v2.0.0) | `v2.0.0` | *1 day ago* |
+| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.7.1) | `v0.7.1` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.71) | `v0.3.71` | *1 day ago* |
+| [sous-chefs/install-workstation](https://github.com/sous-chefs/install-workstation/releases/tag/v0.1.0) | `v0.1.0` | *1 day ago* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/8.0.1) | `8.0.1` | *1 day ago* |
+| [sous-chefs/foreman](https://github.com/sous-chefs/foreman/releases/tag/v2.0.0) | `v2.0.0` | *2 days ago* |
 
 ---
 
