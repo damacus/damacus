@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/coffee-pulse](https://github.com/damacus/coffee-pulse/releases/tag/coffee-pulse-v1.0.0) | `coffee-pulse-v1.0.0` | *today* |
 | [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.1) | `v2.1.1` | *today* |
 | [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.2) | `v0.5.2` | *today* |
 | [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.13) | `v0.1.13` | *today* |
 | [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.7.1) | `v0.7.1` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.3.71) | `v0.3.71` | *1 day ago* |
 
 ---
 
