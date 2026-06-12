@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/coffee-pulse](https://github.com/damacus/coffee-pulse/releases/tag/coffee-pulse-v1.0.0) | `coffee-pulse-v1.0.0` | *1 day ago* |
-| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.1) | `v2.1.1` | *1 day ago* |
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.2) | `v0.5.2` | *1 day ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.13) | `v0.1.13` | *1 day ago* |
-| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.7.1) | `v0.7.1` | *2 days ago* |
+| [damacus/coffee-pulse](https://github.com/damacus/coffee-pulse/releases/tag/coffee-pulse-v1.0.0) | `coffee-pulse-v1.0.0` | *2 days ago* |
+| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.1) | `v2.1.1` | *2 days ago* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.2) | `v0.5.2` | *2 days ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.13) | `v0.1.13` | *2 days ago* |
+| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.7.1) | `v0.7.1` | *3 days ago* |
 
 ---
 
@@ -42,7 +42,7 @@
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance Ruby indexer | *4 weeks ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *1 month ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *2 months ago* |
-| [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *2 months ago* |
+| [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *3 months ago* |
 
 ---
 
