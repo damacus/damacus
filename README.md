@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/coffee-pulse](https://github.com/damacus/coffee-pulse/releases/tag/coffee-pulse-v1.0.0) | `coffee-pulse-v1.0.0` | *3 days ago* |
-| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.1) | `v2.1.1` | *3 days ago* |
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.2) | `v0.5.2` | *3 days ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.13) | `v0.1.13` | *3 days ago* |
-| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.7.1) | `v0.7.1` | *4 days ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
+| [damacus/coffee-pulse](https://github.com/damacus/coffee-pulse/releases/tag/coffee-pulse-v1.0.0) | `coffee-pulse-v1.0.0` | *4 days ago* |
+| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.1) | `v2.1.1` | *4 days ago* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.2) | `v0.5.2` | *4 days ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.13) | `v0.1.13` | *4 days ago* |
 
 ---
 
