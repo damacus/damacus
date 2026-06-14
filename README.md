@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.8.0) | `v0.8.0` | *today* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.9.0) | `v0.9.0` | *today* |
 | [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
 | [damacus/coffee-pulse](https://github.com/damacus/coffee-pulse/releases/tag/coffee-pulse-v1.0.0) | `coffee-pulse-v1.0.0` | *4 days ago* |
 | [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.1) | `v2.1.1` | *4 days ago* |
