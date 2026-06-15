@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.0.1) | `v4.0.1` | *today* |
+| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v6.2.7) | `v6.2.7` | *today* |
+| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.7.2) | `v0.7.2` | *today* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/8.0.2) | `8.0.2` | *today* |
 | [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.10.1) | `v0.10.1` | *1 day ago* |
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v3.0.0) | `v3.0.0` | *2 days ago* |
-| [damacus/coffee-pulse](https://github.com/damacus/coffee-pulse/releases/tag/coffee-pulse-v1.0.0) | `coffee-pulse-v1.0.0` | *5 days ago* |
-| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.1) | `v2.1.1` | *5 days ago* |
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.2) | `v0.5.2` | *5 days ago* |
 
 ---
 
