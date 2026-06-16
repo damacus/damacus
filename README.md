@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.0.1) | `v4.0.1` | *today* |
-| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v6.2.7) | `v6.2.7` | *today* |
-| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.7.2) | `v0.7.2` | *today* |
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/8.0.2) | `8.0.2` | *today* |
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.10.1) | `v0.10.1` | *1 day ago* |
+| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v6.2.8) | `v6.2.8` | *1 day ago* |
+| [actionshub/publish-ruby-gem](https://github.com/actionshub/publish-ruby-gem/releases/tag/v0.1.1) | `v0.1.1` | *1 day ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.0.2) | `v4.0.2` | *1 day ago* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.11.0) | `v0.11.0` | *1 day ago* |
+| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.7.2) | `v0.7.2` | *1 day ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *3 weeks ago* |
+| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *4 weeks ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *1 month ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *1 month ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *2 months ago* |
