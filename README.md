@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.13.0) | `v0.13.0` | *today* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.14.0) | `v0.14.0` | *today* |
+| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.5.0) | `v0.5.0` | *today* |
 | [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v6.2.8) | `v6.2.8` | *1 day ago* |
 | [actionshub/publish-ruby-gem](https://github.com/actionshub/publish-ruby-gem/releases/tag/v0.1.1) | `v0.1.1` | *1 day ago* |
 | [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.0.2) | `v4.0.2` | *1 day ago* |
-| [sous-chefs/chef-ruby-lvm-attrib](https://github.com/sous-chefs/chef-ruby-lvm-attrib/releases/tag/v0.7.2) | `v0.7.2` | *1 day ago* |
 
 ---
 
