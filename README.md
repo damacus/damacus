@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v7.0.0) | `v7.0.0` | *today* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.3) | `v2.4.3` | *today* |
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.15.0) | `v0.15.0` | *today* |
-| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.6.3) | `v0.6.3` | *today* |
-| [actionshub/publish-ruby-gem](https://github.com/actionshub/publish-ruby-gem/releases/tag/v0.1.1) | `v0.1.1` | *2 days ago* |
+| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.3) | `v2.4.3` | *1 day ago* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.15.0) | `v0.15.0` | *1 day ago* |
+| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.6.3) | `v0.6.3` | *1 day ago* |
+| [actionshub/publish-ruby-gem](https://github.com/actionshub/publish-ruby-gem/releases/tag/v0.1.1) | `v0.1.1` | *3 days ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *4 weeks ago* |
+| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *1 month ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *1 month ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *1 month ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *2 months ago* |
