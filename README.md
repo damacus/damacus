@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.8.0) | `v0.8.0` | *today* |
-| [sous-chefs/winrm](https://github.com/sous-chefs/winrm/releases/tag/v5.0.0) | `v5.0.0` | *today* |
-| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.3) | `v2.4.3` | *1 day ago* |
-| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.15.0) | `v0.15.0` | *1 day ago* |
+| [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.1) | `v7.0.1` | *1 day ago* |
+| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.8.0) | `v0.8.0` | *1 day ago* |
+| [sous-chefs/winrm](https://github.com/sous-chefs/winrm/releases/tag/v5.0.0) | `v5.0.0` | *1 day ago* |
+| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v7.0.0) | `v7.0.0` | *2 days ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.4.3) | `v2.4.3` | *2 days ago* |
 
 ---
 
