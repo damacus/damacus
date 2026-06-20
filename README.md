@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.0.3) | `v4.0.3` | *1 day ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.0.4) | `v4.0.4` | *today* |
 | [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.1) | `v7.0.1` | *2 days ago* |
 | [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.8.0) | `v0.8.0` | *2 days ago* |
 | [sous-chefs/winrm](https://github.com/sous-chefs/winrm/releases/tag/v5.0.0) | `v5.0.0` | *2 days ago* |
