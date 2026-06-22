@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/java](https://github.com/sous-chefs/java/releases/tag/v15.0.0) | `v15.0.0` | *today* |
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.2.0) | `v4.2.0` | *1 day ago* |
-| [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.1) | `v7.0.1` | *4 days ago* |
-| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.8.0) | `v0.8.0` | *4 days ago* |
-| [sous-chefs/winrm](https://github.com/sous-chefs/winrm/releases/tag/v5.0.0) | `v5.0.0` | *4 days ago* |
+| [test-kitchen/kitchen-cinc-auditor](https://github.com/test-kitchen/kitchen-cinc-auditor/releases/tag/kitchen-cinc-auditor/v0.2.0) | `kitchen-cinc-auditor/v0.2.0` | *today* |
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.16.0) | `v0.16.0` | *today* |
+| [sous-chefs/openssh](https://github.com/sous-chefs/openssh/releases/tag/v3.0.1) | `v3.0.1` | *today* |
+| [sous-chefs/trusted_certificate](https://github.com/sous-chefs/trusted_certificate/releases/tag/v5.1.0) | `v5.1.0` | *today* |
+| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.2) | `v3.2.2` | *today* |
 
 ---
 
