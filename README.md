@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/java](https://github.com/sous-chefs/java/releases/tag/v15.0.0) | `v15.0.0` | *today* |
 | [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.2.0) | `v4.2.0` | *1 day ago* |
 | [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.1) | `v7.0.1` | *4 days ago* |
 | [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.8.0) | `v0.8.0` | *4 days ago* |
 | [sous-chefs/winrm](https://github.com/sous-chefs/winrm/releases/tag/v5.0.0) | `v5.0.0` | *4 days ago* |
-| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v7.0.0) | `v7.0.0` | *5 days ago* |
 
 ---
 
