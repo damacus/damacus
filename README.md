@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.1.1) | `v4.1.1` | *today* |
-| [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.1) | `v7.0.1` | *3 days ago* |
-| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.8.0) | `v0.8.0` | *3 days ago* |
-| [sous-chefs/winrm](https://github.com/sous-chefs/winrm/releases/tag/v5.0.0) | `v5.0.0` | *3 days ago* |
-| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v7.0.0) | `v7.0.0` | *4 days ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.2.0) | `v4.2.0` | *1 day ago* |
+| [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.1) | `v7.0.1` | *4 days ago* |
+| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.8.0) | `v0.8.0` | *4 days ago* |
+| [sous-chefs/winrm](https://github.com/sous-chefs/winrm/releases/tag/v5.0.0) | `v5.0.0` | *4 days ago* |
+| [sous-chefs/lvm](https://github.com/sous-chefs/lvm/releases/tag/v7.0.0) | `v7.0.0` | *5 days ago* |
 
 ---
 
@@ -41,7 +41,7 @@
 | [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *1 month ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *1 month ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *1 month ago* |
-| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *2 months ago* |
+| [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *3 months ago* |
 | [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *3 months ago* |
 
 ---
