@@ -26,8 +26,8 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.16) | `v0.1.16` | *today* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.4.0) | `v0.4.0` | *1 day ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.15) | `v0.1.15` | *1 day ago* |
 | [test-kitchen/kitchen-cinc-auditor](https://github.com/test-kitchen/kitchen-cinc-auditor/releases/tag/kitchen-cinc-auditor/v0.2.0) | `kitchen-cinc-auditor/v0.2.0` | *2 days ago* |
 | [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.16.0) | `v0.16.0` | *2 days ago* |
 | [sous-chefs/openssh](https://github.com/sous-chefs/openssh/releases/tag/v3.0.1) | `v3.0.1` | *2 days ago* |
