@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.2.1) | `v4.2.1` | *today* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.17) | `v0.1.17` | *today* |
 | [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.21.0) | `v0.21.0` | *2 days ago* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.12) | `unifi-release-announcer-v0.2.12` | *3 days ago* |
 | [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.3) | `v3.2.3` | *4 days ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.16) | `v0.1.16` | *5 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.4.0) | `v0.4.0` | *6 days ago* |
 
 ---
 
