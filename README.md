@@ -14,11 +14,11 @@
 
 | Repository | Description |
 |:-----------|:------------|
+| [**damacus/grafana-alloy**](https://github.com/damacus/grafana-alloy) | *—* |
 | [**damacus/skills**](https://github.com/damacus/skills) | Agent skills curated for my workflows |
 | [**damacus/mealie-cli**](https://github.com/damacus/mealie-cli) | A command line interface for Mealie |
 | [**damacus/adr-manager**](https://github.com/damacus/adr-manager) | WebUI for managing ADRs |
 | [**damacus/paperless-cli**](https://github.com/damacus/paperless-cli) | CLI for interacting with Paperless |
-| [**damacus/freeagent-cli**](https://github.com/damacus/freeagent-cli) | FreeAgent CLI |
 
 ---
 
@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.0) | `v0.5.0` | *today* |
+| [sous-chefs/msys2](https://github.com/sous-chefs/msys2/releases/tag/v3.0.0) | `v3.0.0` | *today* |
 | [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.2.2) | `v4.2.2` | *today* |
 | [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.17) | `v0.1.17` | *1 day ago* |
 | [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.21.0) | `v0.21.0` | *3 days ago* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.12) | `unifi-release-announcer-v0.2.12` | *4 days ago* |
-| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.3) | `v3.2.3` | *5 days ago* |
 
 ---
 
