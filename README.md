@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.3) | `v0.5.3` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.4) | `v0.5.4` | *today* |
 | [sous-chefs/grafana-alloy](https://github.com/sous-chefs/grafana-alloy/releases/tag/v1.1.0) | `v1.1.0` | *1 day ago* |
 | [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.9.0) | `v0.9.0` | *1 day ago* |
 | [sous-chefs/netplan](https://github.com/sous-chefs/netplan/releases/tag/v1.1.0) | `v1.1.0` | *1 day ago* |
