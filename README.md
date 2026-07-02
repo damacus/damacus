@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.5) | `v0.5.5` | *today* |
-| [sous-chefs/grafana-alloy](https://github.com/sous-chefs/grafana-alloy/releases/tag/v1.1.0) | `v1.1.0` | *1 day ago* |
-| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.9.0) | `v0.9.0` | *1 day ago* |
-| [sous-chefs/netplan](https://github.com/sous-chefs/netplan/releases/tag/v1.1.0) | `v1.1.0` | *1 day ago* |
-| [sous-chefs/msys2](https://github.com/sous-chefs/msys2/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
+| [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v13.0.2) | `v13.0.2` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.5) | `v0.5.5` | *1 day ago* |
+| [sous-chefs/grafana-alloy](https://github.com/sous-chefs/grafana-alloy/releases/tag/v1.1.0) | `v1.1.0` | *2 days ago* |
+| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.9.0) | `v0.9.0` | *2 days ago* |
+| [sous-chefs/netplan](https://github.com/sous-chefs/netplan/releases/tag/v1.1.0) | `v1.1.0` | *2 days ago* |
 
 ---
 
