@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.2.3) | `v4.2.3` | *2 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.8) | `v0.5.8` | *2 days ago* |
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.0) | `9.0.0` | *1 week ago* |
-| [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v13.0.2) | `v13.0.2` | *1 week ago* |
-| [sous-chefs/grafana-alloy](https://github.com/sous-chefs/grafana-alloy/releases/tag/v1.1.0) | `v1.1.0` | *1 week ago* |
+| [sous-chefs/percona](https://github.com/sous-chefs/percona/releases/tag/v5.0.1) | `v5.0.1` | *today* |
+| [sous-chefs/yum-erlang_solutions](https://github.com/sous-chefs/yum-erlang_solutions/releases/tag/v3.0.1) | `v3.0.1` | *today* |
+| [sous-chefs/zabbix-agent](https://github.com/sous-chefs/zabbix-agent/releases/tag/v1.0.1) | `v1.0.1` | *today* |
+| [sous-chefs/yum-epel](https://github.com/sous-chefs/yum-epel/releases/tag/v6.0.0) | `v6.0.0` | *today* |
+| [sous-chefs/yum-amazon](https://github.com/sous-chefs/yum-amazon/releases/tag/v5.0.1) | `v5.0.1` | *today* |
 
 ---
 
