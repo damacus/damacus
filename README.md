@@ -26,8 +26,8 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.10) | `v0.5.10` | *today* |
 | [sous-chefs/aptly](https://github.com/sous-chefs/aptly/releases/tag/v4.0.2) | `v4.0.2` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.9) | `v0.5.9` | *1 day ago* |
 | [sous-chefs/percona](https://github.com/sous-chefs/percona/releases/tag/v5.0.1) | `v5.0.1` | *2 days ago* |
 | [sous-chefs/yum-erlang_solutions](https://github.com/sous-chefs/yum-erlang_solutions/releases/tag/v3.0.1) | `v3.0.1` | *2 days ago* |
 | [sous-chefs/zabbix-agent](https://github.com/sous-chefs/zabbix-agent/releases/tag/v1.0.1) | `v1.0.1` | *2 days ago* |
