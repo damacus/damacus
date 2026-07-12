@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.10) | `v0.5.10` | *today* |
-| [sous-chefs/aptly](https://github.com/sous-chefs/aptly/releases/tag/v4.0.2) | `v4.0.2` | *1 day ago* |
-| [sous-chefs/percona](https://github.com/sous-chefs/percona/releases/tag/v5.0.1) | `v5.0.1` | *2 days ago* |
-| [sous-chefs/yum-erlang_solutions](https://github.com/sous-chefs/yum-erlang_solutions/releases/tag/v3.0.1) | `v3.0.1` | *2 days ago* |
-| [sous-chefs/zabbix-agent](https://github.com/sous-chefs/zabbix-agent/releases/tag/v1.0.1) | `v1.0.1` | *2 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.10) | `v0.5.10` | *1 day ago* |
+| [sous-chefs/aptly](https://github.com/sous-chefs/aptly/releases/tag/v4.0.2) | `v4.0.2` | *2 days ago* |
+| [sous-chefs/percona](https://github.com/sous-chefs/percona/releases/tag/v5.0.1) | `v5.0.1` | *3 days ago* |
+| [sous-chefs/yum-erlang_solutions](https://github.com/sous-chefs/yum-erlang_solutions/releases/tag/v3.0.1) | `v3.0.1` | *3 days ago* |
+| [sous-chefs/zabbix-agent](https://github.com/sous-chefs/zabbix-agent/releases/tag/v1.0.1) | `v1.0.1` | *3 days ago* |
 
 ---
 
@@ -42,7 +42,7 @@
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *1 month ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *2 months ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *3 months ago* |
-| [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *3 months ago* |
+| [**setdef/RatatuiRuby**](https://github.com/setdef/RatatuiRuby) | 💎 Unofficial Ruby wrapper for Ratatui 👨‍🍳🐀. | *4 months ago* |
 
 ---
 
