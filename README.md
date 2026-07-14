@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/skills](https://github.com/damacus/skills/releases/tag/v0.1.0) | `v0.1.0` | *today* |
 | [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.3) | `v0.1.3` | *1 day ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.10) | `v0.5.10` | *3 days ago* |
 | [sous-chefs/aptly](https://github.com/sous-chefs/aptly/releases/tag/v4.0.2) | `v4.0.2` | *4 days ago* |
 | [sous-chefs/percona](https://github.com/sous-chefs/percona/releases/tag/v5.0.1) | `v5.0.1` | *5 days ago* |
-| [sous-chefs/yum-erlang_solutions](https://github.com/sous-chefs/yum-erlang_solutions/releases/tag/v3.0.1) | `v3.0.1` | *5 days ago* |
 
 ---
 
