@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.12) | `v0.5.12` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.13) | `v0.5.13` | *today* |
 | [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.3) | `v0.5.3` | *1 day ago* |
 | [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.8) | `v0.1.8` | *1 day ago* |
 | [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.2) | `v2.1.2` | *1 day ago* |
