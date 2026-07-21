@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.3) | `v2.1.3` | *today* |
-| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.0) | `v4.1.0` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.13) | `v0.5.13` | *1 day ago* |
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.3) | `v0.5.3` | *2 days ago* |
-| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.8) | `v0.1.8` | *2 days ago* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.5) | `v0.5.5` | *4 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.15) | `v0.5.15` | *4 days ago* |
+| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.3) | `v2.1.3` | *5 days ago* |
+| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.0) | `v4.1.0` | *5 days ago* |
+| [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.8) | `v0.1.8` | *1 week ago* |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *2 days ago* |
-| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *1 month ago* |
+| [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *1 week ago* |
+| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 months ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *2 months ago* |
 | [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *2 months ago* |
 | [**vishvish/BenchSSD**](https://github.com/vishvish/BenchSSD) | command-line benchmark tool for measuring storage performance on internal and external drives | *3 months ago* |
