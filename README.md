@@ -26,8 +26,8 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.5) | `v0.5.5` | *6 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.15) | `v0.5.15` | *6 days ago* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.5) | `v0.5.5` | *1 week ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.15) | `v0.5.15` | *1 week ago* |
 | [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.3) | `v2.1.3` | *1 week ago* |
 | [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.0) | `v4.1.0` | *1 week ago* |
 | [damacus/zitadel-tui](https://github.com/damacus/zitadel-tui/releases/tag/v0.1.8) | `v0.1.8` | *1 week ago* |
