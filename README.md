@@ -26,10 +26,10 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.17) | `v0.5.17` | *today* |
 | [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.4) | `v3.2.4` | *1 day ago* |
 | [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.3) | `v2.23.3` | *1 day ago* |
 | [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.1) | `v4.1.1` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.16) | `v0.5.16` | *1 day ago* |
 | [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.5.5) | `v0.5.5` | *1 week ago* |
 
 ---
