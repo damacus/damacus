@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.5) | `v13.0.5` | *today* |
-| [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v14.0.0) | `v14.0.0` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.17) | `v0.5.17` | *1 day ago* |
-| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.4) | `v3.2.4` | *2 days ago* |
-| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.3) | `v2.23.3` | *2 days ago* |
+| [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.5) | `v13.0.5` | *1 day ago* |
+| [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v14.0.0) | `v14.0.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.17) | `v0.5.17` | *2 days ago* |
+| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.4) | `v3.2.4` | *3 days ago* |
+| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.3) | `v2.23.3` | *3 days ago* |
 
 ---
 
@@ -38,11 +38,11 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *2 days ago* |
+| [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *3 days ago* |
 | [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *2 weeks ago* |
 | [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 months ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *2 months ago* |
-| [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *2 months ago* |
+| [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *3 months ago* |
 
 ---
 
