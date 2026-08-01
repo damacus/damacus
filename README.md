@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.10.0) | `v0.10.0` | *today* |
 | [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.5) | `v13.0.5` | *2 days ago* |
 | [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v14.0.0) | `v14.0.0` | *2 days ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.17) | `v0.5.17` | *3 days ago* |
 | [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.4) | `v3.2.4` | *4 days ago* |
-| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.3) | `v2.23.3` | *4 days ago* |
 
 ---
 
