@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.10.0) | `v0.10.0` | *1 day ago* |
-| [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.5) | `v13.0.5` | *3 days ago* |
-| [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v14.0.0) | `v14.0.0` | *3 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.17) | `v0.5.17` | *4 days ago* |
-| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.2.4) | `v3.2.4` | *5 days ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.3.0) | `v4.3.0` | *1 day ago* |
+| [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.10.0) | `v0.10.0` | *2 days ago* |
+| [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.5) | `v13.0.5` | *4 days ago* |
+| [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v14.0.0) | `v14.0.0` | *4 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.17) | `v0.5.17` | *5 days ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *5 days ago* |
+| [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *6 days ago* |
 | [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *2 weeks ago* |
 | [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 months ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *2 months ago* |
