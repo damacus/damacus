@@ -38,11 +38,11 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
+| [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Open-source native macOS capture and bookmarking app. A Pinboard successor with a menu-bar app and CLI. | *today* |
 | [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *1 week ago* |
 | [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *3 weeks ago* |
 | [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 months ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *2 months ago* |
-| [**octobox/octobox**](https://github.com/octobox/octobox) | 📮 Untangle your GitHub Notifications | *3 months ago* |
 
 ---
 
