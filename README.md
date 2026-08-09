@@ -26,8 +26,8 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.3) | `v7.0.3` | *3 days ago* |
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.3.0) | `v4.3.0` | *6 days ago* |
+| [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.3) | `v7.0.3` | *4 days ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.3.0) | `v4.3.0` | *1 week ago* |
 | [tas50/cinc-zero](https://github.com/tas50/cinc-zero/releases/tag/v0.10.0) | `v0.10.0` | *1 week ago* |
 | [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.5) | `v13.0.5` | *1 week ago* |
 | [sous-chefs/nagios](https://github.com/sous-chefs/nagios/releases/tag/v14.0.0) | `v14.0.0` | *1 week ago* |
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *4 days ago* |
+| [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *5 days ago* |
 | [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *1 week ago* |
 | [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *3 weeks ago* |
 | [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 months ago* |
