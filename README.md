@@ -14,11 +14,11 @@
 
 | Repository | Description |
 |:-----------|:------------|
+| [**damacus/sous-chefs-oss-stats**](https://github.com/damacus/sous-chefs-oss-stats) | Trial weekly GitHub health reports for Sous-Chefs projects |
 | [**damacus/skills**](https://github.com/damacus/skills) | Agent skills curated for my workflows |
 | [**damacus/mealie-cli**](https://github.com/damacus/mealie-cli) | A command line interface for Mealie |
 | [**damacus/adr-manager**](https://github.com/damacus/adr-manager) | WebUI for managing ADRs |
 | [**damacus/paperless-cli**](https://github.com/damacus/paperless-cli) | CLI for interacting with Paperless |
-| [**damacus/freeagent-cli**](https://github.com/damacus/freeagent-cli) | FreeAgent CLI |
 
 ---
 
