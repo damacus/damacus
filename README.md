@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.18) | `v0.5.18` | *1 day ago* |
+| [sous-chefs/redisio](https://github.com/sous-chefs/redisio/releases/tag/v8.0.0) | `v8.0.0` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.19) | `v0.5.19` | *today* |
 | [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.3) | `v7.0.3` | *6 days ago* |
 | [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.3.0) | `v4.3.0` | *1 week ago* |
 | [tas50/cinc-server-ng](https://github.com/tas50/cinc-server-ng/releases/tag/v0.10.0) | `v0.10.0` | *1 week ago* |
-| [sous-chefs/postgresql](https://github.com/sous-chefs/postgresql/releases/tag/v13.0.5) | `v13.0.5` | *1 week ago* |
 
 ---
 
