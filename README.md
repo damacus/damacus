@@ -26,9 +26,9 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.20) | `v0.5.20` | *1 day ago* |
-| [sous-chefs/docker](https://github.com/sous-chefs/docker/releases/tag/v12.0.2) | `v12.0.2` | *1 day ago* |
-| [sous-chefs/redisio](https://github.com/sous-chefs/redisio/releases/tag/v8.0.0) | `v8.0.0` | *3 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.20) | `v0.5.20` | *2 days ago* |
+| [sous-chefs/docker](https://github.com/sous-chefs/docker/releases/tag/v12.0.2) | `v12.0.2` | *2 days ago* |
+| [sous-chefs/redisio](https://github.com/sous-chefs/redisio/releases/tag/v8.0.0) | `v8.0.0` | *4 days ago* |
 | [sous-chefs/postfix](https://github.com/sous-chefs/postfix/releases/tag/v7.0.3) | `v7.0.3` | *1 week ago* |
 | [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.3.0) | `v4.3.0` | *1 week ago* |
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *4 days ago* |
+| [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *5 days ago* |
 | [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *2 weeks ago* |
 | [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *1 month ago* |
 | [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 months ago* |
