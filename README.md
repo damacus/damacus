@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/syslog_ng](https://github.com/sous-chefs/syslog_ng/releases/tag/v3.0.10) | `v3.0.10` | *today* |
-| [sous-chefs/sysinternals](https://github.com/sous-chefs/sysinternals/releases/tag/v1.1.11) | `v1.1.11` | *today* |
-| [sous-chefs/remote_install](https://github.com/sous-chefs/remote_install/releases/tag/v3.0.6) | `v3.0.6` | *today* |
-| [sous-chefs/pulledpork](https://github.com/sous-chefs/pulledpork/releases/tag/v3.0.12) | `v3.0.12` | *today* |
-| [sous-chefs/php](https://github.com/sous-chefs/php/releases/tag/v10.4.0) | `v10.4.0` | *today* |
+| [sous-chefs/yum-fedora](https://github.com/sous-chefs/yum-fedora/releases/tag/v4.0.1) | `v4.0.1` | *today* |
+| [sous-chefs/dnsmasq](https://github.com/sous-chefs/dnsmasq/releases/tag/v2.0.2) | `v2.0.2` | *today* |
+| [sous-chefs/nginx](https://github.com/sous-chefs/nginx/releases/tag/v12.3.3) | `v12.3.3` | *today* |
+| [sous-chefs/logrotate](https://github.com/sous-chefs/logrotate/releases/tag/v3.0.32) | `v3.0.32` | *today* |
+| [sous-chefs/visualstudio](https://github.com/sous-chefs/visualstudio/releases/tag/v3.1.0) | `v3.1.0` | *today* |
 
 ---
 
