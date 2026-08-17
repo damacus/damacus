@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/yum-fedora](https://github.com/sous-chefs/yum-fedora/releases/tag/v4.0.1) | `v4.0.1` | *today* |
-| [sous-chefs/dnsmasq](https://github.com/sous-chefs/dnsmasq/releases/tag/v2.0.2) | `v2.0.2` | *today* |
-| [sous-chefs/nginx](https://github.com/sous-chefs/nginx/releases/tag/v12.3.3) | `v12.3.3` | *today* |
-| [sous-chefs/logrotate](https://github.com/sous-chefs/logrotate/releases/tag/v3.0.32) | `v3.0.32` | *today* |
-| [sous-chefs/visualstudio](https://github.com/sous-chefs/visualstudio/releases/tag/v3.1.0) | `v3.1.0` | *today* |
+| [sous-chefs/mariadb](https://github.com/sous-chefs/mariadb/releases/tag/v6.2.4) | `v6.2.4` | *today* |
+| [sous-chefs/ruby_build](https://github.com/sous-chefs/ruby_build/releases/tag/v2.5.13) | `v2.5.13` | *today* |
+| [sous-chefs/rundeck](https://github.com/sous-chefs/rundeck/releases/tag/v8.2.0) | `v8.2.0` | *1 day ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.3.2) | `v4.3.2` | *1 day ago* |
+| [sous-chefs/gems](https://github.com/sous-chefs/gems/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
 
 ---
 
@@ -38,10 +38,10 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *6 days ago* |
+| [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *1 week ago* |
 | [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *2 weeks ago* |
 | [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *1 month ago* |
-| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *2 months ago* |
+| [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *3 months ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *3 months ago* |
 
 ---
