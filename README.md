@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/kafka](https://github.com/sous-chefs/kafka/releases/tag/v4.0.1) | `v4.0.1` | *today* |
+| [sous-chefs/nexus](https://github.com/sous-chefs/nexus/releases/tag/v5.0.1) | `v5.0.1` | *today* |
 | [sous-chefs/mariadb](https://github.com/sous-chefs/mariadb/releases/tag/v6.2.4) | `v6.2.4` | *today* |
 | [sous-chefs/ruby_build](https://github.com/sous-chefs/ruby_build/releases/tag/v2.5.13) | `v2.5.13` | *today* |
 | [sous-chefs/rundeck](https://github.com/sous-chefs/rundeck/releases/tag/v8.2.0) | `v8.2.0` | *1 day ago* |
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.3.2) | `v4.3.2` | *1 day ago* |
-| [sous-chefs/gems](https://github.com/sous-chefs/gems/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
 
 ---
 
