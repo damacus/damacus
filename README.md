@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/kafka](https://github.com/sous-chefs/kafka/releases/tag/v4.0.1) | `v4.0.1` | *today* |
-| [sous-chefs/nexus](https://github.com/sous-chefs/nexus/releases/tag/v5.0.1) | `v5.0.1` | *today* |
-| [sous-chefs/mariadb](https://github.com/sous-chefs/mariadb/releases/tag/v6.2.4) | `v6.2.4` | *today* |
-| [sous-chefs/ruby_build](https://github.com/sous-chefs/ruby_build/releases/tag/v2.5.13) | `v2.5.13` | *today* |
-| [sous-chefs/rundeck](https://github.com/sous-chefs/rundeck/releases/tag/v8.2.0) | `v8.2.0` | *1 day ago* |
+| [sous-chefs/kafka](https://github.com/sous-chefs/kafka/releases/tag/v4.0.1) | `v4.0.1` | *1 day ago* |
+| [sous-chefs/nexus](https://github.com/sous-chefs/nexus/releases/tag/v5.0.1) | `v5.0.1` | *1 day ago* |
+| [sous-chefs/mariadb](https://github.com/sous-chefs/mariadb/releases/tag/v6.2.4) | `v6.2.4` | *1 day ago* |
+| [sous-chefs/ruby_build](https://github.com/sous-chefs/ruby_build/releases/tag/v2.5.13) | `v2.5.13` | *1 day ago* |
+| [sous-chefs/rundeck](https://github.com/sous-chefs/rundeck/releases/tag/v8.2.0) | `v8.2.0` | *2 days ago* |
 
 ---
 
@@ -39,7 +39,7 @@
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
 | [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *1 week ago* |
-| [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *2 weeks ago* |
+| [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *3 weeks ago* |
 | [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *1 month ago* |
 | [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *3 months ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *3 months ago* |
