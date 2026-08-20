@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.22) | `v0.5.22` | *1 day ago* |
-| [sous-chefs/kafka](https://github.com/sous-chefs/kafka/releases/tag/v4.0.1) | `v4.0.1` | *2 days ago* |
-| [sous-chefs/nexus](https://github.com/sous-chefs/nexus/releases/tag/v5.0.1) | `v5.0.1` | *2 days ago* |
-| [sous-chefs/mariadb](https://github.com/sous-chefs/mariadb/releases/tag/v6.2.4) | `v6.2.4` | *2 days ago* |
-| [sous-chefs/ruby_build](https://github.com/sous-chefs/ruby_build/releases/tag/v2.5.13) | `v2.5.13` | *2 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.22) | `v0.5.22` | *2 days ago* |
+| [sous-chefs/kafka](https://github.com/sous-chefs/kafka/releases/tag/v4.0.1) | `v4.0.1` | *3 days ago* |
+| [sous-chefs/nexus](https://github.com/sous-chefs/nexus/releases/tag/v5.0.1) | `v5.0.1` | *3 days ago* |
+| [sous-chefs/mariadb](https://github.com/sous-chefs/mariadb/releases/tag/v6.2.4) | `v6.2.4` | *3 days ago* |
+| [sous-chefs/ruby_build](https://github.com/sous-chefs/ruby_build/releases/tag/v2.5.13) | `v2.5.13` | *3 days ago* |
 
 ---
 
