@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.14) | `unifi-release-announcer-v0.2.14` | *today* |
-| [damacus/ironbuckets](https://github.com/damacus/ironbuckets/releases/tag/v1.4.4) | `v1.4.4` | *today* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.19) | `v0.1.19` | *2 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.22) | `v0.5.22` | *4 days ago* |
-| [sous-chefs/kafka](https://github.com/sous-chefs/kafka/releases/tag/v4.0.1) | `v4.0.1` | *5 days ago* |
+| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.3.0) | `v3.3.0` | *1 day ago* |
+| [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.3.0) | `v2.3.0` | *1 day ago* |
+| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.14) | `unifi-release-announcer-v0.2.14` | *1 day ago* |
+| [damacus/ironbuckets](https://github.com/damacus/ironbuckets/releases/tag/v1.4.4) | `v1.4.4` | *1 day ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.19) | `v0.1.19` | *3 days ago* |
 
 ---
 
