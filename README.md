@@ -26,9 +26,9 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.4) | `v2.23.4` | *today* |
-| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.3.2) | `v3.3.2` | *today* |
-| [test-kitchen/kitchen-ec2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.22.8) | `v3.22.8` | *today* |
+| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.3.4) | `v3.3.4` | *today* |
+| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.23.7) | `v2.23.7` | *today* |
+| [test-kitchen/kitchen-ec2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.22.9) | `v3.22.9` | *today* |
 | [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.3.0) | `v2.3.0` | *1 day ago* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.2.14) | `unifi-release-announcer-v0.2.14` | *1 day ago* |
 
