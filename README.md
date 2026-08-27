@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.4.0) | `v2.4.0` | *2 days ago* |
-| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.3) | `v4.1.3` | *2 days ago* |
-| [test-kitchen/kitchen-cinc-auditor](https://github.com/test-kitchen/kitchen-cinc-auditor/releases/tag/kitchen-cinc-auditor/v0.2.1) | `kitchen-cinc-auditor/v0.2.1` | *3 days ago* |
-| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.4.0) | `v3.4.0` | *3 days ago* |
-| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.24.0) | `v2.24.0` | *3 days ago* |
+| [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.4.0) | `v2.4.0` | *3 days ago* |
+| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.3) | `v4.1.3` | *3 days ago* |
+| [test-kitchen/kitchen-cinc-auditor](https://github.com/test-kitchen/kitchen-cinc-auditor/releases/tag/kitchen-cinc-auditor/v0.2.1) | `kitchen-cinc-auditor/v0.2.1` | *4 days ago* |
+| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.4.0) | `v3.4.0` | *4 days ago* |
+| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.24.0) | `v2.24.0` | *4 days ago* |
 
 ---
 
@@ -39,7 +39,7 @@
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
 | [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *2 weeks ago* |
-| [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *4 weeks ago* |
+| [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *1 month ago* |
 | [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *1 month ago* |
 | [**tas50/cinc-api**](https://github.com/tas50/cinc-api) | A modern, idiomatic Go client for the Chef Infra / CINC Server API | *3 months ago* |
 | [**Shopify/rubydex**](https://github.com/Shopify/rubydex) | A high-performance static analysis toolkit for Ruby | *3 months ago* |
