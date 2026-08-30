@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.4.1) | `v3.4.1` | *today* |
+| [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.4.1) | `v2.4.1` | *today* |
 | [test-kitchen/.github](https://github.com/test-kitchen/.github/releases/tag/v0.4.0) | `v0.4.0` | *2 days ago* |
-| [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.4.0) | `v2.4.0` | *6 days ago* |
 | [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.3) | `v4.1.3` | *6 days ago* |
 | [test-kitchen/kitchen-cinc-auditor](https://github.com/test-kitchen/kitchen-cinc-auditor/releases/tag/kitchen-cinc-auditor/v0.2.1) | `kitchen-cinc-auditor/v0.2.1` | *1 week ago* |
-| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.4.0) | `v3.4.0` | *1 week ago* |
 
 ---
 
