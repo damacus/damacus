@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [tas50/cinc-cli](https://github.com/tas50/cinc-cli/releases/tag/v0.22.0) | `v0.22.0` | *today* |
+| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.4) | `v2.1.4` | *today* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.23) | `v0.5.23` | *1 day ago* |
 | [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.4.1) | `v3.4.1` | *1 day ago* |
 | [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.4.1) | `v2.4.1` | *1 day ago* |
-| [test-kitchen/.github](https://github.com/test-kitchen/.github/releases/tag/v0.4.0) | `v0.4.0` | *3 days ago* |
-| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.3) | `v4.1.3` | *1 week ago* |
 
 ---
 
