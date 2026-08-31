@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.4.1) | `v3.4.1` | *today* |
-| [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.4.1) | `v2.4.1` | *today* |
-| [test-kitchen/.github](https://github.com/test-kitchen/.github/releases/tag/v0.4.0) | `v0.4.0` | *2 days ago* |
-| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.3) | `v4.1.3` | *6 days ago* |
-| [test-kitchen/kitchen-cinc-auditor](https://github.com/test-kitchen/kitchen-cinc-auditor/releases/tag/kitchen-cinc-auditor/v0.2.1) | `kitchen-cinc-auditor/v0.2.1` | *1 week ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.23) | `v0.5.23` | *1 day ago* |
+| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.4.1) | `v3.4.1` | *1 day ago* |
+| [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant/releases/tag/v2.4.1) | `v2.4.1` | *1 day ago* |
+| [test-kitchen/.github](https://github.com/test-kitchen/.github/releases/tag/v0.4.0) | `v0.4.0` | *3 days ago* |
+| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.3) | `v4.1.3` | *1 week ago* |
 
 ---
 
@@ -38,9 +38,9 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *2 days ago* |
-| [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *3 days ago* |
-| [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *2 weeks ago* |
+| [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *3 days ago* |
+| [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *4 days ago* |
+| [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *3 weeks ago* |
 | [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *1 month ago* |
 | [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *1 month ago* |
 
