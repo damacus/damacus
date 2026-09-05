@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.4) | `v4.1.4` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.24) | `v0.5.24` | *1 day ago* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.22.0) | `v0.22.0` | *4 days ago* |
-| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.4) | `v2.1.4` | *4 days ago* |
-| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.4.1) | `v3.4.1` | *5 days ago* |
+| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.4) | `v4.1.4` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.24) | `v0.5.24` | *2 days ago* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.22.0) | `v0.22.0` | *5 days ago* |
+| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.4) | `v2.1.4` | *5 days ago* |
+| [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.4.1) | `v3.4.1` | *6 days ago* |
 
 ---
 
