@@ -26,8 +26,8 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.25) | `v0.5.25` | *today* |
 | [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.4) | `v4.1.4` | *2 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.24) | `v0.5.24` | *3 days ago* |
 | [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.22.0) | `v0.22.0` | *6 days ago* |
 | [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.4) | `v2.1.4` | *6 days ago* |
 | [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker/releases/tag/v3.4.1) | `v3.4.1` | *1 week ago* |
