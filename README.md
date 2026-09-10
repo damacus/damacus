@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/rsyslog](https://github.com/sous-chefs/rsyslog/releases/tag/v12.1.0) | `v12.1.0` | *today* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.28) | `v0.5.28` | *1 day ago* |
 | [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.23.0) | `v0.23.0` | *2 days ago* |
 | [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.12.0) | `v0.12.0` | *2 days ago* |
 | [sous-chefs/etcd](https://github.com/sous-chefs/etcd/releases/tag/v12.0.0) | `v12.0.0` | *2 days ago* |
-| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.4) | `v4.1.4` | *6 days ago* |
 
 ---
 
