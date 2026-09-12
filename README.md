@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/rsyslog](https://github.com/sous-chefs/rsyslog/releases/tag/v12.1.0) | `v12.1.0` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.28) | `v0.5.28` | *2 days ago* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.23.0) | `v0.23.0` | *3 days ago* |
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.12.0) | `v0.12.0` | *3 days ago* |
-| [sous-chefs/etcd](https://github.com/sous-chefs/etcd/releases/tag/v12.0.0) | `v12.0.0` | *3 days ago* |
+| [sous-chefs/rsyslog](https://github.com/sous-chefs/rsyslog/releases/tag/v12.1.0) | `v12.1.0` | *2 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.28) | `v0.5.28` | *3 days ago* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.23.0) | `v0.23.0` | *4 days ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.12.0) | `v0.12.0` | *4 days ago* |
+| [sous-chefs/etcd](https://github.com/sous-chefs/etcd/releases/tag/v12.0.0) | `v12.0.0` | *4 days ago* |
 
 ---
 
@@ -42,7 +42,7 @@
 | [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *2 weeks ago* |
 | [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *1 month ago* |
 | [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *1 month ago* |
-| [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *1 month ago* |
+| [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *2 months ago* |
 
 ---
 
