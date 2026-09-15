@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/nginx](https://github.com/sous-chefs/nginx/releases/tag/v12.3.4) | `v12.3.4` | *today* |
-| [sous-chefs/rsyslog](https://github.com/sous-chefs/rsyslog/releases/tag/v12.1.0) | `v12.1.0` | *4 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.28) | `v0.5.28` | *5 days ago* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.23.0) | `v0.23.0` | *6 days ago* |
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.12.0) | `v0.12.0` | *6 days ago* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.1) | `9.0.1` | *today* |
+| [sous-chefs/nginx](https://github.com/sous-chefs/nginx/releases/tag/v12.3.4) | `v12.3.4` | *1 day ago* |
+| [sous-chefs/rsyslog](https://github.com/sous-chefs/rsyslog/releases/tag/v12.1.0) | `v12.1.0` | *5 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.28) | `v0.5.28` | *6 days ago* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.23.0) | `v0.23.0` | *1 week ago* |
 
 ---
 
