@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.6.0) | `v0.6.0` | *today* |
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.1) | `9.0.1` | *today* |
-| [sous-chefs/nginx](https://github.com/sous-chefs/nginx/releases/tag/v12.3.4) | `v12.3.4` | *1 day ago* |
-| [sous-chefs/rsyslog](https://github.com/sous-chefs/rsyslog/releases/tag/v12.1.0) | `v12.1.0` | *5 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.28) | `v0.5.28` | *6 days ago* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.6.0) | `v0.6.0` | *1 day ago* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.1) | `9.0.1` | *1 day ago* |
+| [sous-chefs/nginx](https://github.com/sous-chefs/nginx/releases/tag/v12.3.4) | `v12.3.4` | *2 days ago* |
+| [sous-chefs/rsyslog](https://github.com/sous-chefs/rsyslog/releases/tag/v12.1.0) | `v12.1.0` | *6 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.28) | `v0.5.28` | *1 week ago* |
 
 ---
 
