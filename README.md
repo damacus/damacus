@@ -26,10 +26,10 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.6.0) | `v0.6.0` | *1 day ago* |
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.1) | `9.0.1` | *1 day ago* |
-| [sous-chefs/nginx](https://github.com/sous-chefs/nginx/releases/tag/v12.3.4) | `v12.3.4` | *2 days ago* |
-| [sous-chefs/rsyslog](https://github.com/sous-chefs/rsyslog/releases/tag/v12.1.0) | `v12.1.0` | *6 days ago* |
+| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.6.0) | `v0.6.0` | *2 days ago* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.1) | `9.0.1` | *2 days ago* |
+| [sous-chefs/nginx](https://github.com/sous-chefs/nginx/releases/tag/v12.3.4) | `v12.3.4` | *3 days ago* |
+| [sous-chefs/rsyslog](https://github.com/sous-chefs/rsyslog/releases/tag/v12.1.0) | `v12.1.0` | *1 week ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.28) | `v0.5.28` | *1 week ago* |
 
 ---
@@ -39,7 +39,7 @@
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
 | [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *2 weeks ago* |
-| [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *2 weeks ago* |
+| [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *3 weeks ago* |
 | [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *1 month ago* |
 | [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *1 month ago* |
 | [**jamiedavenport/companies-house**](https://github.com/jamiedavenport/companies-house) | Fully typed TypeScript SDK for the Companies House Public Data API, generated from a corrected OpenAPI spec | *2 months ago* |
