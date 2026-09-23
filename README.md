@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.31) | `v0.5.31` | *3 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.32) | `v0.5.32` | *today* |
 | [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.6.0) | `v0.6.0` | *1 week ago* |
 | [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.1) | `9.0.1` | *1 week ago* |
 | [sous-chefs/nginx](https://github.com/sous-chefs/nginx/releases/tag/v12.3.4) | `v12.3.4` | *1 week ago* |
