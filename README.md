@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.24.0) | `v0.24.0` | *today* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.14.0) | `v0.14.0` | *today* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.25.0) | `v0.25.0` | *today* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.32) | `v0.5.32` | *1 day ago* |
 | [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.6.0) | `v0.6.0` | *1 week ago* |
 | [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.1) | `9.0.1` | *1 week ago* |
-| [sous-chefs/nginx](https://github.com/sous-chefs/nginx/releases/tag/v12.3.4) | `v12.3.4` | *1 week ago* |
 
 ---
 
