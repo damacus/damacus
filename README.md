@@ -14,11 +14,11 @@
 
 | Repository | Description |
 |:-----------|:------------|
+| [**damacus/growhat-rs**](https://github.com/damacus/growhat-rs) | Rust port of the Grow hat by Pimoroni |
 | [**damacus/sous-chefs-oss-stats**](https://github.com/damacus/sous-chefs-oss-stats) | Trial weekly GitHub health reports for Sous-Chefs projects |
 | [**damacus/skills**](https://github.com/damacus/skills) | Agent skills curated for my workflows |
 | [**damacus/mealie-cli**](https://github.com/damacus/mealie-cli) | A command line interface for Mealie |
 | [**damacus/adr-manager**](https://github.com/damacus/adr-manager) | WebUI for managing ADRs |
-| [**damacus/paperless-cli**](https://github.com/damacus/paperless-cli) | CLI for interacting with Paperless |
 
 ---
 
@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.14.0) | `v0.14.0` | *today* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.25.0) | `v0.25.0` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.32) | `v0.5.32` | *1 day ago* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.26.0) | `v0.26.0` | *1 day ago* |
+| [damacus/growhat-rs](https://github.com/damacus/growhat-rs/releases/tag/v0.1.0) | `v0.1.0` | *1 day ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.14.0) | `v0.14.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.32) | `v0.5.32` | *2 days ago* |
 | [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.6.0) | `v0.6.0` | *1 week ago* |
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.1) | `9.0.1` | *1 week ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *3 weeks ago* |
+| [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *4 weeks ago* |
 | [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *4 weeks ago* |
 | [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *1 month ago* |
 | [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *1 month ago* |
