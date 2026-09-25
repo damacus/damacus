@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.20) | `v0.1.20` | *today* |
 | [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.26.0) | `v0.26.0` | *1 day ago* |
 | [damacus/growhat-rs](https://github.com/damacus/growhat-rs/releases/tag/v0.1.0) | `v0.1.0` | *1 day ago* |
 | [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.14.0) | `v0.14.0` | *1 day ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.32) | `v0.5.32` | *2 days ago* |
-| [damacus/freeagent-cli](https://github.com/damacus/freeagent-cli/releases/tag/v0.6.0) | `v0.6.0` | *1 week ago* |
 
 ---
 
