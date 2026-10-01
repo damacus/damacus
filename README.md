@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.3.3) | `v4.3.3` | *3 days ago* |
-| [sous-chefs/openssh](https://github.com/sous-chefs/openssh/releases/tag/v3.1.0) | `v3.1.0` | *4 days ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.20) | `v0.1.20` | *5 days ago* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.26.0) | `v0.26.0` | *6 days ago* |
-| [damacus/growhat-rs](https://github.com/damacus/growhat-rs/releases/tag/v0.1.0) | `v0.1.0` | *6 days ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.0) | `v2.5.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.33) | `v0.5.33` | *1 day ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.3.3) | `v4.3.3` | *4 days ago* |
+| [sous-chefs/openssh](https://github.com/sous-chefs/openssh/releases/tag/v3.1.0) | `v3.1.0` | *5 days ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.20) | `v0.1.20` | *6 days ago* |
 
 ---
 
