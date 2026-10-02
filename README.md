@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.0) | `v2.5.0` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.33) | `v0.5.33` | *1 day ago* |
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v4.3.3) | `v4.3.3` | *4 days ago* |
-| [sous-chefs/openssh](https://github.com/sous-chefs/openssh/releases/tag/v3.1.0) | `v3.1.0` | *5 days ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.20) | `v0.1.20` | *6 days ago* |
+| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.3.0) | `unifi-release-announcer-v0.3.0` | *today* |
+| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.1) | `v9.1.1` | *1 day ago* |
+| [test-kitchen/kitchen-ec2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.23.1) | `v3.23.1` | *1 day ago* |
+| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.25.0) | `v2.25.0` | *1 day ago* |
+| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.5) | `v4.1.5` | *1 day ago* |
 
 ---
 
