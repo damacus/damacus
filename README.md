@@ -14,11 +14,11 @@
 
 | Repository | Description |
 |:-----------|:------------|
+| [**damacus/k8s-sidecar-rs**](https://github.com/damacus/k8s-sidecar-rs) | *—* |
 | [**damacus/growhat-rs**](https://github.com/damacus/growhat-rs) | Rust port of the Grow hat by Pimoroni |
 | [**damacus/sous-chefs-oss-stats**](https://github.com/damacus/sous-chefs-oss-stats) | Trial weekly GitHub health reports for Sous-Chefs projects |
 | [**damacus/skills**](https://github.com/damacus/skills) | Agent skills curated for my workflows |
 | [**damacus/mealie-cli**](https://github.com/damacus/mealie-cli) | A command line interface for Mealie |
-| [**damacus/adr-manager**](https://github.com/damacus/adr-manager) | WebUI for managing ADRs |
 
 ---
 
@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/k8s-sidecar-rs](https://github.com/damacus/k8s-sidecar-rs/releases/tag/k8s-sidecar-rs-v0.1.0) | `k8s-sidecar-rs-v0.1.0` | *today* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.3.0) | `unifi-release-announcer-v0.3.0` | *today* |
 | [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.1) | `v9.1.1` | *1 day ago* |
 | [test-kitchen/kitchen-ec2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.23.1) | `v3.23.1` | *1 day ago* |
 | [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.25.0) | `v2.25.0` | *1 day ago* |
-| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.1.5) | `v4.1.5` | *1 day ago* |
 
 ---
 
