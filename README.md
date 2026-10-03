@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/k8s-sidecar-rs](https://github.com/damacus/k8s-sidecar-rs/releases/tag/k8s-sidecar-rs-v0.1.0) | `k8s-sidecar-rs-v0.1.0` | *today* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.3.0) | `unifi-release-announcer-v0.3.0` | *today* |
-| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.1) | `v9.1.1` | *1 day ago* |
-| [test-kitchen/kitchen-ec2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.23.1) | `v3.23.1` | *1 day ago* |
-| [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken/releases/tag/v2.25.0) | `v2.25.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.35) | `v0.5.35` | *1 day ago* |
+| [damacus/k8s-sidecar-rs](https://github.com/damacus/k8s-sidecar-rs/releases/tag/v0.2.1) | `v0.2.1` | *1 day ago* |
+| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.3.0) | `unifi-release-announcer-v0.3.0` | *1 day ago* |
+| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.1) | `v9.1.1` | *2 days ago* |
+| [test-kitchen/kitchen-ec2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.23.1) | `v3.23.1` | *2 days ago* |
 
 ---
 
