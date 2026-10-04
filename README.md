@@ -14,11 +14,11 @@
 
 | Repository | Description |
 |:-----------|:------------|
+| [**damacus/loom-ui**](https://github.com/damacus/loom-ui) | Reusable Leptos UI components built on Leptix primitives |
 | [**damacus/k8s-sidecar-rs**](https://github.com/damacus/k8s-sidecar-rs) | *—* |
 | [**damacus/growhat-rs**](https://github.com/damacus/growhat-rs) | Rust port of the Grow hat by Pimoroni |
 | [**damacus/sous-chefs-oss-stats**](https://github.com/damacus/sous-chefs-oss-stats) | Trial weekly GitHub health reports for Sous-Chefs projects |
 | [**damacus/skills**](https://github.com/damacus/skills) | Agent skills curated for my workflows |
-| [**damacus/mealie-cli**](https://github.com/damacus/mealie-cli) | A command line interface for Mealie |
 
 ---
 
