@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/k8s-sidecar-rs](https://github.com/damacus/k8s-sidecar-rs/releases/tag/v0.2.4) | `v0.2.4` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.35) | `v0.5.35` | *2 days ago* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.3.0) | `unifi-release-announcer-v0.3.0` | *2 days ago* |
-| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.1) | `v9.1.1` | *3 days ago* |
-| [test-kitchen/kitchen-ec2](https://github.com/test-kitchen/kitchen-ec2/releases/tag/v3.23.1) | `v3.23.1` | *3 days ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.15.0) | `v0.15.0` | *1 day ago* |
+| [damacus/k8s-sidecar-rs](https://github.com/damacus/k8s-sidecar-rs/releases/tag/v0.2.4) | `v0.2.4` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.35) | `v0.5.35` | *3 days ago* |
+| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.3.0) | `unifi-release-announcer-v0.3.0` | *3 days ago* |
+| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.1.1) | `v9.1.1` | *4 days ago* |
 
 ---
 
