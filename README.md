@@ -26,9 +26,9 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/k8s-sideca-rs](https://github.com/damacus/k8s-sideca-rs/releases/tag/v0.2.5) | `v0.2.5` | *today* |
 | [damacus/k8s-reflecto-rs](https://github.com/damacus/k8s-reflecto-rs/releases/tag/v0.1.5) | `v0.1.5` | *2 days ago* |
 | [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.15.0) | `v0.15.0` | *3 days ago* |
-| [damacus/k8s-sideca-rs](https://github.com/damacus/k8s-sideca-rs/releases/tag/v0.2.4) | `v0.2.4` | *3 days ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.35) | `v0.5.35` | *5 days ago* |
 | [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.3.0) | `unifi-release-announcer-v0.3.0` | *5 days ago* |
 
