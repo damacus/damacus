@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/k8s-sideca-rs](https://github.com/damacus/k8s-sideca-rs/releases/tag/v0.2.5) | `v0.2.5` | *today* |
-| [damacus/k8s-reflecto-rs](https://github.com/damacus/k8s-reflecto-rs/releases/tag/v0.1.5) | `v0.1.5` | *2 days ago* |
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.15.0) | `v0.15.0` | *3 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.35) | `v0.5.35` | *5 days ago* |
-| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.3.0) | `unifi-release-announcer-v0.3.0` | *5 days ago* |
+| [damacus/k8s-sideca-rs](https://github.com/damacus/k8s-sideca-rs/releases/tag/v0.2.5) | `v0.2.5` | *1 day ago* |
+| [damacus/k8s-reflecto-rs](https://github.com/damacus/k8s-reflecto-rs/releases/tag/v0.1.5) | `v0.1.5` | *3 days ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.15.0) | `v0.15.0` | *4 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.35) | `v0.5.35` | *6 days ago* |
+| [damacus/unifi-release-announcer](https://github.com/damacus/unifi-release-announcer/releases/tag/unifi-release-announcer-v0.3.0) | `unifi-release-announcer-v0.3.0` | *6 days ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**perfectra1n/fjo**](https://github.com/perfectra1n/fjo) | A CLI for interacting with Forgejo that feels like `gh`, and implements all endpoints. | *2 days ago* |
+| [**perfectra1n/fjo**](https://github.com/perfectra1n/fjo) | A CLI for interacting with Forgejo that feels like `gh`, and implements all endpoints. | *3 days ago* |
 | [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *1 month ago* |
 | [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *1 month ago* |
 | [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *1 month ago* |
