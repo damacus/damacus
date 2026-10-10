@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [sous-chefs/apparmor](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.1) | `apparmor-v5.0.1` | *today* |
 | [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.26.1) | `v0.26.1` | *2 days ago* |
 | [damacus/k8s-sideca-rs](https://github.com/damacus/k8s-sideca-rs/releases/tag/v0.2.5) | `v0.2.5` | *3 days ago* |
 | [damacus/k8s-reflecto-rs](https://github.com/damacus/k8s-reflecto-rs/releases/tag/v0.1.5) | `v0.1.5` | *5 days ago* |
 | [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.15.0) | `v0.15.0` | *6 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.5.35) | `v0.5.35` | *1 week ago* |
 
 ---
 
