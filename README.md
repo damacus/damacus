@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/apparmor](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.1) | `apparmor-v5.0.1` | *today* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.26.1) | `v0.26.1` | *2 days ago* |
-| [damacus/k8s-sideca-rs](https://github.com/damacus/k8s-sideca-rs/releases/tag/v0.2.5) | `v0.2.5` | *3 days ago* |
-| [damacus/k8s-reflecto-rs](https://github.com/damacus/k8s-reflecto-rs/releases/tag/v0.1.5) | `v0.1.5` | *5 days ago* |
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.15.0) | `v0.15.0` | *6 days ago* |
+| [sous-chefs/apparmor](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.1) | `apparmor-v5.0.1` | *1 day ago* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.26.1) | `v0.26.1` | *3 days ago* |
+| [damacus/k8s-sideca-rs](https://github.com/damacus/k8s-sideca-rs/releases/tag/v0.2.5) | `v0.2.5` | *4 days ago* |
+| [damacus/k8s-reflecto-rs](https://github.com/damacus/k8s-reflecto-rs/releases/tag/v0.1.5) | `v0.1.5` | *6 days ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.15.0) | `v0.15.0` | *1 week ago* |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**perfectra1n/fjo**](https://github.com/perfectra1n/fjo) | A CLI for interacting with Forgejo that feels like `gh`, and implements all endpoints. | *5 days ago* |
+| [**perfectra1n/fjo**](https://github.com/perfectra1n/fjo) | A CLI for interacting with Forgejo that feels like `gh`, and implements all endpoints. | *6 days ago* |
 | [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *1 month ago* |
 | [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *1 month ago* |
 | [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *2 months ago* |
