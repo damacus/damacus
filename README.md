@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.17.0) | `v0.17.0` | *today* |
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v5.0.1) | `v5.0.1` | *2 days ago* |
-| [sous-chefs/apparmor](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.1) | `apparmor-v5.0.1` | *3 days ago* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.26.1) | `v0.26.1` | *5 days ago* |
-| [damacus/k8s-sideca-rs](https://github.com/damacus/k8s-sideca-rs/releases/tag/v0.2.5) | `v0.2.5` | *6 days ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.17.0) | `v0.17.0` | *1 day ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v5.0.1) | `v5.0.1` | *3 days ago* |
+| [sous-chefs/apparmor](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.1) | `apparmor-v5.0.1` | *4 days ago* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.26.1) | `v0.26.1` | *6 days ago* |
+| [damacus/k8s-sideca-rs](https://github.com/damacus/k8s-sideca-rs/releases/tag/v0.2.5) | `v0.2.5` | *1 week ago* |
 
 ---
 
