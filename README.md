@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.17.0) | `v0.17.0` | *5 days ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.17.0) | `v0.17.0` | *6 days ago* |
 | [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v5.0.1) | `v5.0.1` | *1 week ago* |
 | [sous-chefs/apparmor](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.1) | `apparmor-v5.0.1` | *1 week ago* |
 | [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.26.1) | `v0.26.1` | *1 week ago* |
@@ -38,7 +38,7 @@
 
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
-| [**perfectra1n/fjo**](https://github.com/perfectra1n/fjo) | A CLI for interacting with Forgejo that feels like `gh`, and implements all endpoints. | *1 week ago* |
+| [**perfectra1n/fjo**](https://github.com/perfectra1n/fjo) | A CLI for interacting with Forgejo that feels like `gh`, and implements all endpoints. | *2 weeks ago* |
 | [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *1 month ago* |
 | [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *1 month ago* |
 | [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *2 months ago* |
