@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.2.0) | `v9.2.0` | *1 day ago* |
+| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.2.0) | `v9.2.0` | *2 days ago* |
 | [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.17.0) | `v0.17.0` | *1 week ago* |
 | [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v5.0.1) | `v5.0.1` | *1 week ago* |
 | [sous-chefs/apparmor](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.1) | `apparmor-v5.0.1` | *1 week ago* |
