@@ -26,9 +26,9 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v5.0.2) | `v5.0.2` | *2 days ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.21) | `v0.1.21` | *3 days ago* |
-| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.2.0) | `v9.2.0` | *5 days ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v5.0.2) | `v5.0.2` | *3 days ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.21) | `v0.1.21` | *4 days ago* |
+| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.2.0) | `v9.2.0` | *6 days ago* |
 | [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.17.0) | `v0.17.0` | *1 week ago* |
 | [sous-chefs/apparmor](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.1) | `apparmor-v5.0.1` | *2 weeks ago* |
 
