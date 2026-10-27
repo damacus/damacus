@@ -26,10 +26,10 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v5.0.2) | `v5.0.2` | *4 days ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.21) | `v0.1.21` | *5 days ago* |
+| [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v5.0.2) | `v5.0.2` | *5 days ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.21) | `v0.1.21` | *6 days ago* |
 | [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.2.0) | `v9.2.0` | *1 week ago* |
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.17.0) | `v0.17.0` | *1 week ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.17.0) | `v0.17.0` | *2 weeks ago* |
 | [sous-chefs/apparmor](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.1) | `apparmor-v5.0.1` | *2 weeks ago* |
 
 ---
@@ -39,7 +39,7 @@
 | Repository | Description | Starred |
 |:-----------|:------------|--------:|
 | [**perfectra1n/fjo**](https://github.com/perfectra1n/fjo) | A CLI for interacting with Forgejo that feels like `gh`, and implements all endpoints. | *3 weeks ago* |
-| [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *1 month ago* |
+| [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *2 months ago* |
 | [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *2 months ago* |
 | [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *2 months ago* |
 | [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *3 months ago* |
