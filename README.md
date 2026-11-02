@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.5) | `v0.1.5` | *today* |
 | [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.22) | `v0.1.22` | *5 days ago* |
 | [sous-chefs/cinc-omnibus](https://github.com/sous-chefs/cinc-omnibus/releases/tag/v5.0.2) | `v5.0.2` | *1 week ago* |
 | [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.2.0) | `v9.2.0` | *2 weeks ago* |
 | [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.17.0) | `v0.17.0` | *2 weeks ago* |
-| [sous-chefs/apparmor](https://github.com/sous-chefs/apparmor/releases/tag/apparmor-v5.0.1) | `apparmor-v5.0.1` | *3 weeks ago* |
 
 ---
 
