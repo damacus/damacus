@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [loco-rs/loco](https://github.com/loco-rs/loco/releases/tag/v1.3.0) | `v1.3.0` | *1 day ago* |
+| [loco-rs/loco](https://github.com/loco-rs/loco/releases/tag/v1.3.1) | `v1.3.1` | *today* |
 | [damacus/skills](https://github.com/damacus/skills/releases/tag/v0.2.0) | `v0.2.0` | *2 days ago* |
 | [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.18.0) | `v0.18.0` | *2 days ago* |
 | [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.27.0) | `v0.27.0` | *2 days ago* |
