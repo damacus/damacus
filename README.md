@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.1) | `v2.5.1` | *1 day ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.2) | `v2.5.2` | *today* |
 | [loco-rs/loco](https://github.com/loco-rs/loco/releases/tag/v1.3.1) | `v1.3.1` | *1 day ago* |
 | [damacus/skills](https://github.com/damacus/skills/releases/tag/v0.2.0) | `v0.2.0` | *3 days ago* |
 | [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.18.0) | `v0.18.0` | *3 days ago* |
