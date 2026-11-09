@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.2) | `v2.5.2` | *1 day ago* |
-| [loco-rs/loco](https://github.com/loco-rs/loco/releases/tag/v1.3.1) | `v1.3.1` | *2 days ago* |
-| [damacus/skills](https://github.com/damacus/skills/releases/tag/v0.2.0) | `v0.2.0` | *4 days ago* |
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.18.0) | `v0.18.0` | *4 days ago* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.27.0) | `v0.27.0` | *4 days ago* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.27.1) | `v0.27.1` | *today* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.2) | `v2.5.2` | *2 days ago* |
+| [loco-rs/loco](https://github.com/loco-rs/loco/releases/tag/v1.3.1) | `v1.3.1` | *3 days ago* |
+| [damacus/skills](https://github.com/damacus/skills/releases/tag/v0.2.0) | `v0.2.0` | *5 days ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.18.0) | `v0.18.0` | *5 days ago* |
 
 ---
 
