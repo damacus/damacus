@@ -14,11 +14,11 @@
 
 | Repository | Description |
 |:-----------|:------------|
+| [**damacus/release-mirror**](https://github.com/damacus/release-mirror) | A simple JSON endpoint for publishing internal Docker container versions and pointers so that Renovate can update private registries |
 | [**damacus/k8s-reflecto-rs**](https://github.com/damacus/k8s-reflecto-rs) | *—* |
 | [**damacus/loom-ui**](https://github.com/damacus/loom-ui) | Reusable Leptos UI components built on Leptix primitives |
 | [**damacus/k8s-sideca-rs**](https://github.com/damacus/k8s-sideca-rs) | *—* |
 | [**damacus/growhat-rs**](https://github.com/damacus/growhat-rs) | Rust port of the Grow hat by Pimoroni |
-| [**damacus/sous-chefs-oss-stats**](https://github.com/damacus/sous-chefs-oss-stats) | Trial weekly GitHub health reports for Sous-Chefs projects |
 
 ---
 
@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.27.1) | `v0.27.1` | *today* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.2) | `v2.5.2` | *2 days ago* |
-| [loco-rs/loco](https://github.com/loco-rs/loco/releases/tag/v1.3.1) | `v1.3.1` | *3 days ago* |
-| [damacus/skills](https://github.com/damacus/skills/releases/tag/v0.2.0) | `v0.2.0` | *5 days ago* |
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.18.0) | `v0.18.0` | *5 days ago* |
+| [damacus/release-mirror](https://github.com/damacus/release-mirror/releases/tag/v0.1.1) | `v0.1.1` | *1 day ago* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.28.0) | `v0.28.0` | *1 day ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.2) | `v2.5.2` | *3 days ago* |
+| [loco-rs/loco](https://github.com/loco-rs/loco/releases/tag/v1.3.1) | `v1.3.1` | *4 days ago* |
+| [damacus/skills](https://github.com/damacus/skills/releases/tag/v0.2.0) | `v0.2.0` | *6 days ago* |
 
 ---
 
