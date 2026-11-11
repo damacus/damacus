@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.2) | `v0.6.2` | *today* |
-| [damacus/release-mirror](https://github.com/damacus/release-mirror/releases/tag/v0.1.1) | `v0.1.1` | *2 days ago* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.28.0) | `v0.28.0` | *2 days ago* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.2) | `v2.5.2` | *4 days ago* |
-| [loco-rs/loco](https://github.com/loco-rs/loco/releases/tag/v1.3.1) | `v1.3.1` | *5 days ago* |
+| [sous-chefs/resharper](https://github.com/sous-chefs/resharper/releases/tag/v3.1.0) | `v3.1.0` | *today* |
+| [sous-chefs/bot-trainer](https://github.com/sous-chefs/bot-trainer/releases/tag/v0.1.10) | `v0.1.10` | *today* |
+| [sous-chefs/chef_auto_accumulator](https://github.com/sous-chefs/chef_auto_accumulator/releases/tag/v0.7.3) | `v0.7.3` | *today* |
+| [sous-chefs/passenger_apache2](https://github.com/sous-chefs/passenger_apache2/releases/tag/v4.0.17) | `v4.0.17` | *today* |
+| [sous-chefs/iis_urlrewrite](https://github.com/sous-chefs/iis_urlrewrite/releases/tag/v3.0.5) | `v3.0.5` | *today* |
 
 ---
 
