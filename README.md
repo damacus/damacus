@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.1) | `v0.6.1` | *today* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.2) | `v0.6.2` | *today* |
 | [damacus/release-mirror](https://github.com/damacus/release-mirror/releases/tag/v0.1.1) | `v0.1.1` | *2 days ago* |
 | [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.28.0) | `v0.28.0` | *2 days ago* |
 | [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.2) | `v2.5.2` | *4 days ago* |
