@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.0) | `v0.6.0` | *today* |
-| [damacus/release-mirror](https://github.com/damacus/release-mirror/releases/tag/v0.1.1) | `v0.1.1` | *1 day ago* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.28.0) | `v0.28.0` | *1 day ago* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.2) | `v2.5.2` | *3 days ago* |
-| [loco-rs/loco](https://github.com/loco-rs/loco/releases/tag/v1.3.1) | `v1.3.1` | *4 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.1) | `v0.6.1` | *today* |
+| [damacus/release-mirror](https://github.com/damacus/release-mirror/releases/tag/v0.1.1) | `v0.1.1` | *2 days ago* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.28.0) | `v0.28.0` | *2 days ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.5.2) | `v2.5.2` | *4 days ago* |
+| [loco-rs/loco](https://github.com/loco-rs/loco/releases/tag/v1.3.1) | `v1.3.1` | *5 days ago* |
 
 ---
 
