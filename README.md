@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/resharper](https://github.com/sous-chefs/resharper/releases/tag/v3.1.0) | `v3.1.0` | *today* |
-| [sous-chefs/bot-trainer](https://github.com/sous-chefs/bot-trainer/releases/tag/v0.1.10) | `v0.1.10` | *today* |
-| [sous-chefs/chef_auto_accumulator](https://github.com/sous-chefs/chef_auto_accumulator/releases/tag/v0.7.3) | `v0.7.3` | *today* |
-| [sous-chefs/passenger_apache2](https://github.com/sous-chefs/passenger_apache2/releases/tag/v4.0.17) | `v4.0.17` | *today* |
-| [sous-chefs/iis_urlrewrite](https://github.com/sous-chefs/iis_urlrewrite/releases/tag/v3.0.5) | `v3.0.5` | *today* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.20.2) | `v0.20.2` | *today* |
+| [sous-chefs/resharper](https://github.com/sous-chefs/resharper/releases/tag/v3.1.0) | `v3.1.0` | *1 day ago* |
+| [sous-chefs/bot-trainer](https://github.com/sous-chefs/bot-trainer/releases/tag/v0.1.10) | `v0.1.10` | *1 day ago* |
+| [sous-chefs/chef_auto_accumulator](https://github.com/sous-chefs/chef_auto_accumulator/releases/tag/v0.7.3) | `v0.7.3` | *1 day ago* |
+| [sous-chefs/passenger_apache2](https://github.com/sous-chefs/passenger_apache2/releases/tag/v4.0.17) | `v4.0.17` | *1 day ago* |
 
 ---
 
