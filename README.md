@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.20.2) | `v0.20.2` | *today* |
-| [sous-chefs/resharper](https://github.com/sous-chefs/resharper/releases/tag/v3.1.0) | `v3.1.0` | *1 day ago* |
-| [sous-chefs/bot-trainer](https://github.com/sous-chefs/bot-trainer/releases/tag/v0.1.10) | `v0.1.10` | *1 day ago* |
-| [sous-chefs/chef_auto_accumulator](https://github.com/sous-chefs/chef_auto_accumulator/releases/tag/v0.7.3) | `v0.7.3` | *1 day ago* |
-| [sous-chefs/passenger_apache2](https://github.com/sous-chefs/passenger_apache2/releases/tag/v4.0.17) | `v4.0.17` | *1 day ago* |
+| [sous-chefs/windows_ad](https://github.com/sous-chefs/windows_ad/releases/tag/v1.0.0) | `v1.0.0` | *today* |
+| [sous-chefs/selinux](https://github.com/sous-chefs/selinux/releases/tag/v7.0.0) | `v7.0.0` | *today* |
+| [sous-chefs/vcruntime](https://github.com/sous-chefs/vcruntime/releases/tag/v3.0.0) | `v3.0.0` | *today* |
+| [sous-chefs/windows_print](https://github.com/sous-chefs/windows_print/releases/tag/v3.0.0) | `v3.0.0` | *today* |
+| [sous-chefs/snort](https://github.com/sous-chefs/snort/releases/tag/v6.0.0) | `v6.0.0` | *today* |
 
 ---
 
