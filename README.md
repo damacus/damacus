@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/windows_ad](https://github.com/sous-chefs/windows_ad/releases/tag/v1.0.0) | `v1.0.0` | *today* |
-| [sous-chefs/selinux](https://github.com/sous-chefs/selinux/releases/tag/v7.0.0) | `v7.0.0` | *today* |
-| [sous-chefs/vcruntime](https://github.com/sous-chefs/vcruntime/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [sous-chefs/windows_print](https://github.com/sous-chefs/windows_print/releases/tag/v3.0.0) | `v3.0.0` | *today* |
-| [sous-chefs/snort](https://github.com/sous-chefs/snort/releases/tag/v6.0.0) | `v6.0.0` | *today* |
+| [sous-chefs/windows_ad](https://github.com/sous-chefs/windows_ad/releases/tag/v1.0.0) | `v1.0.0` | *1 day ago* |
+| [sous-chefs/selinux](https://github.com/sous-chefs/selinux/releases/tag/v7.0.0) | `v7.0.0` | *1 day ago* |
+| [sous-chefs/vcruntime](https://github.com/sous-chefs/vcruntime/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
+| [sous-chefs/windows_print](https://github.com/sous-chefs/windows_print/releases/tag/v3.0.0) | `v3.0.0` | *1 day ago* |
+| [sous-chefs/snort](https://github.com/sous-chefs/snort/releases/tag/v6.0.0) | `v6.0.0` | *1 day ago* |
 
 ---
 
