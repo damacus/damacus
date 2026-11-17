@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.7) | `v0.6.7` | *2 days ago* |
-| [sous-chefs/php](https://github.com/sous-chefs/php/releases/tag/v11.0.0) | `v11.0.0` | *3 days ago* |
-| [sous-chefs/windows_ad](https://github.com/sous-chefs/windows_ad/releases/tag/v1.0.0) | `v1.0.0` | *4 days ago* |
-| [sous-chefs/selinux](https://github.com/sous-chefs/selinux/releases/tag/v7.0.0) | `v7.0.0` | *4 days ago* |
-| [sous-chefs/vcruntime](https://github.com/sous-chefs/vcruntime/releases/tag/v3.0.0) | `v3.0.0` | *4 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.8) | `v0.6.8` | *1 day ago* |
+| [sous-chefs/php](https://github.com/sous-chefs/php/releases/tag/v11.0.0) | `v11.0.0` | *4 days ago* |
+| [sous-chefs/windows_ad](https://github.com/sous-chefs/windows_ad/releases/tag/v1.0.0) | `v1.0.0` | *5 days ago* |
+| [sous-chefs/selinux](https://github.com/sous-chefs/selinux/releases/tag/v7.0.0) | `v7.0.0` | *5 days ago* |
+| [sous-chefs/vcruntime](https://github.com/sous-chefs/vcruntime/releases/tag/v3.0.0) | `v3.0.0` | *5 days ago* |
 
 ---
 
