@@ -26,9 +26,9 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.3.0) | `v9.3.0` | *today* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.10) | `v0.6.10` | *2 days ago* |
-| [sous-chefs/php](https://github.com/sous-chefs/php/releases/tag/v11.0.0) | `v11.0.0` | *6 days ago* |
+| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.3.0) | `v9.3.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.10) | `v0.6.10` | *3 days ago* |
+| [sous-chefs/php](https://github.com/sous-chefs/php/releases/tag/v11.0.0) | `v11.0.0` | *1 week ago* |
 | [sous-chefs/windows_ad](https://github.com/sous-chefs/windows_ad/releases/tag/v1.0.0) | `v1.0.0` | *1 week ago* |
 | [sous-chefs/selinux](https://github.com/sous-chefs/selinux/releases/tag/v7.0.0) | `v7.0.0` | *1 week ago* |
 
