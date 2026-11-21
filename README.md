@@ -26,7 +26,7 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.20.3) | `v0.20.3` | *1 day ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.21.0) | `v0.21.0` | *today* |
 | [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.28.1) | `v0.28.1` | *1 day ago* |
 | [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.3.0) | `v9.3.0` | *2 days ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.10) | `v0.6.10` | *4 days ago* |
