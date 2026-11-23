@@ -26,10 +26,10 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.11) | `v0.6.11` | *today* |
 | [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.22.0) | `v0.22.0` | *today* |
 | [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.28.1) | `v0.28.1` | *3 days ago* |
 | [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.3.0) | `v9.3.0` | *4 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.10) | `v0.6.10` | *6 days ago* |
 | [sous-chefs/php](https://github.com/sous-chefs/php/releases/tag/v11.0.0) | `v11.0.0` | *1 week ago* |
 
 ---
