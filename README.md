@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.11) | `v0.6.11` | *today* |
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.22.0) | `v0.22.0` | *today* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.28.1) | `v0.28.1` | *3 days ago* |
-| [sous-chefs/yum-remi-chef](https://github.com/sous-chefs/yum-remi-chef/releases/tag/v9.3.0) | `v9.3.0` | *4 days ago* |
-| [sous-chefs/php](https://github.com/sous-chefs/php/releases/tag/v11.0.0) | `v11.0.0` | *1 week ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.23) | `v0.1.23` | *1 day ago* |
+| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.5) | `v2.1.5` | *1 day ago* |
+| [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.6) | `v0.1.6` | *1 day ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.6.0) | `v2.6.0` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.11) | `v0.6.11` | *1 day ago* |
 
 ---
 
