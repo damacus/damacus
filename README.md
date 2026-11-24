@@ -26,8 +26,8 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
+| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.6) | `v2.1.6` | *today* |
 | [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.23) | `v0.1.23` | *1 day ago* |
-| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.5) | `v2.1.5` | *1 day ago* |
 | [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.6) | `v0.1.6` | *1 day ago* |
 | [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.6.0) | `v2.6.0` | *1 day ago* |
 | [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.11) | `v0.6.11` | *1 day ago* |
