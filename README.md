@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.6) | `v2.1.6` | *today* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.23) | `v0.1.23` | *1 day ago* |
-| [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.6) | `v0.1.6` | *1 day ago* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.6.0) | `v2.6.0` | *1 day ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.11) | `v0.6.11` | *1 day ago* |
+| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.6) | `v2.1.6` | *1 day ago* |
+| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.23) | `v0.1.23` | *2 days ago* |
+| [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.6) | `v0.1.6` | *2 days ago* |
+| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.6.0) | `v2.6.0` | *2 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.11) | `v0.6.11` | *2 days ago* |
 
 ---
 
@@ -40,9 +40,9 @@
 |:-----------|:------------|--------:|
 | [**perfectra1n/fjo**](https://github.com/perfectra1n/fjo) | A CLI for interacting with Forgejo that feels like `gh`, and implements all endpoints. | *1 month ago* |
 | [**eleboucher/memini**](https://github.com/eleboucher/memini) | Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector &#43; keyword retrieval. Single Go binary, SQLite or Postgres, embedded admin UI. | *2 months ago* |
-| [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *2 months ago* |
+| [**MadBomber/asgard**](https://github.com/MadBomber/asgard) | A Ruby-based task runner for any project, any language.  Its built on the might Thor ruby library. Projects define tasks in a .loki file.  Task dependency is tracked and tasks can run concurrently. | *3 months ago* |
 | [**jamiedavenport/capd**](https://github.com/jamiedavenport/capd) | Private, native macOS app to capture pages, text, notes, links, and images—and find them instantly with full-text search and OCR. Open source; no account or telemetry. | *3 months ago* |
-| [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *3 months ago* |
+| [**AdamMusa/ruflet_studio**](https://github.com/AdamMusa/ruflet_studio) | this is a ruflet-studio to show case a ruflet what it can do  | *4 months ago* |
 
 ---
 
