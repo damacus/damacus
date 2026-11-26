@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/paperless-cli](https://github.com/damacus/paperless-cli/releases/tag/v2.1.6) | `v2.1.6` | *2 days ago* |
-| [damacus/gitlab-runner-tui](https://github.com/damacus/gitlab-runner-tui/releases/tag/v0.1.23) | `v0.1.23` | *3 days ago* |
-| [damacus/mealie-cli](https://github.com/damacus/mealie-cli/releases/tag/v0.1.6) | `v0.1.6` | *3 days ago* |
-| [damacus/robovac](https://github.com/damacus/robovac/releases/tag/v2.6.0) | `v2.6.0` | *3 days ago* |
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.11) | `v0.6.11` | *3 days ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.13) | `v0.6.13` | *today* |
+| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.2.1) | `v4.2.1` | *today* |
+| [sous-chefs/windows_ad](https://github.com/sous-chefs/windows_ad/releases/tag/v1.0.1) | `v1.0.1` | *today* |
+| [sous-chefs/pyenv](https://github.com/sous-chefs/pyenv/releases/tag/v5.0.1) | `v5.0.1` | *today* |
+| [sous-chefs/aws](https://github.com/sous-chefs/aws/releases/tag/v10.1.0) | `v10.1.0` | *today* |
 
 ---
 
