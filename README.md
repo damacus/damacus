@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.13) | `v0.6.13` | *today* |
-| [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen/releases/tag/v4.2.1) | `v4.2.1` | *today* |
-| [sous-chefs/windows_ad](https://github.com/sous-chefs/windows_ad/releases/tag/v1.0.1) | `v1.0.1` | *today* |
-| [sous-chefs/pyenv](https://github.com/sous-chefs/pyenv/releases/tag/v5.0.1) | `v5.0.1` | *today* |
-| [sous-chefs/aws](https://github.com/sous-chefs/aws/releases/tag/v10.1.0) | `v10.1.0` | *today* |
+| [sous-chefs/djbdns](https://github.com/sous-chefs/djbdns/releases/tag/v6.0.0) | `v6.0.0` | *1 day ago* |
+| [test-kitchen/kitchen-parallels](https://github.com/test-kitchen/kitchen-parallels/releases/tag/v0.1.0) | `v0.1.0` | *1 day ago* |
+| [test-kitchen/kitchen-virtualbox](https://github.com/test-kitchen/kitchen-virtualbox/releases/tag/v0.1.0) | `v0.1.0` | *1 day ago* |
+| [actionshub/publish-gem-to-rubygems](https://github.com/actionshub/publish-gem-to-rubygems/releases/tag/v2.0.7) | `v2.0.7` | *1 day ago* |
+| [damacus/med-tracker](https://github.com/damacus/med-tracker/releases/tag/v0.6.13) | `v0.6.13` | *1 day ago* |
 
 ---
 
