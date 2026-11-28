@@ -26,11 +26,11 @@
 
 | Project | Release | When |
 |:--------|:-------:|-----:|
-| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.2) | `9.0.2` | *today* |
-| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.23.0) | `v0.23.0` | *today* |
-| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.29.0) | `v0.29.0` | *today* |
-| [sous-chefs/djbdns](https://github.com/sous-chefs/djbdns/releases/tag/v6.0.0) | `v6.0.0` | *1 day ago* |
-| [test-kitchen/kitchen-parallels](https://github.com/test-kitchen/kitchen-parallels/releases/tag/v0.1.0) | `v0.1.0` | *1 day ago* |
+| [cinc-project/cinc-server-ng](https://github.com/cinc-project/cinc-server-ng/releases/tag/v0.23.1) | `v0.23.1` | *1 day ago* |
+| [cinc-project/cinc-cli](https://github.com/cinc-project/cinc-cli/releases/tag/v0.30.0) | `v0.30.0` | *1 day ago* |
+| [sous-chefs/.github](https://github.com/sous-chefs/.github/releases/tag/9.0.2) | `9.0.2` | *1 day ago* |
+| [sous-chefs/djbdns](https://github.com/sous-chefs/djbdns/releases/tag/v6.0.0) | `v6.0.0` | *2 days ago* |
+| [test-kitchen/kitchen-parallels](https://github.com/test-kitchen/kitchen-parallels/releases/tag/v0.1.0) | `v0.1.0` | *2 days ago* |
 
 ---
 
